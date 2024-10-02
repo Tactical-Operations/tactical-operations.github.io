@@ -2,5 +2,7 @@ title: TacOps
 description: Tactical-Operations mit allen Infos zum Event!
 repo:
 
-remote_theme: andreondra/jekyll-theme-simplex
+#remote_theme: andreondra/jekyll-theme-simplex
+remote_theme: LeNPaul/academic
+
 show_downloads: false
