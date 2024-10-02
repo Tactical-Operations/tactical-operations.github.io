@@ -1,5 +1,6 @@
 title: TacOps
 description: Tactical-Operations mit allen Infos zum Event!
+repo:
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-simplex
 show_downloads: false
