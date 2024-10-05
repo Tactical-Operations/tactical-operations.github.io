@@ -1,35 +1,39 @@
 ---
 layout: default
 title: TacOps - Wichtiges im Überblick
-description: TacOps#2 Operation Superalpha
+description: TacOps 2 Operation Superalpha
 ---
 
-# TacOps 2 Operation Superalpha - Wichtiges im Überblick 
+# Wichtiges im Überblick
 
-**Ansprechpartner:** [Discord [TacOps] Bele](https://discordapp.com/users/chibi_mochizuki/)
+### Ansprechpartner: [Bele](https://discordapp.com/users/chibi_mochizuki/)
 
-**Szenario:**   
-**Gespielte Fraktion:** USMC (Zeitraum um 2020\)
+## Szenario   
+Zeitraum um 2020  
+**Gespielte Fraktion:** USMC  
+**Feindliche Fraktion:** CSAT  
 
-#### Evaluationsevent
-**Wann:** 21.12.2024  
-#### Hauptevent
+
+## Evaluationsevent
+**Wann:** 21.12.2024
+* **Jeder** kann sich anmelden siehe [Anmeldung/Termine](./enrolment.html).
+
+## Hauptevent
 **Wann:** 17.01.2025 und 17.01.2025  
-**Modpaket:** [TacOps\_2\_Modset.html]() 
+**Modpaket:** [TacOps\_2\_Modset.html]()  
 **Medizinisches System:** stark vereinfachtes KAT \- Advanced Medical
+* **Jeder** kann sich anmelden siehe [Anmeldung/Termine](./enrolment.html).
 
-* **Jeder** kann sich anmelden siehe [Anmeldung](./enrolment.html).
-
-**💻 Arma3 Server:**   
+## 💻 Arma3 Server   
 IP: arma.tactical-operations.de  
 Port: 2302  
 Passwort: x23y
 
-**🎤 Teamspeak:**  
+## 🎤 Teamspeak  
 IP: ts.tactical-operations.de  
 Kommunikation: TFAR oder ACRE
 
-**📃 Discord** zum Kontakt:  
+## 📃 Kontakt (Discord)  
 [TacOps Discord Einladungslink](https://discord.gg/v3ekRvDFye)  
 Channel [\#informationen](https://discord.com/channels/1230998538926952578/1231005085522464859) für die wichtigen Dinge.  
 Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.  
@@ -39,5 +43,3 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 **Funkplan:** [TacOps\_2\_Funkplan]()   
 **Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste]()   
 **Addon-Options**: [TacOps\_2\_Addon\-Options]()   
-
-## Anmeldung
