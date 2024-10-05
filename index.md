@@ -19,7 +19,7 @@ Zeitraum um 2020
 * **Jeder** kann sich anmelden siehe [Anmeldung/Termine](./enrolment.html).
 
 ## Hauptevent
-**Wann:** 17.01.2025 und 17.01.2025  
+**Wann:** 17.01.2025 und 18.01.2025  
 **Modpaket:** [TacOps\_2\_Modset.html]()  
 **Medizinisches System:** stark vereinfachtes KAT \- Advanced Medical
 * **Jeder** kann sich anmelden siehe [Anmeldung/Termine](./enrolment.html).
