@@ -3,6 +3,6 @@ description: Tactical-Operations mit allen Infos zum Event!
 repo:
 
 #remote_theme: andreondra/jekyll-theme-simplex
-remote_theme: LeNPaul/academic
+remote_theme: S3ler/leap-day
 
 show_downloads: false
