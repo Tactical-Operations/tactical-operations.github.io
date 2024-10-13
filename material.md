@@ -267,7 +267,7 @@ Einige Zeit später
 #### LZ 4-Liner:
 
 | LZ Name | Feindlage (grün, gelb, rot) | Ingress/Egress (optional) | Markierung (optional) |
-| :---- | :---- | :---- | :---- |
+| - | - | - | - |
 
 #### CAS:
 
