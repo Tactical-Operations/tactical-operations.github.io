@@ -30,7 +30,7 @@ Die Anmeldung im [Discord Channel #Anmeldung Evaluationsevent](https://discord.c
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
 
 Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** freigegeben.  
-Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt.  
+Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt, siehe [Termine](./schedule.html).  
 Die Anmeldung im [Discord Channel #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
 
 [zurück](./)
