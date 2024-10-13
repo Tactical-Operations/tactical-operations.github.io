@@ -75,6 +75,10 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 4. Wie lange liegt er?  
 5. Fragen ob weitere Hilfe (z.B. HLW) notwendig
 
+## Funkplan Triton Company
+
+TODO
+
 ## MedEvac Info
 
 Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
@@ -99,10 +103,6 @@ Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:
 \- Medizinische Unterstützung vor Ort durch MedEvac-Doktoren
 
 **Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
-
-## Funkplan Triton Company
-
-TODO
 
 # Air Force - Operationsübersicht
 (Ab hier primär für Führungskräfte)
@@ -139,7 +139,6 @@ Lagebild übermittelt wird.
 * A-Recon hat die geringste Gewichtung von allen Einsatztypen und kann
 daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
 werden.
-
 
 ## Wichtigsten Infos für PMED und Squad Medics 
 (Ab hier primär für Medizinisches Personal, also Platoon Medics, Squad Medics gedacht)
@@ -224,4 +223,7 @@ Flugzeuge überprüfen.
 * Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
 werden.
 
-[zurück](./)
+# Logistik - Handout
+
+
+[top](#top)
