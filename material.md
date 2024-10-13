@@ -261,6 +261,95 @@ Einige Zeit später
 
 ## Operationsübersicht
 
+
+### Wichtige Infos:
+
+#### LZ 4-Liner:
+
+| LZ Name | Feindlage (grün, gelb, rot) | Ingress/Egress (optional) | Markierung (optional) |
+| :---- | :---- | :---- | :---- |
+
+#### CAS:
+
+| Gameplan |  |
+| ----- | :---: |
+| 1\. | Einsatz Typ |
+| 2\. | BOT/BOC |
+| 3\. | Waffenanforderung |
+
+#### 9/5-Liner:
+
+| 9-Liner |  | 5-Liner |  |
+| ----- | :---: | ----- | ----- |
+| 1\. | Ingress | 1\. | Ziel Position |
+| 2\. | Richtung | 2\. | Ziel Beschreibung |
+| 3\. | Distanz zum Ziel IP | 3\. | Ziel Markierung |
+| 4\. | Ziel Höhe (ASL) | 4\. | Freundliche Kräfte |
+| 5\. | Ziel Beschreibung | 5\. | Hinweise oder Einschränkungen |
+| 6\. | Ziel Position |  |  |
+| 7\. | Markierung |  |  |
+| 8\. | Eigene Kräfte (Markierung) |  |  |
+| 9\. | Egress |  |  |
+|  | Hinweise |  |  |
+
+#### BAH
+
+| BHA \- Ergebnis des Waffeneinsatzes |  |
+| ----- | :---: |
+| 1\. | Effekt |
+| 2\. | BDA |
+| 3\. | Re-run |
+
+#### Mission 3-Liner (nur für Piloten):
+
+| Mission Typ | Ort (AO) | Zu kontaktierende Einheit |
+| :---- | :---- | :---- |
+| A-Recon/ CAS/ MedEvac | z.B. POI001 | z.B. Green Ant auf 68 |
+
+##### Brevity Terms:  
+AO: Area of Operation  
+MSR: Main Supply Route  
+BOT: Bomb on Target (Bekämpfen von Ziel→Benötigt Sicht auf das Ziel(Tally), für Freigabe.)  
+BOC: Bomb on Coordinate (Bekämpfen von Koordinate→ohne Sicht auf Ziel.)  
+BDA: Battle Damage Assesment  
+BHA: Battle Hit Assesment  
+Cleard Hot: Waffenfreigabe für Anflug erteilt.  
+Cleard to Engage: Waffenfreigabe für mehrere Anflüge  
+Tally: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)  
+Bingo: Treibstoff reicht nur für Rückflug.  
+Winchester: Keine Munition (Winchester Guns: Keine Munition für Gun.)
+
+##### Smoke:
+Grün: Freund Markierung  
+Gelb: JTAC Reserviert  
+Rot: Feind Markierung  
+Blau: LZ Markierung  
+Orange: JTAC Reserviert  
+Violet: Medevac  
+Weiß: Verschleierung
+
+##### Flares:  
+Weiß: Beleuchtung  
+Grün: Freund Markierung  
+Rot: Feind Markierung
+
+#### Wichtige Frequenzen:
+
+| Piloten |  | JTAC |  |
+| ----- | :---- | ----- | :---- |
+| Luftraum (Tower) | 80 Hz (Lasercode 1115\) | TACP-com | 84 Hz |
+| Red Titan | 38 Hz (Lasercode 1113\) |  |  |
+| Blue King | 58 Hz (Lasercode 1114\) |  |  |
+
+Logistik für RRR auf 69 Hz
+
+####  Karten Markierungen:  
+IP: Inital Point (Punkt von dem ein Anflug gestartet werden kann.)  
+HP: Holding Point (Punkt an dem Hubschrauber warten und Hovern.)  
+HA:Holding Area (Aufenthaltsraum für Hubschrauber) →darf nur von CCT erstellt werden.  
+ACA:Aircraft Control Area( Aufenthaltsraum für Luftfahrzeuge)→darf nur von CCT erstellt werden  
+LZ:Landing Zone →muss auf c-Tab oder JVMF markiert werden, →darf nicht verschoben werden.
+
 ### JTAC
 
 #### Ablauf:
@@ -455,7 +544,10 @@ Bei weiteren Fragen im Discord [Nick Mojo #air-force-chat](https://discord.com/c
 
 ## JET Loadout Whitelists
 
+TODO
+
 ## HELI Loadout Whitelists
 
+TODO
 
 [top](#top)
