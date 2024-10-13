@@ -256,7 +256,7 @@ Einige Zeit später
 2. “Red HQ, verstanden. Lage ist sicher. Ende.”
 
 
-# Air Force - 
+# Air Force
 
 ## Operationsübersicht
 
