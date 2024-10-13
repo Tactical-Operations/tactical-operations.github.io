@@ -67,6 +67,7 @@ Ziel ist: Spass haben.
 | **sofort Missionsstart** | **14:00 Uhr** |
 | Missionsende | 18:00 Uhr |
 
+
 * Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr
 
 ### Schicht 3 - Samstag Abend
@@ -79,6 +80,8 @@ Ziel ist: Spass haben.
 | Missionsende | 23:30 Uhr |
 | Gruppenintern Feedback sammeln  | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
+
+#### Anmerkung
 
 * Nach jeder Mission besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
 
