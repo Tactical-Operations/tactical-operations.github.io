@@ -3,7 +3,7 @@ layout: default
 title: TacOps 2 - Tidal Spear - Wichtiges im Überblick
 ---
 
-# Wichtiges im Überblick
+# Tidal Spear - Wichtiges im Überblick
 
 ### Ansprechpartner: [Bele](https://discordapp.com/users/chibi_mochizuki/)
 

@@ -3,7 +3,7 @@ layout: default
 title: TacOps 2 - Tidal Spear - Anmeldung
 ---
 
-# Anmeldung
+# Tidal Spear - Anmeldung
 
 **Jeder** kann sich An-/Abmeldung, sowohl **Einzelspieler** als auch **Gruppen/Clans**.  
 Die Anmeldung ist im jeweiligen Discord Channel:

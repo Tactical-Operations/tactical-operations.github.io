@@ -3,7 +3,7 @@ layout: default
 title: TacOps 2 - Tidal Spear - Termine und Ablauf
 ---
 
-# Termine
+# Tidal Spear - Termine und Ablauf
 
 ## Übungstermine
 
