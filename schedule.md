@@ -26,6 +26,8 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 #### Ablauf
 
+<div markdown="1" class="table-blue">
+
 | Ablauf \- Samstag Abend | 21.12.2024 |
 | ----- | :---- |
 | Slotten/Joinen auf Server | ab 18:00 Uhr |
@@ -35,6 +37,8 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 | Missionsende | 23:30 Uhr |
 | Gruppenintern Feedback sammeln | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
+
+</div>
 
 #### Anmerkung
 
