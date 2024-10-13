@@ -28,7 +28,7 @@ Alle Informationen zum Event und alle Handouts sind ebenfalls als PDF bereitgest
     * **ACE Medical mit zusätzlichen Verletzungen der Atemwege.**
 * Für KAT Medical stehen stehen 2 Handouts zur Verfügung:
     * Für **Alle** Spieler: **XABCDE Schema** für Behandlungen
-    * Für Platoon/Squad-Medics: **Wichtigsten Infos für PMED und Squad Medics**
+    * Zusätzlich für Platoon/Squad-Medics: **Wichtigsten Infos für PMED und Squad Medics**
 
 ### Feedback
 
@@ -44,14 +44,17 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 | | XABCDE Schema für Behandlungen von Verletzten |
 | :---: | ----- | 
 | X | Kritische Blutung beheben |
-|  | Tourniquet für Extremitäten, Körper bandagieren, Kopf  bandagieren |
+|  | Tourniquet für Extremitäten, Körper bandagieren, Kopf bandagieren |
 |  | Medics: IV oder IO einrichten, TXA verwenden, Gabe von Kochsalzlösung/Plasma |
 | A | Atemweg prüfen |
 |  | Kopf überstrecken, Kopf drehen, Atemweg prüfen |
 |  | Medics: (zweiten Durchgang) Guedel-Tubus oder King-LT verwenden |
-| C | Kreislauf prüfen |
+| B | Beatmung |
 |  | Brustkorb inspektieren, Chestseal anbringen |
-|  | Medics: Puls prüfen, HLW, AED nutzen, (zweiten Durchgang) IV Epinephrin nutzen bei Reanimation |
+|  | Medics: Pulsoximeter anbringen, (zweiten Durchgang) PocketBVM verwenden |
+| C | Kreislauf prüfen |
+|  | Puls prüfen, HLW |
+|  | Medics: AED nutzen, (zweiten Durchgang) IV Epinephrin nutzen bei Reanimation |
 | D | Disability |
 |  | Bewusstlosigkeit prüfen, Schmerzen prüfen, stabile Seitenlage |
 |  | Medics: Stabile Seitenlage entfällt |
