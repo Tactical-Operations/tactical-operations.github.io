@@ -264,6 +264,7 @@ Einige Zeit später
 ## JTAC
 
 #### Ablauf:
+
 1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
 dort müssen die Fragen was? und wohin? geklärt werden.
 2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
@@ -271,6 +272,7 @@ dort müssen die Fragen was? und wohin? geklärt werden.
 meldet es sich auf der JTAC Frequenz ab.
 
 #### Wichtige Punkte:
+
 * A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
 MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
 Kapazitäten am Limit sind.
@@ -282,14 +284,18 @@ gefordert wird.
 Schweregrad der Verletzungen mit an den CCT übergeben werden.
 
 ## Piloten
+
 #### Ablauf:
+
 1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
 2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
 Fliegern müssen auch die Waffen aufgezählt werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
 4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
 wieder auf der 80 Hz angemeldet.
+
 #### Wichtige Punkte:
+
 * Dichtes Überfliegen von Ortschaften die an keinen direkten
 Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
 davon ausgenommen).
