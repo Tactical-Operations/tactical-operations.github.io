@@ -113,7 +113,6 @@ Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:
 # Medizinisches Personal
 
 ## Wichtigsten Infos für PMED und Squad Medics 
-(Ab hier primär für Medizinisches Personal, also Platoon Medics, Squad Medics gedacht)
 
 Was ist neu gegenüber Ace Medical in KAT Medical  
 * neu → Atemwege und dass diese verstopft sein können und ohne KingLT wieder verstopfen können (Kotzgeräusch)! 
@@ -151,8 +150,7 @@ Werte:
 
 # Führungskräfte
 
-## Air Force - Führungsübersicht
-(Ab hier primär für Führungskräfte)
+## Air Force
 
 #### Ablauf:
 
@@ -194,7 +192,7 @@ Lagebild übermittelt wird.
 daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
 werden.
 
-## Logistik - Führungsübersicht
+## Logistik
 
 #### Verlust und Bergung von Fahrzeugen
 
@@ -258,10 +256,11 @@ Einige Zeit später
 2. “Red HQ, verstanden. Lage ist sicher. Ende.”
 
 
-# Air Force - Operationsübersicht
-(Ab hier primär für Aircrews und JTACs gedacht)
+# Air Force - 
 
-## JTAC
+## Operationsübersicht
+
+### JTAC
 
 #### Ablauf:
 
@@ -283,7 +282,7 @@ gefordert wird.
 * Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der
 Schweregrad der Verletzungen mit an den CCT übergeben werden.
 
-## Piloten
+### Piloten
 
 #### Ablauf:
 
