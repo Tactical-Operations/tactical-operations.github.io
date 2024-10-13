@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Briefing, Lage, Absichten und Durchführung
+title: TacOps 2 - Briefing
 ---
 
 # Briefing, Lage, Absichten und Durchführung
@@ -35,7 +35,7 @@ Die Triton Company wurde in die Region verlegt um anzulanden und einen Brückenk
 
 ### Eigene Kräfte (USMC)
 
-TODO
+Die
 
 ### Feindliche Kräfte (CSAT)
 
