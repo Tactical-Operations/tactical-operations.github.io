@@ -7,8 +7,9 @@
 
 #### LZ 4-Liner:
 
-| LZ Name | Feindlage (grün, gelb, rot) | Ingress/Egress (optional) | Markierung (optional) |
+| LZ Name | Feindlage  | Ingress/Egress  | Markierung  |
 | - | - | - | - |
+| - | (grün, gelb, rot) | (optional) | (optional) |
 
 #### CAS
 
