@@ -1,7 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Wichtiges im Überblick
-description: TacOps 2 - Tidal Spear
+title: TacOps 2 - Tidal Spear: Wichtiges im Überblick
 ---
 
 # Wichtiges im Überblick

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Termine
+title: TacOps 2 - Tidal Spear: Termine und Ablauf
 ---
 
 # Termine

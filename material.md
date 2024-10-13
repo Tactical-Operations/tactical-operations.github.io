@@ -1,7 +1,6 @@
 ---
 layout: default
-title: TacOps - Material
-description: Material und Informationen zu allen Bereichen
+title: TacOps 2 - Tidal Spear: Material und Handouts
 ---
 
 # Material
