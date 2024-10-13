@@ -41,22 +41,23 @@ Alle Informationen zum Event und alle Handouts sind ebenfalls als PDF bereitgest
 
 Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 
+| | XABCDE Schema für Behandlungen von Verletzten |
+| :---: | ----- | 
 | X | Kritische Blutung beheben |  |
-| :---: | ----- | ----- |
-|  | Tourniquet für Extremitäten, Körper bandagieren, Kopf  bandagieren |  |
-|  | Medics: IV oder IO einrichten, TXA verwenden, Gabe von Kochsalzlösung/Plasma |  |
+|  | Tourniquet für Extremitäten, Körper bandagieren, Kopf  bandagieren |
+|  | Medics: IV oder IO einrichten, TXA verwenden, Gabe von Kochsalzlösung/Plasma |
 | A | Atemweg prüfen |  |
-|  | Kopf überstrecken, Kopf drehen, Atemweg prüfen |  |
-|  | Medics (zweiten Durchgang): Guedel-Tubus oder King-LT verwenden |  |
-| C | Kreislauf prüfen |  |
-|  | Brustkorb inspektieren, Chestseal anbringen |  |
-|  | Medics: Puls prüfen, HLW, AED nutzen, (zweiten Durchgang) IV Epinephrin nutzen bei Reanimation |  |
-| D | Disability |  |
-|  | Bewusstlosigkeit prüfen, Schmerzen prüfen, stabile Seitenlage |  |
-|  | Medics: Stabile Seitenlage entfällt |  |
-| X | Environment |  |
-|  | Patient reorientieren, Schmerztabletten geben |  |
-|  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |  |
+|  | Kopf überstrecken, Kopf drehen, Atemweg prüfen |
+|  | Medics (zweiten Durchgang): Guedel-Tubus oder King-LT verwenden |
+| C | Kreislauf prüfen |
+|  | Brustkorb inspektieren, Chestseal anbringen |
+|  | Medics: Puls prüfen, HLW, AED nutzen, (zweiten Durchgang) IV Epinephrin nutzen bei Reanimation |
+| D | Disability |
+|  | Bewusstlosigkeit prüfen, Schmerzen prüfen, stabile Seitenlage |
+|  | Medics: Stabile Seitenlage entfällt |
+| X | Environment |
+|  | Patient reorientieren, Schmerztabletten geben |
+|  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |
 
 Übergabe an Platoon Medic/MedEvac mit folgenden Punkten:  
 1\. Puls vorhanden Ja/Nein  
