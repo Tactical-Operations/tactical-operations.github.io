@@ -16,7 +16,7 @@ Es ist so aufgebaut, dass zuerst die Informationen für Alle Spieler lesbar sind
 
 Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
-## Organisatorisches
+# Organisatorisches
 
 ### Join-In-Progress
 
