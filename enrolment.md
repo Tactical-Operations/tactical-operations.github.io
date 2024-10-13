@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Tidal Spear: Anmeldung
+title: TacOps 2 - Tidal Spear - Anmeldung
 ---
 
 # Anmeldung
