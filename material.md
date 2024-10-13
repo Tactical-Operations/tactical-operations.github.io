@@ -194,9 +194,9 @@ Lagebild übermittelt wird.
 daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
 werden.
 
-# Logistik - Führungsübersicht
+## Logistik - Führungsübersicht
 
-### Verlust und Bergung von Fahrzeugen
+#### Verlust und Bergung von Fahrzeugen
 
 Für das gesamte Event steht nur eine begrenzte Anzahl an Land- und Luftfahrzeugen zur
 Verfügung. Jeder Fahrzeugtyp ist in seiner Stückzahl limitiert. Um sicherzustellen, dass
@@ -210,7 +210,7 @@ zerstörte Fahrzeuge zu bergen und im HQ vollständig zu reparieren. Aus diesem 
 bitten wir darum, zerstörte Fahrzeuge umgehend zu melden, damit diese in einer ruhigen
 Phase des Events von der Logistik geborgen und instandgesetzt werden können.
 
-### Aufträge der Logistik
+#### Aufträge der Logistik
 
 * Versorgung der Infanterie für einen konsistenten Spielfluss
 * Versorgung & Wartung von Fahr- und Flugzeugen
@@ -223,9 +223,9 @@ ihrem Tod.
 Sämtliche Möglichkeiten der Logistik sind im Bestellkatalog aufgelistet.
 Die Logistik ist **nicht** für den taktischen (Luft-)Transport von Personal zuständig.
 
-### Logistikanfragen
+#### Logistikanfragen
 
-#### Ablauf:
+##### Ablauf:
 
 1. Es wird auf der 69 Funkkontakt mit der Archer Black 4 aufgenommen.
 2. Archer Black 4 bestätigt Aufnahmebereitschaft oder verzögert die Anfrage falls
@@ -241,7 +241,7 @@ notwendig.
     6.2. sich ein Bodentransport (Rider) auf der Platoon HQ Funkfrequenz meldet.
     6.3. sich ein Combat Engineer Team (Rider) entweder für einen Auftrag oder den Abschluss von diesem auf der Platoon HQ Funkfrequenz meldet.
 
-#### Beispiel:
+##### Beispiel:
 
 1. “Archer Black 4, hier Red, beantragen Nachschub, kommen.”
 2. “Red, hier Archer Black 4, bereit für Anfrage, kommen”
