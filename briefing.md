@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Tidal Spear: Briefing
+title: TacOps 2 - Tidal Spear - Briefing
 ---
 
 # Briefing, Lage, Absichten und Durchführung
