@@ -4,7 +4,7 @@ title: TacOps 2 - Tidal Spear - Briefing
 ---
 
 # Tidal Spear - Briefing
-
+<div markdown="1" class="hidden">
 ## Situation
 
 **Vor 10 Jahren:** In der letzten Dekade hat Kolumbien stärkere wirtschaftliche und militärische Beziehungen zu NATO-Partnern aufgebaut, ohne der NATO selbst beizutreten. Kolumbien ist ein ressourcenreiches und daher strategisch wichtiges Land in Südamerika.
@@ -62,3 +62,4 @@ Durchgeführt wird eine Anlandung mit anschließender Brückenkopfabsicherung.
 #### Schicht 1: Anlandung und Brückenkopf Errichtung  
 #### Schicht 2: Brückenkopf absichern  
 #### Schicht 3: Perimeter vergrößern
+</div>
