@@ -18,7 +18,7 @@ Folgende Übungstermine werden angesetzt:
 
 ## Evaluationsevent - Samstag 21.12.2024
 
-Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024** freigegeben.  
+Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).
 Das Evaluationsevent findet am 21.12.2024 statt.  
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.  
 
@@ -40,11 +40,13 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
 
-Die **Anmeldung** für das Hauptevent ist **ab dem 22.12.2024** freigegeben.  
-Das Hauptevent findet am Freitag Abend 17.01.2025 und Samstag Nachmittag sowie Abend 18.01.2025 statt.  
+Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).
+Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt.  
 Ziel ist: Spass haben.  
 
 * Slotliste für Hauptevent: [Vorläufiges Slotliste]()
+
+### Schicht 1 - Freitag Abend
 
 | Ablauf \- Freitag Abend | 17.01.2025 |
 | ----- | :---- |
@@ -56,6 +58,8 @@ Ziel ist: Spass haben.
 | Gruppenintern Feedback sammeln | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
 
+### Schicht 2 - Samstag Nachmittag
+
 | Ablauf \- Samstag Nachmittag | 18.01.2025 |
 | ----- | :---- |
 | Slotten/Joinen auf Server | ab 13:00 Uhr |
@@ -64,6 +68,8 @@ Ziel ist: Spass haben.
 | Missionsende | 18:00 Uhr |
 
 * Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr
+
+### Schicht 3 - Samstag Abend
 
 | Ablauf \- Samstag Abend | 18.01.2025 |
 | ----- | :---- |
