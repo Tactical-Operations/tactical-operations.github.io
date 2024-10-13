@@ -262,14 +262,14 @@ Einige Zeit später
 ## Operationsübersicht
 
 
-### Wichtige Infos:
+### Wichtige Infos
 
 #### LZ 4-Liner:
 
 | LZ Name | Feindlage (grün, gelb, rot) | Ingress/Egress (optional) | Markierung (optional) |
 | - | - | - | - |
 
-#### CAS:
+#### CAS
 
 | Gameplan |  |
 | ----- | :---: |
@@ -277,7 +277,7 @@ Einige Zeit später
 | 2\. | BOT/BOC |
 | 3\. | Waffenanforderung |
 
-#### 9/5-Liner:
+#### 9/5-Liner
 
 | 9-Liner |  | 5-Liner |  |
 | ----- | :---: | ----- | ----- |
@@ -300,13 +300,13 @@ Einige Zeit später
 | 2\. | BDA |
 | 3\. | Re-run |
 
-#### Mission 3-Liner (nur für Piloten):
+#### Mission 3-Liner (nur für Piloten)
 
 | Mission Typ | Ort (AO) | Zu kontaktierende Einheit |
 | :---- | :---- | :---- |
 | A-Recon/ CAS/ MedEvac | z.B. POI001 | z.B. Green Ant auf 68 |
 
-##### Brevity Terms:  
+#### Brevity Terms:  
 AO: Area of Operation  
 MSR: Main Supply Route  
 BOT: Bomb on Target (Bekämpfen von Ziel→Benötigt Sicht auf das Ziel(Tally), für Freigabe.)  
@@ -319,7 +319,7 @@ Tally: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)
 Bingo: Treibstoff reicht nur für Rückflug.  
 Winchester: Keine Munition (Winchester Guns: Keine Munition für Gun.)
 
-##### Smoke:
+#### Smoke:
 Grün: Freund Markierung  
 Gelb: JTAC Reserviert  
 Rot: Feind Markierung  
@@ -328,12 +328,12 @@ Orange: JTAC Reserviert
 Violet: Medevac  
 Weiß: Verschleierung
 
-##### Flares:  
+#### Flares:  
 Weiß: Beleuchtung  
 Grün: Freund Markierung  
 Rot: Feind Markierung
 
-#### Wichtige Frequenzen:
+#### Wichtige Frequenzen
 
 | Piloten |  | JTAC |  |
 | ----- | :---- | ----- | :---- |
@@ -343,7 +343,7 @@ Rot: Feind Markierung
 
 Logistik für RRR auf 69 Hz
 
-####  Karten Markierungen:  
+####  Karten Markierungen
 IP: Inital Point (Punkt von dem ein Anflug gestartet werden kann.)  
 HP: Holding Point (Punkt an dem Hubschrauber warten und Hovern.)  
 HA:Holding Area (Aufenthaltsraum für Hubschrauber) →darf nur von CCT erstellt werden.  
@@ -360,7 +360,7 @@ dort müssen die Fragen was? und wohin? geklärt werden.
 3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
 meldet es sich auf der JTAC Frequenz ab.
 
-#### Wichtige Punkte:
+#### Wichtige Punkte
 
 * A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
 MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
@@ -383,7 +383,7 @@ Fliegern müssen auch die Waffen aufgezählt werden.
 4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
 wieder auf der 80 Hz angemeldet.
 
-#### Wichtige Punkte:
+#### Wichtige Punkte
 
 * Dichtes Überfliegen von Ortschaften die an keinen direkten
 Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
