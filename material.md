@@ -8,10 +8,10 @@ title: TacOps 2 - Tidal Spear - Material und Handouts
 </div>
 
 Diese Dokument ist gedacht damit alle Information und Material welches wärend einer Mission benötigt wird an einer Stelle gesammel nachlesbar ist.
-Es ist so aufgebaut, dass zuerst die Informationen für Alle Spieler lesbar sind für:
-* Schützen und alle: Organisatorisches, Medic Setting, XABCDE Schema für Behandlungen von Verletzten, Funkplan
+Es ist so aufgebaut, dass zuerst die Informationen für alle Spieler lesbar sind und anschließend für jeweilige Rollen:
+* Alle Spieler: Organisatorisches, Medic Setting, [XABCDE Schema für Behandlungen von Verletzten](#xabcde-schema-fr-behandlungen-von-verletzten), Funkplan
+* Medizinisches Personal zusätzlich: [Wichtigsten Infos für PMED und Squad Medics](#wichtigsten-infos-fr-pmed-und-squad-medics)
 * Führungskräfte zusätzlich: Air Force - Führungsübersicht, Logistik - Handout
-* Medizinisches Personal zusätzlich: Wichtigsten Infos für PMED und Squad Medics
 * Air Force zusätzlich: Air Force - Operationsübersicht
 
 Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
