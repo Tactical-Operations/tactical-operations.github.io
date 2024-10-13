@@ -309,6 +309,8 @@ Flugzeuge überprüfen.
 * Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
 werden.
 
+Bei weiteren Fragen im Discord [Nick Mojo #air-force-chat](https://discord.com/channels/1230998538926952578/1234144188338012170) nachfragen.
+
 # Appendix
 
 ## Logistikbestellkatalog
