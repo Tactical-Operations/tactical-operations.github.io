@@ -21,11 +21,15 @@ title: TacOps 2 - Tidal Spear - Briefing
 
 **Vor 4 Monaten:** CSAT schnitt den nördlichen Teil des Landes ab, woraufhin der Widerstand der kolumbianischen Armee im Norden zusammenbrach. Der Norden Kolumbiens wurde von der CSAT vollständig eingenommen und annektiert. Die CSAT begann mit dem Abbau der Ressourcen.
 
+**Zeitpunkt des Evaluationsevent:** TODO
+
 **Vor 3 Monaten:** Die Kämpfe in der Mitte des Landes dauern an. Derzeit finden Kämpfe entlang einer Linie von Cali über Medellín bis nach Cúcuta statt. Auf Bitten und Drängen der kolumbianischen Regierung greift die USA in den Konflikt ein und plant, zur Entlastung eine zweite Front im Norden des Landes zu eröffnen.
 
 **Vor 2 Monaten:** Die Triton Company wurde mobilisiert und in das südkaribische Meer verlegt.
 
 **Vor 3 Tagen:** Die Triton Company ist im südkaribischen Meer angekommen und bereitet sich darauf vor, eine zweite Front im Norden Kolumbiens zu eröffnen. Ziel ist es außerdem, die CSAT-Allianz daran zu hindern, die Bodenschätze im Norden abzubauen.
+
+**Zeitpunkt des Hauptevents:** TODO
 
 ## Lage
 
