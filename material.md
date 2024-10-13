@@ -71,10 +71,10 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 
 ## Wichtigsten Infos für PMED und Squad Medics 
 Was ist neu gegenüber Ace Medical in KAT Medical  
-* neu -> Atemwege und dass diese verstopft sein können und ohne KingLT wieder verstopfen können (Kotzgeräusch)! 
-* neu -> Pneumothorax siehe Brust -> tiefgreifende Wunde braucht nur ein Chest Seal, es gibt keine erweiterten Pneumos! 
-* -> Surgical ist komplett aus! 
-* -> Tödlicher SP02 Wert ist auf 30 eingestellt! 
+* neu → Atemwege und dass diese verstopft sein können und ohne KingLT wieder verstopfen können (Kotzgeräusch)! 
+* neu → Pneumothorax siehe Brust → tiefgreifende Wunde braucht nur ein Chest Seal, es gibt keine erweiterten Pneumos! 
+*  → Surgical ist komplett aus! 
+*  → Tödlicher SP02 Wert ist auf 30 eingestellt! 
 
 *PMEDS:* können alle Medikamente benutzen die wichtigsten sind in den Loadouts vorhanden.  
 *SQUAD MEDICS (Corpsman):* können nur begrenzt Medikamente benutzen, diese sind auch in den Loadouts vorhanden.  
@@ -170,7 +170,7 @@ davon ausgenommen).
 * Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen
 um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität
 verfügbar sein kann auch ohne gelandet werden.
-* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler→Holdingposition)
+* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition)
 den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und
 Flugzeuge überprüfen.
 * Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
