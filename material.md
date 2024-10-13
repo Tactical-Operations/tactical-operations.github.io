@@ -11,8 +11,9 @@ Diese Dokument ist gedacht damit alle Information und Material welches wärend e
 Es ist so aufgebaut, dass zuerst die Informationen für alle Spieler lesbar sind und anschließend für jeweilige Rollen:
 * Alle Spieler: Organisatorisches, Medic Setting, [XABCDE Schema für Behandlungen von Verletzten](#xabcde-schema-fr-behandlungen-von-verletzten), Funkplan
 * Medizinisches Personal zusätzlich: [Wichtigsten Infos für PMED und Squad Medics](#wichtigsten-infos-fr-pmed-und-squad-medics)
-* Führungskräfte zusätzlich: Air Force - Führungsübersicht, Logistik - Handout
-* Air Force zusätzlich: Air Force - Operationsübersicht
+* Führungskräfte zusätzlich: Luftunterstützung, Logistikunterstützung
+* Air Force zusätzlich: Air - Force Operationsübersicht
+* Logistik: Führungskräfte Logistikunterstützung, Appendix - Logistikbestellkatalog
 
 Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
@@ -150,7 +151,7 @@ Werte:
 
 # Führungskräfte
 
-## Air Force
+## Luftunterstützung
 
 #### Ablauf:
 
@@ -192,7 +193,7 @@ Lagebild übermittelt wird.
 daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
 werden.
 
-## Logistik
+## Logistikunterstützung
 
 #### Verlust und Bergung von Fahrzeugen
 
@@ -310,7 +311,7 @@ werden.
 
 # Appendix
 
-## Logistik - Bestellkatalog
+## Logistikbestellkatalog
 
 | Farbe | Einheitengattung |
 | ----- | ----- |
