@@ -42,9 +42,14 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
 
-Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).
-Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt.  
-Ziel ist: Spass haben.  
+Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).  
+
+Das Hauptevent findet in 3 Schichten statt: 
+> Schicht 1 Freitag Abend 17.01.2025 mit Slotten ab 18:00 - Mission bis 23:30 Uhr  
+> Schicht 2 Samstag 18.01.2025 Nachmittag mit Slotten ab 13:00 - Mission bis 18:30 Uhr  
+> Schicht 3 18.01.2025 Samstag Abend mit Slotten ab 18:15 - Mission bis 23:30 Uhr  
+
+Ziel ist es Spass zu haben.  
 
 * Slotliste für Hauptevent: [Vorläufige Slotliste - Google Sheet ]()  
 
