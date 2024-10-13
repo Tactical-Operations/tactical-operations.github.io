@@ -109,7 +109,9 @@ Werte:
 Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
 
 **1\. Kein kompliziertes Anfrageverfahren**  
-Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den MedEvac anfordern. Einfach sagen: „Wir sind Archer Blue 1 und brauchen den MedEvac\!“ Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT mit höchster Priorität behandelt.
+Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den MedEvac anfordern.  
+Einfach sagen: „Wir sind Archer Blue 1 und brauchen den MedEvac\!“  
+Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT mit höchster Priorität behandelt.
 
 **2\. Schnelle Ankunft innerhalb von 3-4 Minuten**    
 Der MedEvac ist so trainiert und optimiert, dass er bis zum Ausrücken nur 30 Sekunden benötigt. Nach weiteren 3 Minuten ist ein MedEvac-Doktor planmäßig in der Landezone.    
@@ -136,14 +138,14 @@ TODO
 
 ## JTAC
 
-### Ablauf:
+#### Ablauf:
 1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
 dort müssen die Fragen was? und wohin? geklärt werden.
 2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
 3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
 meldet es sich auf der JTAC Frequenz ab.
 
-### Wichtige Punkte:
+#### Wichtige Punkte:
 * A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
 MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
 Kapazitäten am Limit sind.
@@ -155,14 +157,14 @@ gefordert wird.
 Schweregrad der Verletzungen mit an den CCT übergeben werden.
 
 ## Piloten
-### Ablauf:
+#### Ablauf:
 1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
 2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
 Fliegern müssen auch die Waffen aufgezählt werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
 4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
 wieder auf der 80 Hz angemeldet.
-### Wichtige Punkte:
+#### Wichtige Punkte:
 * Dichtes Überfliegen von Ortschaften die an keinen direkten
 Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
 davon ausgenommen).
