@@ -194,52 +194,7 @@ Lagebild übermittelt wird.
 daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
 werden.
 
-# Air Force - Operationsübersicht
-(Ab hier primär für Aircrews und JTACs gedacht)
-
-## JTAC
-
-#### Ablauf:
-1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
-dort müssen die Fragen was? und wohin? geklärt werden.
-2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
-3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
-meldet es sich auf der JTAC Frequenz ab.
-
-#### Wichtige Punkte:
-* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
-MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
-Kapazitäten am Limit sind.
-* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt
-werden ob ein Krankentransport oder medizinische Unterstützung am Boden
-gefordert wird.
-* Die MedEvac Crew muss an der LZ eingewiesenen werden.
-* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der
-Schweregrad der Verletzungen mit an den CCT übergeben werden.
-
-## Piloten
-#### Ablauf:
-1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
-2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
-Fliegern müssen auch die Waffen aufgezählt werden.
-3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
-4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
-wieder auf der 80 Hz angemeldet.
-#### Wichtige Punkte:
-* Dichtes Überfliegen von Ortschaften die an keinen direkten
-Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
-davon ausgenommen).
-* Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
-* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen
-um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität
-verfügbar sein kann auch ohne gelandet werden.
-* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition)
-den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und
-Flugzeuge überprüfen.
-* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
-werden.
-
-# Logistik - Handout
+# Logistik - Führungsübersicht
 
 ### Verlust und Bergung von Fahrzeugen
 
@@ -301,6 +256,54 @@ Einige Zeit später
 
 1. “Red HQ, hier Rider 1, kommen aus Westen mit Nachschub, kommen.”
 2. “Red HQ, verstanden. Lage ist sicher. Ende.”
+
+
+# Air Force - Operationsübersicht
+(Ab hier primär für Aircrews und JTACs gedacht)
+
+## JTAC
+
+#### Ablauf:
+1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
+dort müssen die Fragen was? und wohin? geklärt werden.
+2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
+3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
+meldet es sich auf der JTAC Frequenz ab.
+
+#### Wichtige Punkte:
+* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
+MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
+Kapazitäten am Limit sind.
+* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt
+werden ob ein Krankentransport oder medizinische Unterstützung am Boden
+gefordert wird.
+* Die MedEvac Crew muss an der LZ eingewiesenen werden.
+* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der
+Schweregrad der Verletzungen mit an den CCT übergeben werden.
+
+## Piloten
+#### Ablauf:
+1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
+2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
+Fliegern müssen auch die Waffen aufgezählt werden.
+3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
+4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
+wieder auf der 80 Hz angemeldet.
+#### Wichtige Punkte:
+* Dichtes Überfliegen von Ortschaften die an keinen direkten
+Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
+davon ausgenommen).
+* Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
+* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen
+um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität
+verfügbar sein kann auch ohne gelandet werden.
+* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition)
+den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und
+Flugzeuge überprüfen.
+* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
+werden.
+
+
 
 
 
