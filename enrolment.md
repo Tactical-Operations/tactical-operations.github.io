@@ -6,7 +6,11 @@ title: TacOps 2 - Tidal Spear - Anmeldung
 # Anmeldung
 
 **Jeder** kann sich An-/Abmeldung, sowohl **Einzelspieler** als auch **Gruppen/Clans**.  
-Die Anmeldung ist im jeweiligen [Discord #Anmeldung Evaluationsevent](https://discord.com/channels/1230998538926952578/1295007787197272164), [Discord #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660), direkt in Discord bei [Bele](https://discordapp.com/users/chibi_mochizuki/) möglich.  
+Die Anmeldung ist im jeweiligen Discord Channel:
+* [ #Anmeldung Evaluationsevent](https://discord.com/channels/1230998538926952578/1295007787197272164)
+* [ #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
+
+oder direkt in Discord bei [Bele](https://discordapp.com/users/chibi_mochizuki/) möglich.  
 
 Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage dazu.
 #### Beispiel
