@@ -22,7 +22,9 @@ Passwort: x23y
 
 ## 🎤 Teamspeak  
 IP: ts.tactical-operations.de  
+<div markdown="1" class="hidden">
 Kommunikation: TFAR oder ACRE  
+</div>
 
 ## 🎫 Anmeldung
 * **Jeder** kann sich anmelden, für Details siehe [Anmeldung](./enrolment.html).
