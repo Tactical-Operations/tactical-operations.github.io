@@ -14,7 +14,7 @@ Betreffende Personen erscheinen selbstständig - falls ihr euch nicht sicher sei
 Folgende Übungstermine werden angesetzt:  
 * Training Medizinisches Personal: Termin wird noch veröffentlicht  
 * Einspieltermin für Airstack: Termin wird noch veröffentlicht  
-* Übungstermine für MedicEvac/BAT: Termin wird noch veröffentlicht  
+* Übungstermine für MedicEvac/Mobile Doctor Team: Termin wird noch veröffentlicht  
 
 ## Evaluationsevent - Samstag 21.12.2024
 
@@ -69,8 +69,7 @@ Ziel ist: Spass haben.
 | **sofort Missionsstart** | **14:00 Uhr** |
 | Missionsende | 18:00 Uhr |
 
-
-* Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr
+> Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr
 
 ### Schicht 3 - Samstag Abend
 
