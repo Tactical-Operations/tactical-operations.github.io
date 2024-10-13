@@ -22,6 +22,12 @@ Alle Informationen zum Event und alle Handouts sind ebenfalls als PDF bereitgest
 * Zeuse können über einen Doppel-Zeus-Ping oder die Admin-Nachricht bei Rückfragen und Problemen kontaktiert werden.
 * Wenn ihr Gruppen- oder Zugführer seid und lange Wartezeiten bemerkt, könnt ihr die Zeuse jederzeit auf diesen Umstand aufmerksam machen, um gemeinsam eine Lösung zu finden.
 
+### Feedback
+
+* Nach jedem Missionsende oder Abend besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
+* Meldet gerne auffällige Fehler oder Probleme direkt am Ende des jeweiligen Abends, damit diese für den nächsten Abend gelöst werden können.
+* Am Ende des Events (Sonntag) wird ein Umfragebogen mit allen Teilnehmern geteilt. Wir freuen uns über euer ehrliches Feedback.
+
 ### Medic Settings
 
 * Wir benutzen KAT Medical sehr ähnlich zu ACE Medical, zusammengefasst: 
@@ -29,13 +35,6 @@ Alle Informationen zum Event und alle Handouts sind ebenfalls als PDF bereitgest
 * Für KAT Medical stehen stehen 2 Handouts zur Verfügung:
     * Für **Alle** Spieler: **XABCDE Schema** für Behandlungen
     * Zusätzlich für Platoon/Squad-Medics: **Wichtigsten Infos für PMED und Squad Medics**
-
-### Feedback
-
-* Nach jedem Missionsende oder Abend besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
-* Meldet gerne auffällige Fehler oder Probleme direkt am Ende des jeweiligen Abends, damit diese für den nächsten Abend gelöst werden können.
-* Am Ende des Events (Sonntag) wird ein Umfragebogen mit allen Teilnehmern geteilt. Wir freuen uns über euer ehrliches Feedback.
-
 
 ## XABCDE Schema für Behandlungen von Verletzten
 
@@ -58,7 +57,7 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 | D | Disability |
 |  | Bewusstlosigkeit prüfen, Schmerzen prüfen, stabile Seitenlage |
 |  | Medics: Stabile Seitenlage entfällt |
-| X | Environment |
+| E | Environment |
 |  | Patient reorientieren, Schmerztabletten geben |
 |  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |
 
@@ -128,5 +127,53 @@ Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:
 
 **Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
 
+## Funkplan Triton Company
+
+TODO
+
+# Air Force - Operationsübersicht
+(Dieses Dokument ist für Aircrews und JTACs gedacht)
+
+## JTAC
+
+### Ablauf:
+1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
+dort müssen die Fragen was? und wohin? geklärt werden.
+2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
+3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
+meldet es sich auf der JTAC Frequenz ab.
+
+### Wichtige Punkte:
+* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
+MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
+Kapazitäten am Limit sind.
+* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt
+werden ob ein Krankentransport oder medizinische Unterstützung am Boden
+gefordert wird.
+* Die MedEvac Crew muss an der LZ eingewiesenen werden.
+* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der
+Schweregrad der Verletzungen mit an den CCT übergeben werden.
+
+## Piloten
+### Ablauf:
+1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
+2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
+Fliegern müssen auch die Waffen aufgezählt werden.
+3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
+4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
+wieder auf der 80 Hz angemeldet.
+### Wichtige Punkte:
+* Dichtes Überfliegen von Ortschaften die an keinen direkten
+Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
+davon ausgenommen).
+* Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
+* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen
+um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität
+verfügbar sein kann auch ohne gelandet werden.
+* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler→Holdingposition)
+den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und
+Flugzeuge überprüfen.
+* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
+werden.
 
 [zurück](./)
