@@ -59,6 +59,8 @@ Ziel ist es Spass zu haben.
 
 ### Schicht 1 - Freitag Abend
 
+<div markdown="1" class="table-blue">
+
 | Ablauf \- Freitag Abend | 17.01.2025 |
 | ----- | :---- |
 | Slotten/Joinen auf Server | ab 18:00 Uhr |
@@ -69,7 +71,11 @@ Ziel ist es Spass zu haben.
 | Gruppenintern Feedback sammeln | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
 
+</div>
+
 ### Schicht 2 - Samstag Nachmittag
+
+<div markdown="1" class="table-blue">
 
 | Ablauf \- Samstag Nachmittag | 18.01.2025 |
 | ----- | :---- |
@@ -78,9 +84,14 @@ Ziel ist es Spass zu haben.
 | **sofort Missionsstart** | **14:00 Uhr** |
 | Missionsende | 18:00 Uhr |
 
+</div>
+
 > Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr
 
+
 ### Schicht 3 - Samstag Abend
+
+<div markdown="1" class="table-blue">
 
 | Ablauf \- Samstag Abend | 18.01.2025 |
 | ----- | :---- |
@@ -90,6 +101,8 @@ Ziel ist es Spass zu haben.
 | Missionsende | 23:30 Uhr |
 | Gruppenintern Feedback sammeln  | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
+
+</div>
 
 #### Anmerkung
 
