@@ -13,7 +13,9 @@ Zeitraum um 2020
 **Feindliche Fraktion:** CSAT  
 
 ## 💻 Arma3 Server   
+<div markdown="1" class="hidden">
 **Modpaket:** [TacOps\_2\_Modset.html]()  
+</div>
 IP: arma.tactical-operations.de  
 Port: 2302  
 Passwort: x23y  
@@ -39,8 +41,10 @@ Channel [\#informationen](https://discord.com/channels/1230998538926952578/12949
 Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.  
 💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [[TacOps] Bele](https://discordapp.com/users/chibi_mochizuki/)** wenden.
 
+<div markdown="1" class="hidden">
 **Modpaket:** [TacOps\_2\_Modset.html]()  
 **Slotliste:** [TacOps\_2\_Slotliste]()   
 **Funkplan:** [TacOps\_2\_Funkplan]()   
 **Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste]()   
 **Addon-Options**: [TacOps\_2\_Addon\_Options]()   
+</div>
