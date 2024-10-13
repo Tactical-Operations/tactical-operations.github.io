@@ -60,11 +60,11 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 |  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |
 
 Übergabe an Platoon Medic/MedEvac mit folgenden Punkten:  
-1\. Puls vorhanden Ja/Nein  
-2\. Atemweg geprüft und frei Ja/Nein  
-3\. Medikamente gegeben Ja/Nein  
-4\. Wie lange liegt er?  
-5\. Fragen ob weitere Hilfe (z.B. HLW) notwendig
+1. Puls vorhanden: Ja/Nein  
+2. Atemweg geprüft und frei: Ja/Nein  
+3. Medikamente gegeben: Ja/Nein  
+4. Wie lange liegt er?  
+5. Fragen ob weitere Hilfe (z.B. HLW) notwendig
 
 
 ## Wichtigsten Infos für PMED und Squad Medics 
