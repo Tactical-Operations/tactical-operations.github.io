@@ -7,7 +7,7 @@ title: TacOps 2 - Tidal Spear - Termine und Ablauf
 
 ## Übungstermine
 
-Für Air-Stack, Medizinisches Personal und Führung wird es Termine abklären geben.  
+Für Air-Stack, Medizinisches Personal und Führung wird es Termine zum Abklären geben.  
 Anmeldungen für die Übungstermine sind nicht nötig.  
 Betreffende Personen erscheinen selbstständig - falls ihr euch nicht sicher seid fragt einfach im [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792)    
 
@@ -18,11 +18,11 @@ Folgende Übungstermine werden angesetzt:
 
 ## Evaluationsevent - Samstag 21.12.2024
 
-Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).
+Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet, siehe [Anmeldung](./enrolment.html).  
 Das Evaluationsevent findet am 21.12.2024 statt.  
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.  
 
-* Slotliste für Evaluationsevent: [Google Sheet Slotliste]()  
+* Slotliste für Evaluationsevent: [Slotliste - Google Sheet ]()  
 
 #### Ablauf
 
@@ -36,6 +36,8 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 | Gruppenintern Feedback sammeln | bis 00:00 Uhr |
 | Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
 
+#### Anmerkung
+
 * Es gibt eine **kleine** Umfrage für alle Teilnehmer nach jeder Mission. Wir freuen uns über euer ehrliches Feedback.
 
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
@@ -44,7 +46,7 @@ Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** geö
 Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt.  
 Ziel ist: Spass haben.  
 
-* Slotliste für Hauptevent: [Vorläufiges Slotliste]()
+* Slotliste für Hauptevent: [Vorläufige Slotliste - Google Sheet ]()  
 
 ### Schicht 1 - Freitag Abend
 
