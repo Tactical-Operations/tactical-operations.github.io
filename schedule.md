@@ -22,7 +22,9 @@ Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024 - 19:00 Uhr*
 Das Evaluationsevent findet am 21.12.2024 statt.  
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.  
 
+<div markdown="1" class="hidden">
 * Slotliste für Evaluationsevent: [Slotliste - Google Sheet ]()  
+</div>
 
 #### Ablauf
 
@@ -55,7 +57,9 @@ Das Hauptevent findet in 3 Schichten statt:
 
 Ziel ist es Spass zu haben.  
 
+<div markdown="1" class="hidden">
 * Slotliste für Hauptevent: [Vorläufige Slotliste - Google Sheet ]()  
+</div>
 
 ### Schicht 1 - Freitag Abend
 
