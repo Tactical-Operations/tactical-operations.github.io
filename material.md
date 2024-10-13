@@ -5,9 +5,16 @@ title: TacOps 2 - Tidal Spear - Material und Handouts
 
 # Material
 <div markdown="1" class="hidden">
-Alle Informationen zum Event und alle Handouts sind ebenfalls als PDF bereitgestellt: [TacOps#2 InfoBlatt](https://docs.google.com/document/d/1Z0eIantrP8OMbJXBCQ13SBILN8_I6juDwzkOAYmNtTw/edit#heading=h.l59q0g926vg8).
 </div>
 
+Diese Dokument ist gedacht damit alle Information und Material welches wärend einer Mission benötigt wird an einer Stelle gesammel nachlesbar ist.
+Es ist so aufgebaut, dass zuerst die Informationen für Alle Spieler lesbar sind für:
+* Schützen und alle: Organisatorisches, Medic Setting, XABCDE Schema für Behandlungen von Verletzten, Funkplan
+* Führungskräfte zusätzlich: Air Force - Führungsübersicht, Logistik - Handout
+* Medizinisches Personal zusätzlich: Wichtigsten Infos für PMED und Squad Medics
+* Air Force zusätzlich: Air Force - Operationsübersicht
+
+Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 ## Organisatorisches
 
@@ -68,8 +75,75 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 4. Wie lange liegt er?  
 5. Fragen ob weitere Hilfe (z.B. HLW) notwendig
 
+## MedEvac Info
+
+Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
+
+**1\. Kein kompliziertes Anfrageverfahren**  
+Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den MedEvac anfordern.  
+Einfach sagen: „Wir sind Archer Blue 1 und brauchen den MedEvac\!“  
+Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT mit höchster Priorität behandelt.
+
+**2\. Schnelle Ankunft innerhalb von 3-4 Minuten**    
+Der MedEvac ist so trainiert und optimiert, dass er bis zum Ausrücken nur 30 Sekunden benötigt. Nach weiteren 3 Minuten ist ein MedEvac-Doktor planmäßig in der Landezone.    
+Wir hoffen auf eine durchschnittliche Estimated Time of Arrival (ETA) von 3,5 Minuten.
+
+Zusätzlich nutzen wir Holding Areas, um die ETA weiter zu reduzieren und den Hubschrauber dicht am aktuellen Geschehen zu halten.  
+Die Logistik stellt Versorgungspunkte bereit, damit der MedEvac-Helikopter näher bei den Spielern ist.
+
+Ein MedEvac-Doktor bleibt im MedEvac für Folgeaufträge. Selbst wenn der MedEvac bereits angefordert wurde, können wir beide Platoons unterstützen.
+
+**3\. MedEvac leistet, was benötigt wird**  
+Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:  
+\- Transport der Patienten zur Basis, bei vielen schweren Ausfällen  
+\- Medizinische Unterstützung vor Ort durch MedEvac-Doktoren
+
+**Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
+
+## Funkplan Triton Company
+
+TODO
+
+# Air Force - Operationsübersicht
+(Ab hier primär für Führungskräfte)
+
+#### Ablauf:
+1. Eine Anforderung für CAS, MedEvac oder A-Recon wird durch den JTAC an
+den CCT gemacht.
+2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf die Frequenz
+des JTACs, dort wird das weitere Vorgehen koordiniert
+3. Sobald die Luftunterstützung nicht mehr benötigt wird, meldet sich diese
+wieder von der Frequenz des JTACs ab.
+#### MedEvac:
+* Der MedEvac kann jederzeit Angefordert werden, unabhängig von
+Verwundetenzahl, er steht in der Dringlichkeit über allen andern
+Einsatztypen.
+* Der MedEvac kann sowohl für den Verwundetentransport (Doc-Team sitzt
+nicht ab), als auch für medizinische Unterstützung (Doc-Team sitzt ab)
+angefordert werden.
+* Der JTAC braucht im Idealfall die Anzahl sowie den Schweregrad der
+Verletzten um diese an den CCT weiterzugeben.
+* Eine Einweisung der MedEvac Besatzung ist an der LZ notwendig.
+#### CAS:
+* CAS kann jederzeit angefordert werden unterliegt jedoch den ROE.
+* CAS beinhaltet die bewaffnete Luftnahunterstützung, und hilft den
+kämpfenden Bodentruppen bei der Erfüllung ihrer Missionen.
+* CAS kann mithilfe von Bomben, Raketen und auch Geschützen durchgeführt
+werden, da viele dieser Waffensysteme gelenkt sind ermöglicht dies eine
+präzise Ausschaltung von Zielen.
+#### A-Recon:
+* A-Recon steht für Aerial reconnaissance, nicht zu verwechseln mit Recon Einheiten.
+* Der Einsatztyp A-Recon beinhaltet das luftgestützte Aufklären von Gebieten,
+bei der feindliche Kräfte markiert werden können und über den JTAC eine
+Lagebild übermittelt wird.
+* A-Recon hat die geringste Gewichtung von allen Einsatztypen und kann
+daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben
+werden.
+
 
 ## Wichtigsten Infos für PMED und Squad Medics 
+(Ab hier primär für Medizinisches Personal, also Platoon Medics, Squad Medics gedacht)
+
 Was ist neu gegenüber Ace Medical in KAT Medical  
 * neu → Atemwege und dass diese verstopft sein können und ohne KingLT wieder verstopfen können (Kotzgeräusch)! 
 * neu → Pneumothorax siehe Brust → tiefgreifende Wunde braucht nur ein Chest Seal, es gibt keine erweiterten Pneumos! 
@@ -104,37 +178,9 @@ Werte:
 
 > bei Fragen [Discord @cpt_moon](https://discord.com/channels/1230998538926952578/1230998539388190792)
 
-## MedEvac Info
-
-Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
-
-**1\. Kein kompliziertes Anfrageverfahren**  
-Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den MedEvac anfordern.  
-Einfach sagen: „Wir sind Archer Blue 1 und brauchen den MedEvac\!“  
-Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT mit höchster Priorität behandelt.
-
-**2\. Schnelle Ankunft innerhalb von 3-4 Minuten**    
-Der MedEvac ist so trainiert und optimiert, dass er bis zum Ausrücken nur 30 Sekunden benötigt. Nach weiteren 3 Minuten ist ein MedEvac-Doktor planmäßig in der Landezone.    
-Wir hoffen auf eine durchschnittliche Estimated Time of Arrival (ETA) von 3,5 Minuten.
-
-Zusätzlich nutzen wir Holding Areas, um die ETA weiter zu reduzieren und den Hubschrauber dicht am aktuellen Geschehen zu halten.  
-Die Logistik stellt Versorgungspunkte bereit, damit der MedEvac-Helikopter näher bei den Spielern ist.
-
-Ein MedEvac-Doktor bleibt im MedEvac für Folgeaufträge. Selbst wenn der MedEvac bereits angefordert wurde, können wir beide Platoons unterstützen.
-
-**3\. MedEvac leistet, was benötigt wird**  
-Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:  
-\- Transport der Patienten zur Basis, bei vielen schweren Ausfällen  
-\- Medizinische Unterstützung vor Ort durch MedEvac-Doktoren
-
-**Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
-
-## Funkplan Triton Company
-
-TODO
 
 # Air Force - Operationsübersicht
-(Dieses Dokument ist für Aircrews und JTACs gedacht)
+(Ab hier primär für Aircrews und JTACs gedacht)
 
 ## JTAC
 
