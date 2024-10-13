@@ -3,27 +3,7 @@ layout: default
 title: TacOps 2 - Briefing, Lage, Absichten und Durchführung
 ---
 
-# Briefing, Lage und Aufträge
-
-# Situation
-
-# Lage
-
-### Eigene Kräfte (BLUFOR)
-
-### Feindliche Kräfte (OPFOR)
-
-### Neutrale Kräfte ()
-
-### Zivile Lage
-
-## Absichten
-
 # Briefing, Lage, Absichten und Durchführung
-
-Ziel ist die Entlastung der kolumbianischen Armee im mittlere Bereich des Landes.
-Dazu Eröffnung einer zweiten Front im Norden des Landes durch die Triton Company.
-Durchgeführt wird eine Anlandung mit anschließender Brückenkopfabsicherung.
 
 ## Situation
 
@@ -49,11 +29,15 @@ Durchgeführt wird eine Anlandung mit anschließender Brückenkopfabsicherung.
 
 ## Lage
 
-### Eigene Kräfte (BLUFOR)
+Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumbianischen Militär.
+Es wird eine zweite Front im Norden des Landes eröffnen.
+Die Triton Company wurde in die Region verlegt um anzulanden und einen Brückenkopfabsicherung abzusichern.
+
+### Eigene Kräfte (USMC)
 
 TODO
 
-### Feindliche Kräfte (OPFOR)
+### Feindliche Kräfte (CSAT)
 
 TODO
 
@@ -65,7 +49,7 @@ Nicht vorhanden
 
 TODO
 
-## 3\. Absichten
+## Absichten
 
 Ziel ist die Entlastung der kolumbianischen Armee im mittlere Bereich des Landes.
 Dazu Eröffnung einer zweiten Front im Norden des Landes durch die Triton Company.
