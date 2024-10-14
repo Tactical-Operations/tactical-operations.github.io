@@ -4,6 +4,8 @@ repo:
 
 #remote_theme: andreondra/jekyll-theme-simplex
 #remote_theme: S3ler/leap-day
-remote_theme: S3ler/cayman
+#remote_theme: S3ler/cayman
+remote_theme: Tactical-Operations/cayman
+
 
 show_downloads: false
