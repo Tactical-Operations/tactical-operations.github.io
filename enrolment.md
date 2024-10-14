@@ -10,7 +10,7 @@ Die Anmeldung ist im jeweiligen Discord Channel:
 * [ #Anmeldung Evaluationsevent](https://discord.com/channels/1230998538926952578/1295007787197272164)
 * [ #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
 
-oder direkt in Discord bei [Bele](https://discordapp.com/users/chibi_mochizuki/) möglich.  
+oder direkt in Discord bei **[TacOps] Bele** möglich.  
 
 Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage dazu.
 #### Beispiel
@@ -19,8 +19,10 @@ Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage d
 > Dustoff 9-1 (Hotel / Mike)  
 > Alle Schichten  
 
-* **Gruppen/Clans** können ihre Repräsentant über [Discord #write-a-ticket]() anmelden, oder direkt in Discord bei [Bele](https://discordapp.com/users/chibi_mochizuki/). Repräsentanten können dann Slots für ihre jeweiligen Gruppen/Clans reservieren.
-* **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei [Bele](https://discordapp.com/users/chibi_mochizuki/).
+* **Gruppen/Clans** können ihre Repräsentant über [Discord #write-a-ticket]() anmelden, oder direkt in Discord bei **[TacOps] Bele**. Repräsentanten können dann Slots für ihre jeweiligen Gruppen/Clans reservieren.
+* **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei **[TacOps] Bele**.
+
+Anmerkung: Manche Slots wie Company Command und Platoon 
 
 ## Übungstermine
 
@@ -38,4 +40,4 @@ Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** frei
 Das Hauptevent findet in 3 Schichten: Schicht 1 Freitag Abend 17.01.2025, Schicht 2 Samstag 18.01.2025 Nachmittag, Schicht 3 18.01.2025 Samstag Abend statt, siehe [Termine](./schedule.html).  
 * Anmeldung im [Discord #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
 
-[zurück](./)
+[top](#top)
