@@ -22,7 +22,7 @@ Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage d
 * **Gruppen/Clans** können ihre Repräsentant über [Discord #write-a-ticket]() anmelden, oder direkt in Discord bei **[TacOps] Bele**. Repräsentanten können dann Slots für ihre jeweiligen Gruppen/Clans reservieren.
 * **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei **[TacOps] Bele**.
 
-Anmerkung: Manche Slots wie Company Command und Platoon 
+**Anmerkung:** Manche Slots wie zum Beispiel wie Company Command, Platoon Lead, MedEvac können gesondert vergeben werden.
 
 ## Übungstermine
 
