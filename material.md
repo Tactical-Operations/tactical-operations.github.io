@@ -33,7 +33,7 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 ## Funkplan Triton Company
 
-TODO
+TODO - mit Priorität
 
 {% include_relative medevacdetailinformation.md %}
 
