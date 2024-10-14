@@ -35,7 +35,7 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 TODO - mit Priorität
 
-{% include_relative medevacdetailinformation.md %}
+{% include_relative medevacinfo.md %}
 
 # Medizinisches Personal
 
