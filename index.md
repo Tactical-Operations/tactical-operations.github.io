@@ -5,7 +5,7 @@ title: TacOps 2 - Tidal Spear - Wichtiges im Überblick
 
 # Tidal Spear - Wichtiges im Überblick
 
-### Ansprechpartner: [Bele](https://discordapp.com/users/chibi_mochizuki/)
+### Ansprechpartner: **[TacOps] Bele**
 
 ## 🗺️ Szenario   
 Zeitraum um 2020  
@@ -39,9 +39,11 @@ Kommunikation: TFAR oder ACRE
 
 ## 📃 Kontakt (Discord)  
 [TacOps Discord Einladungslink](https://discord.gg/ZftQWwF8Cy)  
+<div markdown="1" class="hidden">
 Channel [\#informationen](https://discord.com/channels/1230998538926952578/1294985131349508137) für die wichtigen Informationen.  
 Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.  
-💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [[TacOps] Bele](https://discordapp.com/users/chibi_mochizuki/)** wenden.
+</div>
+💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner **[TacOps] Bele** wenden.
 
 <div markdown="1" class="hidden">
 **Modpaket:** [TacOps\_2\_Modset.html]()  
