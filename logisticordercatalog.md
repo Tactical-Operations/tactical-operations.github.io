@@ -20,7 +20,7 @@
 
 | Nr | Supply Units | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
-| 0-01 | **Platoon Supply Unit**  | 4x Infanteriemunition (pro Squad)\ 2x Granaten (inkl. für Granatwerfer)\ 1x Medizinische Vorräte (Pro Platoon/Infanterie)\ 1x Panzerabwehr |
+| 0-01 | **Platoon Supply Unit**  | 4x Infanteriemunition (pro Squad)<br> 2x Granaten (inkl. für Granatwerfer)<br> 1x Medizinische Vorräte (Pro Platoon/Infanterie)<br> 1x Panzerabwehr |
 | 0-02  | **Vehicle Supply Unit**  | Fahrzeugmunition-Palette/-Box Treibstoff-Palette Betankung und Aufmunitionierung durch Logistiker/Combat Engineer |
 | 0-03 | **Vehicle Repair Unit**   | Fahrzeugreparatur-Palette Ersatzreifen (in Box) Reparatur durch Logistiker/Combat Engineer |
 
