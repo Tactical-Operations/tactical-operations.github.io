@@ -53,31 +53,31 @@
 | A-Recon/ CAS/ MedEvac | z.B. POI001 | z.B. Green Ant auf 68 |
 
 #### Brevity Terms:  
-AO: Area of Operation  
-MSR: Main Supply Route  
-BOT: Bomb on Target (Bekämpfen von Ziel→Benötigt Sicht auf das Ziel(Tally), für Freigabe.)  
-BOC: Bomb on Coordinate (Bekämpfen von Koordinate→ohne Sicht auf Ziel.)  
-BDA: Battle Damage Assesment  
-BHA: Battle Hit Assesment  
-Cleard Hot: Waffenfreigabe für Anflug erteilt.  
-Cleard to Engage: Waffenfreigabe für mehrere Anflüge  
-Tally: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)  
-Bingo: Treibstoff reicht nur für Rückflug.  
-Winchester: Keine Munition (Winchester Guns: Keine Munition für Gun.)
+**AO**: Area of Operation  
+**MSR**: Main Supply Route  
+**BOT**: Bomb on Target (Bekämpfen von Ziel→Benötigt Sicht auf das Ziel(Tally), für Freigabe.)  
+**BOC**: Bomb on Coordinate (Bekämpfen von Koordinate→ohne Sicht auf Ziel.)  
+**BDA**: Battle Damage Assesment  
+**BHA**: Battle Hit Assesment  
+**Cleard Hot**: Waffenfreigabe für Anflug erteilt.  
+**Cleard to Engage**: Waffenfreigabe für mehrere Anflüge  
+**Tally**: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)  
+**Bingo**: Treibstoff reicht nur für Rückflug.  
+**Winchester**: Keine Munition (Winchester Guns: Keine Munition für Gun.)
 
 #### Smoke:
-Grün: Freund Markierung  
-Gelb: JTAC Reserviert  
-Rot: Feind Markierung  
-Blau: LZ Markierung  
-Orange: JTAC Reserviert  
-Violet: Medevac  
-Weiß: Verschleierung
+**Grün**: Freund Markierung  
+**Gelb**: JTAC Reserviert  
+**Rot**: Feind Markierung  
+**Blau**: LZ Markierung  
+**Orange**: JTAC Reserviert  
+**Violet**: Medevac  
+**Weiß**: Verschleierung
 
 #### Flares:  
-Weiß: Beleuchtung  
-Grün: Freund Markierung  
-Rot: Feind Markierung
+**Weiß**: Beleuchtung  
+**Grün**: Freund Markierung  
+**Rot**: Feind Markierung
 
 #### Wichtige Frequenzen
 
@@ -90,11 +90,11 @@ Rot: Feind Markierung
 Logistik für RRR auf 69 Hz
 
 ####  Karten Markierungen
-IP: Inital Point (Punkt von dem ein Anflug gestartet werden kann.)  
-HP: Holding Point (Punkt an dem Hubschrauber warten und Hovern.)  
-HA:Holding Area (Aufenthaltsraum für Hubschrauber) →darf nur von CCT erstellt werden.  
-ACA:Aircraft Control Area( Aufenthaltsraum für Luftfahrzeuge)→darf nur von CCT erstellt werden  
-LZ:Landing Zone →muss auf c-Tab oder JVMF markiert werden, →darf nicht verschoben werden.
+**IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann.)  
+**HP**: Holding Point (Punkt an dem Hubschrauber warten und Hovern.)  
+**HA**:Holding Area (Aufenthaltsraum für Hubschrauber) →darf nur von CCT erstellt werden.  
+**ACA**:Aircraft Control Area( Aufenthaltsraum für Luftfahrzeuge)→darf nur von CCT erstellt werden  
+**LZ**:Landing Zone →muss auf c-Tab oder JVMF markiert werden, →darf nicht verschoben werden.
 
 ### JTAC
 
