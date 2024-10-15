@@ -32,7 +32,7 @@
 <div markdown="1" class="airforce-table airforce-9-liner airforce-5-liner">
 
 |  | 9-Liner |  | 5-Liner |
-| :-----: | :---: | :-----: | :-----: |
+| :-: | :---: | :-----: | :-----: |
 | 1\. | Ingress | 1\. | Ziel Position |
 | 2\. | Richtung | 2\. | Ziel Beschreibung |
 | 3\. | Distanz zum Ziel IP | 3\. | Ziel Markierung |
@@ -51,7 +51,7 @@
 <div markdown="1" class="airforce-table">
 
 | | BHA \- Ergebnis des Waffeneinsatzes  |
-| ----- | :---: |
+| :-: | :---: |
 | 1\. | Effekt |
 | 2\. | BDA |
 | 3\. | Re-run |
