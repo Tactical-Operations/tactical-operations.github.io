@@ -1,7 +1,9 @@
 ## Logistikbestellkatalog
 
+<div markdown="1" class="logistic-table logistic-table-2 logistic-table-order-catalog">
+
 | Farbe | Einheitengattung |
-| ----- | ----- |
+| :-----: | :-----: |
 | **Grün** | **Für Infanterie** |
 | **Rosa** | **Medizinisch (für alle)** |
 | **Rot** | **Für medizinisches Personal** |
@@ -10,15 +12,23 @@
 | **Lila-Blau** | **Für Führungskräfte** |
 | **Blau** | **Für Luftstreitkräfte** |
 
+</div>
+
 #### Supply Units
 
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-supply-units">
+
 | Nr | Supply Units | Beschreibung/Inhalt |
-| :---: | ----- | :---- |
+| :---: | :---- | :---- |
 | 0-01 | **Platoon Supply Unit**  | 4x Infanteriemunition (pro Squad) 2x Granaten (inkl. für Granatwerfer) 1x Medizinische Vorräte (Pro Platoon/Infanterie) 1x Panzerabwehr |
 | 0-02  | **Vehicle Supply Unit**  | Fahrzeugmunition-Palette/-Box Treibstoff-Palette Betankung und Aufmunitionierung durch Logistiker/Combat Engineer |
 | 0-03 | **Vehicle Repair Unit**   | Fahrzeugreparatur-Palette Ersatzreifen (in Box) Reparatur durch Logistiker/Combat Engineer |
 
+</div>
+
 #### Infanterieversorgung
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-infantry-supply">
 
 | Nr | Infanterieversorgung | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
@@ -40,7 +50,11 @@
 | 1-16 | (KAM) Medizinische Blutbank | Exkl. für Dustoff 9-1 |
 | 1-69 | Kleine Kiste (leer)/Große Kiste (leer) | Dient für Sonderbestellungen |
 
+</div>
+
 #### Fahrzeugversorgung
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-vehicle-supply">
 
 | Nr | Fahrzeugversorgung | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
@@ -53,7 +67,12 @@
 | 2-07 | Raketenwagen für A-10 | Ermöglicht Zugriff für A-10 Piloten auf das AMS |
 | 2-08 | Ersatzreifen (in Box) | Frachtkiste, vorgefüllt mit 20 Ersatzreifen |
 
+</div>
+
+
 #### Schwere Waffen/Artillerie
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-artillery-supply">
 
 | Nr | Schwere Waffen/Artillerie | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
@@ -64,10 +83,14 @@
 | 3-05 | M41A4 TOW | Statische AT auf Dreibein montiert, wird kniend bedient |
 | 3-06 | TOW-Munition | 2x BGM-71E TOW-2A (Fahrzeugbekämpfung) 3x BGM-71H Bunker Buster (Bekämpfung von Stellungen und Infanterie) |
 
+</div>
+
 #### Landfahrzeuge
 
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-land-vehicle">
+
 | Nr | Landfahrzeuge | Sitzplätze | Anmerkungen |
-| :---: | :---- | ----- | :---- |
+| :---: | :---- | :-----: | :---- |
 | 4-01 | Hunter MRAP | 5 |  |
 | 4-02 | Hunter MRAP (M2) | 5 |  |
 | 4-03 | Caiman Bus MRAP | 8 |  |
@@ -81,10 +104,14 @@
 | 4-11 | Buggy für Recon | 6 |  |
 | 4-12 | LKW mit Lazarettzelt | 3 | Exkl. für Dustoff 9-1 |
 
+</div>
+
 #### Luftfahrzeuge
 
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-air-vehicle">
+
 | Nr | Luftfahrzeuge | Sitzplätze | Zweck/Nutzen |
-| :---: | :---- | ----- | :---- |
+| :---: | :---- | :-----: | :---- |
 | 5-01 | UH-60M Blackhawk | 17 | Infanterietransport |
 | 5-02 | UH-60M Blackhawk (Slick) | 8 | Frachttransport |
 | 5-03 | UH-60M Blackhawk DAP MLASS | 12 | CAS-Variante |
@@ -96,16 +123,24 @@
 | 5-09 | A-10 Warthog | 1 | Erdkampfflugzeug |
 | 5-10 | MQ-9 Reaper | 0 | UAV |
 
+</div>
+
 #### Seefahrzeuge
 
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-sea-vehicle">
+
 | Nr | Seefahrzeuge | Sitzplätze | Beschreibung/Inhalt |
-| :---: | :---- | ----- | ----- |
+| :---: | :---- | :-----: | ----- |
 | 6-01 | N/A | N/A | N/A |
+
+</div>
 
 #### Bauvorhaben/Stellungen
 
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-construction">
+
 | Nr | Bauvorhaben/Stellungen\* | Bauzeit\* | Beschreibung |
-| :---: | :---- | ----- | :---- |
+| :---: | :---- | :-----: | :---- |
 | 7-01 | Munitionsversteck | \~ 15 Min | Kleines verstecktes Lager für Infanterie Versorgung |
 | 7-02 | Versorgungspunkt(Für die Frontversorgung) | \~ 30 Min | Kleine Stellung nahe der Front, meist an Straße |
 | 7-03 | \+ Integration von 1-2 Helipads | \~ 15 Min | Inkl. Versorgung für Helis |
@@ -116,23 +151,33 @@
 | 7-08 | Kleine Fire Support Base | \~ 60 Min | Bunkerstellung mit mehreren schweren Waffen |
 | 7-09 | Flexible Bauvorhaben | Variabel | Stacheldraht-Konstruktionen, Stellungen, Fahrzeugsperren, Aufbau von Fallen, Brückenbau |
 
+</div>
+
 \*= Die Bauzeiten sind pragmatisch eingeschätzt und werden voraussichtlich kürzer sein.
 
 #### Wartung Luftfahrzeuge
 
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-air-vehicle-maintenance">
+
 | Nr | Wartung Luftfahrzeuge | Beschreibung/Inhalt |
-| :---: | :---- | :---- |
+| :--- | :---- | :---- |
 | 8-01 | Reparatur |  |
 | 8-02 | Betankung |  |
 | 8-03 | Aufmunitionieren |  |
 | 8-04 | Pylonenwechsel | Neu-Bestückung von Pylonen |
 | 8-05 | Umbau von Blackhawk | Installation eines **2-06** an Blackhawk oder Entfernung von Türen von Blackhawk |
 
+</div>
+
 #### Sonstiges
 
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-3 logistic-table-others">
+
 | Nr | Sonstiges | Beschreibung/Inhalt |
-| :---: | :---- | :---- |
+| :--- | :---- | :---- |
 | 9-01 | Überführen/Transport eines Fahrzeugs | Falls Fahrzeuge in die Basis zurück oder zu einer nachverlegt werden müssen aufgrund eines Lufttransports |
 | 9-02 | Minenräum-Kommando | Falls Minenfelder geräumt werden sollen. |
 | 9-03 | Wracks bergen | Logistiker formen ein Bergungs-Kommando, um ein Wrack zu bergen. |
 | 9-04 | Sonderauftrag | Inhalt wird mit Logistikleitung besprochen und festgelegt, sofern Kapazitäten vorhanden sind. |
+
+</div>
