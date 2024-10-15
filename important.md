@@ -5,7 +5,7 @@ title: TacOps 2 - Tidal Spear - Wichtiges im Überblick
 
 # Tidal Spear - Wichtiges im Überblick
 
-### Ansprechpartner: **[TacOps] Bele**
+### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) 
 
 ## 🗺️ Szenario   
 Zeitraum um 2020  
