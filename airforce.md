@@ -10,7 +10,7 @@
 <div markdown="1" class="airforce-table">
 
 | LZ Name | Feindlage  | Ingress/Egress  | Markierung  |
-| - | - | - | - |
+| :-----: | :--------: | :-------------: | :---------: |
 | - | (grün, gelb, rot) | (optional) | (optional) |
 
 </div>
