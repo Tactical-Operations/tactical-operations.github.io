@@ -7,17 +7,25 @@
 
 #### LZ 4-Liner:
 
+<div markdown="1" class="airforce-table">
+
 | LZ Name | Feindlage  | Ingress/Egress  | Markierung  |
 | - | - | - | - |
 | - | (grün, gelb, rot) | (optional) | (optional) |
 
+</div>
+
 #### CAS
 
-| Gameplan |  |
-| ----- | :---: |
+<div markdown="1" class="airforce-table">
+
+|  | Gameplan |
+| :-----: | :---: |
 | 1\. | Einsatz Typ |
 | 2\. | BOT/BOC |
 | 3\. | Waffenanforderung |
+
+</div>
 
 #### 9/5-Liner
 
@@ -40,17 +48,25 @@
 
 #### BAH
 
+<div markdown="1" class="airforce-table">
+
 | | BHA \- Ergebnis des Waffeneinsatzes  |
 | ----- | :---: |
 | 1\. | Effekt |
 | 2\. | BDA |
 | 3\. | Re-run |
 
+</div>
+
 #### Mission 3-Liner (nur für Piloten)
 
+<div markdown="1" class="airforce-table">
+
 | Mission Typ | Ort (AO) | Zu kontaktierende Einheit |
-| :---- | :---- | :---- |
+| :----: | :----: | :----: |
 | A-Recon/ CAS/ MedEvac | z.B. POI001 | z.B. Green Ant auf 68 |
+
+</div>
 
 #### Brevity Terms:  
 **AO**: Area of Operation  
@@ -81,11 +97,15 @@
 
 #### Wichtige Frequenzen
 
+<div markdown="1" class="airforce-table">
+
 | Piloten |  | JTAC |  |
-| ----- | :---- | ----- | :---- |
+| :-----: | :---- | :-----: | :---- |
 | Luftraum (Tower) | 80 Hz (Lasercode 1115\) | TACP-com | 84 Hz |
 | Red Titan | 38 Hz (Lasercode 1113\) |  |  |
 | Blue King | 58 Hz (Lasercode 1114\) |  |  |
+
+</div>
 
 Logistik für RRR auf 69 Hz
 
