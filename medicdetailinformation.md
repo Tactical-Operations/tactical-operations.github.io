@@ -2,7 +2,7 @@
 
 <div markdown="1" class="medic-new-with-kat">
 
-Was ist neu gegenüber Ace Medical in KAT Medical  
+Was ist neu gegenüber Ace Medical im TacOps2 KAT Medical?  
 
 </div>
 
