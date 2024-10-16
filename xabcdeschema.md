@@ -2,6 +2,8 @@
 
 Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 
+<div markdown="1" class="medic-table medic-xabcde-schema-table">
+
 | | XABCDE Schema für Behandlungen von Verletzten |
 | :---: | ----- | 
 | X | Kritische Blutung beheben |
@@ -23,9 +25,11 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 |  | Patient reorientieren, Schmerztabletten geben |
 |  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |
 
-Übergabe an Platoon Medic/MedEvac mit folgenden Punkten:  
-1. Puls vorhanden: Ja/Nein  
-2. Atemweg geprüft und frei: Ja/Nein  
-3. Medikamente gegeben: Ja/Nein  
-4. Wie lange liegt er?  
-5. Fragen ob weitere Hilfe (z.B. HLW) notwendig
+</div>
+
+**Übergabe** an Platoon Medic/Squad Medic/MedEvac mit folgenden Punkten:  
+1. **Puls** vorhanden: Ja/Nein  
+2. **Atemweg** geprüft und frei: Ja/Nein  
+3. **Medikamente** gegeben: Ja/Nein  
+4. Wie **lange** liegt er?  
+5. Fragen ob **weitere Hilfe** (z.B. HLW) notwendigs
