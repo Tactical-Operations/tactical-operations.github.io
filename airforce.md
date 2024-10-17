@@ -7,7 +7,7 @@
 
 #### LZ 4-Liner:
 
-<div markdown="1" class="airforce-table">
+<div markdown="1" class="airforce-table airforce-lz-4-liner">
 
 | LZ Name | Feindlage  | Ingress/Egress  | Markierung  |
 | :-----: | :--------: | :-------------: | :---------: |
@@ -17,7 +17,7 @@
 
 #### CAS
 
-<div markdown="1" class="airforce-table">
+<div markdown="1" class="airforce-table airforce-gameplan">
 
 |  | Gameplan |
 | :-----: | :---: |
@@ -48,7 +48,7 @@
 
 #### BAH
 
-<div markdown="1" class="airforce-table">
+<div markdown="1" class="airforce-table airforce-bah">
 
 | | BHA \- Ergebnis des Waffeneinsatzes  |
 | :-: | :---: |
@@ -60,7 +60,7 @@
 
 #### Mission 3-Liner (nur für Piloten)
 
-<div markdown="1" class="airforce-table">
+<div markdown="1" class="airforce-table airforce-mission-3-liner">
 
 | Mission Typ | Ort (AO) | Zu kontaktierende Einheit |
 | :----: | :----: | :----: |
@@ -97,10 +97,10 @@
 
 #### Wichtige Frequenzen
 
-<div markdown="1" class="airforce-table">
+<div markdown="1" class="airforce-table airforce-important-frequences">
 
 | Piloten |  | JTAC |  |
-| :-----: | :---- | :-----: | :---- |
+| :-----: | :----: | :-----: | :----: |
 | Luftraum (Tower) | 80 Hz (Lasercode 1115\) | TACP-com | 84 Hz |
 | Red Titan | 38 Hz (Lasercode 1113\) |  |  |
 | Blue King | 58 Hz (Lasercode 1114\) |  |  |
