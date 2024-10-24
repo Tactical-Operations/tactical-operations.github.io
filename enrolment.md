@@ -10,7 +10,7 @@ Die Anmeldung ist im jeweiligen Discord Channel:
 * [ #Anmeldung Evaluationsevent](https://discord.com/channels/1230998538926952578/1295007787197272164)
 * [ #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
 
-oder direkt in Discord bei **[TacOps] Bele** möglich.  
+oder direkt in Discord bei **Bele** möglich.  
 
 Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage dazu.
 #### Beispiel
@@ -19,8 +19,8 @@ Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage d
 > Dustoff 9-1 (Hotel / Mike)  
 > Alle Schichten  
 
-* **Gruppen/Clans** können ihre Repräsentant über [Discord #write-a-ticket]() anmelden, oder direkt in Discord bei **[TacOps] Bele**. Repräsentanten können dann Slots für ihre jeweiligen Gruppen/Clans reservieren.
-* **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei **[TacOps] Bele**.
+* **Gruppen/Clans** können ihre Repräsentant über [Discord #write-a-ticket]() anmelden, oder direkt in Discord bei **Bele**. Repräsentanten können dann Slots für ihre jeweiligen Gruppen/Clans reservieren.
+* **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei **Bele**.
 
 **Anmerkung:** Manche Slots wie zum Beispiel wie Company Command, Platoon Lead, MedEvac können gesondert vergeben werden.
 
