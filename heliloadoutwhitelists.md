@@ -1,4 +1,3 @@
-## Hubschrauber
 
 ### UH-1Y Venom Gunship
 
