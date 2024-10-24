@@ -32,9 +32,12 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 {% include_relative xabcdeschema.md %}
 
 <div markdown="1">
+<details>
+<summary>In Bearbeitung</summary>
 
 {% include_relative radio-communication-plan.md %}
 
+</details>
 </div>
 
 {% include_relative medevacinfo.md %}
@@ -58,14 +61,14 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 <div markdown="1">
 
 <details>
-<summary>In Überarbeitung</summary>
+<summary>In Bearbeitung</summary>
 
 {% include_relative logisticordercatalog.md %}
 
 </details>
 
 <details>
-<summary>In Überarbeitung</summary>
+<summary>In Bearbeitung</summary>
 
 {% include_relative heliloadoutwhitelists.md %}
 
