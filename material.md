@@ -31,9 +31,11 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative xabcdeschema.md %}
 
-## Funkplan Triton Company
+<div markdown="1">
 
 {% include_relative radio-communication-plan.md %}
+
+</div>
 
 {% include_relative medevacinfo.md %}
 
@@ -53,7 +55,7 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 # Appendix
 
-<div markdown="1" class="logistic-table logistic-table-4 logistic-table-construction">
+<div markdown="1">
 
 <details>
 <summary>In Überarbeitung</summary>
