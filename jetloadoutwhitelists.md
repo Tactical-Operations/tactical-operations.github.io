@@ -1,4 +1,4 @@
-### Flugzeug: **McDonnell Douglas F/A-18**
+### **McDonnell Douglas F/A-18**
 
 Die **F/A-18 *Hornet*** ist ein zweistrahliges, trägergestütztes Mehrzweckkampfflugzeug.
 Durch ihre Flexibilität bei der Bekämpfung von Boden-, See- und Luftzielen auf große Entfernung stellt sie die wichtigste offensive und defensive Komponente einer US-amerikanischen Flugzeugträgerkampfgruppe dar.
