@@ -1,1 +1,1 @@
-![Image](tacops-2-radio-communication-plan.png)
+![Image](./assets/tacops-2-radio-communication-plan.png)
