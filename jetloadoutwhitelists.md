@@ -26,15 +26,15 @@ CAS Aufträge werden nur von Hubschraubern durchgeführt.
 > 2 Missiles per Pylon possible
 
 ##### **Air to Ground**  
-> AGM-65 Maverick \[AT\]  
+
+**AGM-65 Maverick \[AT\]**  
 > Guided Anti Tank missile. Guidance system depends on the version.
+> H \[F\&F\] \[EO\] Shaped-charge warhead 57 kg (125 lb) 1 Missile per Pylon
 
-* H \[F\&F\] \[EO\] Shaped-charge warhead 57 kg (125 lb) 1 Missile per Pylon
+Aufschlüsselung
 
-**Aufschlüsselung**
-
-* \[AT\] \- Anti-Tank.  
-* \[EO\] \- Electro-optical guidance. Lock on Object.  
-* \[F\&F\] \- Fire & Forget.  
-* \[RAD\] \- Requires radar to lock on.  
-* \[IR\] \- Infrared Imaging.
+> \[AT\] \- Anti-Tank.  
+> \[EO\] \- Electro-optical guidance. Lock on Object.  
+> \[F\&F\] \- Fire & Forget.  
+> \[RAD\] \- Requires radar to lock on.  
+> \[IR\] \- Infrared Imaging.
