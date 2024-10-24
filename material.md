@@ -52,22 +52,16 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 # Appendix
 
 <div markdown="1">
-
 <details>
 <summary>In Bearbeitung</summary>
 
 {% include_relative logisticordercatalog.md %}
 
 </details>
+</div>
 
-<details>
-<summary>In Bearbeitung</summary>
 
 {% include_relative heliloadoutwhitelists.md %}
-
-</details>
-
-</div>
 
 {% include_relative jetloadoutwhitelists.md %}
 
