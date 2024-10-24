@@ -53,10 +53,24 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 # Appendix
 
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-construction">
+
+<details>
+<summary>In Überarbeitung</summary>
 {% include_relative logisticordercatalog.md %}
+</details>
 
-{% include_relative jetloadoutwhitelists.md %}
-
+<details>
+<summary>In Überarbeitung</summary>
 {% include_relative heliloadoutwhitelists.md %}
+</details>
+
+<details>
+<summary>In Überarbeitung</summary>
+{% include_relative jetloadoutwhitelists.md %}
+</details>
+
+</div>
+
 
 [top](#top)
