@@ -126,7 +126,7 @@
 #### Landfahrzeuge
 
 <style>
-.logistic-table-vehicle-supply {
+.logistic-table-land-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
 }
 </style>
@@ -153,7 +153,7 @@
 #### Luftfahrzeuge
 
 <style>
-.logistic-table-vehicle-supply {
+.logistic-table-air-vehicle {
   table tbody tr { background-color: var(--logistic-table-air-color); }
 }
 </style>
@@ -178,7 +178,7 @@
 #### Seefahrzeuge
 
 <style>
-.logistic-table-vehicle-supply {
+.logistic-table-sea-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
 }
 </style>
@@ -194,7 +194,7 @@
 #### Bauvorhaben/Stellungen
 
 <style>
-.logistic-table-vehicle-supply {
+.logistic-table-construction {
   table tbody tr { background-color: var(--logistic-table-logistic-only-color); }
 }
 </style>
@@ -220,7 +220,7 @@
 #### Wartung Luftfahrzeuge
 
 <style>
-.logistic-table-vehicle-supply {
+.llogistic-table-air-vehicle-maintenance {
   table tbody tr { background-color: var(--logistic-table-air-color); }
 }
 </style>
@@ -241,7 +241,7 @@
 
 
 <style>
-.logistic-table-vehicle-supply {
+.logistic-table-others {
   table tbody tr { background-color: var(--logistic-table-lead-color); }
 }
 </style>
