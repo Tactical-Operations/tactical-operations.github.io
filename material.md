@@ -57,17 +57,23 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 <details>
 <summary>In Überarbeitung</summary>
+
 {% include_relative logisticordercatalog.md %}
+
 </details>
 
 <details>
 <summary>In Überarbeitung</summary>
+
 {% include_relative heliloadoutwhitelists.md %}
+
 </details>
 
 <details>
 <summary>In Überarbeitung</summary>
+
 {% include_relative jetloadoutwhitelists.md %}
+
 </details>
 
 </div>
