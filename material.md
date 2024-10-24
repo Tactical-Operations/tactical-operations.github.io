@@ -35,8 +35,6 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative radio-communication-plan.md %}
 
-TODO - mit Priorität
-
 {% include_relative medevacinfo.md %}
 
 # Medizinisches Personal
