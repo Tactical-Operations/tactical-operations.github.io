@@ -1,5 +1,17 @@
 ## Logistikbestellkatalog
 
+<style>
+.logistic-table-order-catalog { 
+  table tbody tr:nth-child(1) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(2) { background-color: var(--logistic-table-medic-color);}
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(5) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(6) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(7) { background-color: var(--logistic-table-air-color);  }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-2 logistic-table-order-catalog">
 
 | Farbe | Einheitengattung |
@@ -16,6 +28,14 @@
 
 #### Supply Units
 
+<style>
+.logistic-table-supply-units { 
+  table tbody tr { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(2) { background-color: var(--logistic-table-vehicle-color); }
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-vehicle-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-supply-units">
 
 | Nr | Supply Units | Beschreibung/Inhalt |
@@ -27,6 +47,12 @@
 </div>
 
 #### Infanterieversorgung
+
+<style>
+.logistic-table-infantry-supply {
+  table tbody tr { background-color: var(--logistic-table-infantry-color); }
+}
+</style>
 
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-infantry-supply">
 
@@ -54,6 +80,12 @@
 
 #### Fahrzeugversorgung
 
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-vehicle-supply">
 
 | Nr | Fahrzeugversorgung | Beschreibung/Inhalt |
@@ -72,6 +104,12 @@
 
 #### Schwere Waffen/Artillerie
 
+<style>
+.logistic-table-artillery-supply {
+  table tbody tr { background-color: var(--logistic-table-lead-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-artillery-supply">
 
 | Nr | Schwere Waffen/Artillerie | Beschreibung/Inhalt |
@@ -86,6 +124,12 @@
 </div>
 
 #### Landfahrzeuge
+
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+}
+</style>
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-land-vehicle">
 
@@ -108,6 +152,12 @@
 
 #### Luftfahrzeuge
 
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-air-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-air-vehicle">
 
 | Nr | Luftfahrzeuge | Sitzplätze | Zweck/Nutzen |
@@ -127,6 +177,12 @@
 
 #### Seefahrzeuge
 
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-sea-vehicle">
 
 | Nr | Seefahrzeuge | Sitzplätze | Beschreibung/Inhalt |
@@ -136,6 +192,12 @@
 </div>
 
 #### Bauvorhaben/Stellungen
+
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-logistic-only-color); }
+}
+</style>
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-construction">
 
@@ -157,6 +219,12 @@
 
 #### Wartung Luftfahrzeuge
 
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-air-color); }
+}
+</style>
+
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-air-vehicle-maintenance">
 
 | Nr | Wartung Luftfahrzeuge | Beschreibung/Inhalt |
@@ -170,6 +238,13 @@
 </div>
 
 #### Sonstiges
+
+
+<style>
+.logistic-table-vehicle-supply {
+  table tbody tr { background-color: var(--logistic-table-lead-color); }
+}
+</style>
 
 <div markdown="1" class="logistic-table logistic-table-3 logistic-table-3 logistic-table-others">
 
