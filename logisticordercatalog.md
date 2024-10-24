@@ -220,7 +220,7 @@
 #### Wartung Luftfahrzeuge
 
 <style>
-.llogistic-table-air-vehicle-maintenance {
+.logistic-table-air-vehicle-maintenance {
   table tbody tr { background-color: var(--logistic-table-air-color); }
 }
 </style>
