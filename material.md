@@ -67,14 +67,8 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 </details>
 
-<details>
-<summary>In Überarbeitung</summary>
-
-{% include_relative jetloadoutwhitelists.md %}
-
-</details>
-
 </div>
 
+{% include_relative jetloadoutwhitelists.md %}
 
 [top](#top)
