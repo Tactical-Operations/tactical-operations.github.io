@@ -1,17 +1,15 @@
-## JET Loadout Whitelists
-
 ### Flugzeug: **McDonnell Douglas F/A-18**
 
 Die **F/A-18 *Hornet*** ist ein zweistrahliges, trägergestütztes Mehrzweckkampfflugzeug.Durch ihre Flexibilität bei der Bekämpfung von Boden-, See- und Luftzielen auf große Entfernung stellt sie die wichtigste offensive und defensive Komponente einer US-amerikanischen Flugzeugträgerkampfgruppe dar.
 
-### Auftrag
+#### Auftrag
 
 Die **F/A-18 Hornet** wird **ausschließlich** zur **Luftraumsicherung** eingesetzt.  
 CAS Aufträge werden nur von Hubschraubern durchgeführt.
 
-### Bewaffnung zur Luftraumsicherung**
+#### Bewaffnung zur Luftraumsicherung
 
-### **Anti Air**  
+##### **Anti Air**  
 
 **AIM-9(X) Sidewinder \[F\&F\] \[IR\]**
 
@@ -27,7 +25,7 @@ CAS Aufträge werden nur von Hubschraubern durchgeführt.
 > Range: min 700 / max 16000m  
 > 2 Missiles per Pylon possible
 
-**Air to Ground**  
+##### **Air to Ground**  
 > AGM-65 Maverick \[AT\]  
 > Guided Anti Tank missile. Guidance system depends on the version.
 
