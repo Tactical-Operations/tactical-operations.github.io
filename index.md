@@ -32,6 +32,6 @@ Die Einladung zur Teinahme gilt für alle Arma3 MilSim Spieler, daher leite das 
 
 ## Fragen
 
-Schau dir die [wichtigsten Informationen](./schedule.html) an.
+Schau dir die [wichtigsten Informationen](./important.html) an.
 
 Solltest du Fragen haben tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8Cy) bei und wende dich an Ansprechpartner: **[TacOps] Bele**
