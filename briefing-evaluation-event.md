@@ -64,9 +64,10 @@ Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen.
 
 Der Auftrag der **Triton Company** ist es:
 1. Vorhanden Informationen und Material aus der FOB Pontus zu bergen.
-2. Material su der Base Nereus auf die Hemetten vebringen.
+2. Material zu der Base Nereus auf die Hemetten vebringen.
 3. Feind verzögern bis Material aus Base Nereus auf die Hemetten verbracht wurde.
-4. Triton Company auf die Hemetten verschieben.
+4. Restliche Material und Informationen in Basis **Nereus** vernichten.
+5. Triton Company auf die Hemetten verschieben.
 
 [Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
 
