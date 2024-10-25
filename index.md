@@ -35,3 +35,9 @@ Die Einladung zur Teinahme gilt für alle Arma3 MilSim Spieler, daher leite das 
 Schau dir die [wichtigsten Informationen](./important.html) an.
 
 Solltest du Fragen haben tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8Cy) bei und wende dich an Ansprechpartner: **[TacOps] Bele**
+
+## Details
+
+Details zum Briefing gibt es, wenig überraschend unter [Briefing](./briefing.html) an.
+
+Alle restliche Informatione wie: Organisatorisches, Medic Settings, Luftunterstützung, Logistikunterstützung findest du unter [Material](./material.html)
