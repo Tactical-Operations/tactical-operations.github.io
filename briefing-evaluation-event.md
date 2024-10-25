@@ -21,6 +21,8 @@ title: TacOps 2 - Tidal Spear - Briefing Evaulationsevent
 
 **Vor 5 Monaten:** CSAT erzielte anfänglich Geländegewinne, aber durch die wirtschaftliche Unterstützung der NATO-Länder konnte das kolumbianische Militär die aus dem Nordwesten vorrückenden CSAT-Streitkräfte in der Mitte des Landes binden.
 
+![Image](./assets/tacops-2-colombia.png)
+
 **Vor 4 Monaten:** CSAT schnitt den nördlichen Teil des Landes ab, woraufhin der Widerstand der kolumbianischen Armee im Norden zusammenbrach.
 Aktuell rücken Truppen der CSAT auf die US-Basis **Nereus**, in Colombia etwa 100 km von Cartagena entfernt, zu.
 Dort sind Teile der Triton Company stationiert.
