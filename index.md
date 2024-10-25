@@ -1,12 +1,37 @@
 ---
 layout: default
-title: TacOps 2 - Tidal Spear - Wichtiges im Überblick
+title: TacOps 2 - Home
 ---
 
-# Tidal Spear
+# Tactical-Operations
 
-### Ansprechpartner: **[TacOps] Bele**
+## Was ist TacOps
 
-## 🗺️ Szenario   
+TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma3 MilSim Event, mit hoher Spielerzahl, welches verschiedene Szenarien mit kombinierten Streitkräften anbietet.
 
-TODO
+Ziel für jedes Event ist:
+* Eine aufbauende, zusammenhängen Geschichte zu spielen.
+* Ein Event mit 70 bis zu 140 Spielern zu ermöglichen. 
+* Kombinierte Streitkräft darzustellen aus:
+    * Kampftruppen der Infanterie und mechanisierte Einheiten
+    * kombiniert mit CAS Lufteinheiten
+    * einem MedEvac
+    * und schneller Logistik
+
+Informationen zum Event findest im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.
+
+## Nächstes Event
+
+Das nächste Event und die Termine dafür findest um unter [Termine](./schedule.html).
+
+## Teilnahme
+
+Wenn du, egal ob Einzelspieler oder Clan/Gruppe teilnehmen möchtest, findest alle nötigen unter [Anmeldung](./enrolment.html).
+
+Die Einladung zur Teinahme gilt für alle Arma3 MilSim Spieler, daher leite das Event gerne an Clans/Gruppen die kennst weiter.
+
+## Fragen
+
+Schau dir die [wichtigsten Informationen](./schedule.html) an.
+
+Solltest du Fragen haben tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8Cy) bei und wende dich an Ansprechpartner: **[TacOps] Bele**
