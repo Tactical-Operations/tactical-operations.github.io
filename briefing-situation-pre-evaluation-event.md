@@ -9,7 +9,7 @@
 
 **Vor 6 Monaten:** Offiziell aufgrund der fehlenden Unterstützung bei der Pirateriebekämpfung durch die kolumbianische Regierung und zur Wahrung der eigenen Interessen begann CSAT einen Angriffskrieg und landete im Westen Kolumbiens. Die NATO-Staaten verhängten sofort Sanktionen gegen die CSAT. Auf internationaler Ebene begannen diplomatische Bemühungen, um den Abzug der CSAT-Truppen zu erreichen.
 
-**Vor 5 Monaten:** CSAT erzielte anfänglich Geländegewinne, aber durch die wirtschaftliche Unterstützung der NATO-Länder konnte das kolumbianische Militär die aus dem Nordwesten vorrückenden CSAT-Streitkräfte in der Mitte des Landes binden.
+**Vor 5 Monaten:** CSAT erzielte anfänglich Geländegewinne, aber durch die wirtschaftliche Unterstützung der NATO-Länder konnte das kolumbianische Militär die aus dem Westen vorrückenden CSAT-Streitkräfte in der Mitte des Landes binden.
 
 **Vor 4 Monaten:** CSAT schnitt den nördlichen Teil des Landes ab, woraufhin der Widerstand der kolumbianischen Armee im Norden zusammenbrach.
 Aktuell rücken Truppen der CSAT auf die US-Basis **Nereus**, in Colombia etwa 100 km von Cartagena entfernt, zu.
