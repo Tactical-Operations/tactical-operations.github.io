@@ -21,6 +21,9 @@ Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumb
 Es wird eine zweite Front im Norden des Landes eröffnen.
 Die Triton Company wurde in die Region verlegt um anzulanden und einen Brückenkopfabsicherung abzusichern.
 
+<div markdown="1" class="hidden">
+
+
 ### Feindliche Lage (CSAT)
 
 TODO
@@ -34,6 +37,8 @@ TODO
 Ziel ist die Entlastung der kolumbianischen Armee im mittlere Bereich des Landes.
 Dazu Eröffnung einer zweiten Front im Norden des Landes durch die Triton Company.
 Durchgeführt wird eine Anlandung mit anschließender Brückenkopfabsicherung.
+
+</div>
 
 ## Weiter
 
