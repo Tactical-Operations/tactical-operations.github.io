@@ -60,8 +60,6 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 </details>
 </div>
 
-## Air Force
-
 {% include_relative heliloadoutwhitelists.md %}
 
 {% include_relative jetloadoutwhitelists.md %}
