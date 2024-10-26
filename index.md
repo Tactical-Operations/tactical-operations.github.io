@@ -38,6 +38,6 @@ Solltest du Fragen haben, tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8
 
 ## Details
 
-Details zum Briefing gibt es, wenig überraschend unter [Briefing](./briefing.html) an.
+Details zum Briefing gibt es, wenig überraschend unter [Briefing](./briefing.html).
 
 Alle restliche Informatione wie: Organisatorisches, Medic Settings, Luftunterstützung, Logistikunterstützung findest du unter [Material](./material.html).
