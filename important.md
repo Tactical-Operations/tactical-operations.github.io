@@ -43,7 +43,7 @@ Kommunikation: TFAR oder ACRE
 Channel [\#informationen](https://discord.com/channels/1230998538926952578/1294985131349508137) für die wichtigen Informationen.  
 Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.  
 </div>
-💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner **[TacOps] Bele** wenden.
+💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [TacOps] Bele** wenden.
 
 ## 🛠️ Modpaket und Weiteres
 **Modpaket:** [In Bearbeitung: TacOps\_2\_Modset.html](./coming-soon.html)  
