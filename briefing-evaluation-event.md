@@ -9,23 +9,7 @@ title: TacOps 2 - Tidal Spear - Briefing Evaulationsevent
 
 ## Allgemeine Situation
 
-**Vor 10 Jahren:** In der letzten Dekade hat Kolumbien stärkere wirtschaftliche und militärische Beziehungen zu NATO-Partnern aufgebaut, ohne der NATO selbst beizutreten. Kolumbien ist ein ressourcenreiches und daher strategisch wichtiges Land in Südamerika.
-
-**Vor 3 Jahren:** Die CSAT-Allianz hat ihre geopolitischen Bestrebungen in Südamerika intensiviert, insbesondere mit dem Ziel des Abbaus von Öl und Seltenen Erden. Im Norden des Landes wurden neue Bodenschätze entdeckt.
-
-**Vor 2 Jahren:** Die CSAT-Allianz stationierte Truppen in Südamerika in der Nähe von Panama, offiziell zur Sicherung der eigenen Handelsrouten.
-
-**Vor 1 Jahr:** CSAT begann mit Anti-Piraterie-Einsätzen im Ostpazifik und verletzte dabei mehrfach kolumbianische Hoheitsgewässer. Die Spannungen zwischen der CSAT und der kolumbianischen Regierung nahmen zu.
-
-**Vor 6 Monaten:** Offiziell aufgrund der fehlenden Unterstützung bei der Pirateriebekämpfung durch die kolumbianische Regierung und zur Wahrung der eigenen Interessen begann CSAT einen Angriffskrieg und landete im Westen Kolumbiens. Die NATO-Staaten verhängten sofort Sanktionen gegen die CSAT. Auf internationaler Ebene begannen diplomatische Bemühungen, um den Abzug der CSAT-Truppen zu erreichen.
-
-**Vor 5 Monaten:** CSAT erzielte anfänglich Geländegewinne, aber durch die wirtschaftliche Unterstützung der NATO-Länder konnte das kolumbianische Militär die aus dem Nordwesten vorrückenden CSAT-Streitkräfte in der Mitte des Landes binden.
-
-![Image](./assets/tacops-2-colombia.png)
-
-**Vor 4 Monaten:** CSAT schnitt den nördlichen Teil des Landes ab, woraufhin der Widerstand der kolumbianischen Armee im Norden zusammenbrach.
-Aktuell rücken Truppen der CSAT auf die US-Basis **Nereus**, in Colombia etwa 100 km von Cartagena entfernt, zu.
-Dort sind Teile der Triton Company stationiert.
+{% include_relative briefing-situation-pre-evaluation-event.md %}
 
 **Vor 4 Monaten:** Zeitpunkt des Evaluationsevent
 
@@ -60,15 +44,23 @@ Vereinzelt können Zivilisten angetroffen werden.
 Aus den bisherigem Verhalten der CSAT geht hervor, dass diese Zivilisten als Arbeitskräfte nutzen wollen.
 Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen.
 
-### Auftrag
+### Absichten
 
-Der Auftrag der **Triton Company** ist es:
+Die Absichten der **Triton Company** sind es:
 1. Vorhanden Informationen und Material aus der FOB Pontus zu bergen.
-2. Material zu der Base Nereus auf die Hemetten vebringen.
+2. Material zu der Base Nereus auf die Hemetten verbringen.
 3. Feind verzögern bis Material aus Base Nereus auf die Hemetten verbracht wurde.
 4. Restliche Material und Informationen in Basis **Nereus** vernichten.
 5. Triton Company auf die Hemetten verschieben.
 
-[Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
+## Weiter
+
+[Zurück zum Briefing: Evaluationsevent](./briefing-main-event-2.html).
+
+[ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
+
+[ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 2](./briefing-main-event-2.html).
+
+[ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 3](./briefing-main-event-3.html).
 
 </div>
