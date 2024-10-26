@@ -7,7 +7,7 @@ title: TacOps 2 - Tidal Spear - Briefing
 
 
 
-Das Briefing wird aktuell ausgearbeitet den aktuelle Work-In-Progress Stand, mit Spoiler, findest du hier:
+Das Briefing wird aktuell ausgearbeitet, den aktuellen Work-In-Progress Stand, mit Spoilern, findest du hier:
 
 ## Weiter
 
