@@ -55,8 +55,6 @@ Die Absichten der **Triton Company** sind es:
 
 ## Weiter
 
-[Zurück zum Briefing: Evaluationsevent](./briefing-main-event-2.html).
-
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
 
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 2](./briefing-main-event-2.html).
