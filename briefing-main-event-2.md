@@ -33,7 +33,7 @@ TODO
 
 ## Weiter
 
-[Zurück zum Briefing: Evaluationsevent](./briefing-main-event-2.html).
+[Zum WIP-Briefing: Evaluationsevent](./briefing-evaluation-event.html).
 
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
 
