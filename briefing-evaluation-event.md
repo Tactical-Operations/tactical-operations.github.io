@@ -42,7 +42,7 @@ Die vermutete Absicht des Feinde ist, nach Norden vorzurücken um die FOB Pontus
 Zivilisten sind überwiegend aus den umliegenden Dörfer in die Städte geflohen.
 Vereinzelt können Zivilisten angetroffen werden.
 Aus den bisherigem Verhalten der CSAT geht hervor, dass diese Zivilisten als Arbeitskräfte nutzen wollen.
-Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen.
+Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen werden.
 
 ### Absichten
 
