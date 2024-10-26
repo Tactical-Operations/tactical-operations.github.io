@@ -27,6 +27,10 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 Die **AH-1Z Viper** wird für **CAS Aufträge** eingesetzt.  
 Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
 
+#### Bewaffnung
+
+Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
+
 **Waffenname**
 * AGM-114K [ACE]
 * AGM-114L [ACE]
