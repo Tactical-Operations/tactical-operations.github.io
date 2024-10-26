@@ -7,7 +7,8 @@ title: TacOps 2 - Home
 
 ## Was ist TacOps
 
-TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma3 MilSim Event, mit hoher Spielerzahl, welches verschiedene Szenarien mit kombinierten Streitkräften anbietet.
+TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma3 Event, mit hoher Spielerzahl, welches verschiedene Szenarien mit kombinierten Streitkräften anbietet.
+TacOps verfolgt das Ziel, Szenarien mit taktischer und immersiver Tiefe anzubieten.
 
 Ziel für jedes Event ist:
 * Eine aufbauende, zusammenhängende Geschichte über 2-3 Tage zu spielen.
