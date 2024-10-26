@@ -1,11 +1,6 @@
-## Funkplan Triton Company
+## WIP - Funkplan Triton Company
 
-<div markdown="1">
-
-<details>
-<summary>In Bearbeitung</summary>
-Der Funkplan ist in Bearbeitung.
-</details>
+**In Bearbeitung**
 
 ![Image](./assets/tacops-2-radio-communication-plan.png)
 
