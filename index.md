@@ -18,7 +18,7 @@ Ziel für jedes Event ist:
     * einem MedEvac
     * und schneller Logistik
 
-Informationen zum Event findest im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.
+Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.
 
 ## Nächstes Event
 
