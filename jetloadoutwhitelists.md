@@ -1,11 +1,11 @@
-### **McDonnell Douglas F/A-18**
+### McDonnell Douglas F/A-18C
 
-Die **F/A-18 *Hornet*** ist ein zweistrahliges, trägergestütztes Mehrzweckkampfflugzeug.
+Die **F/A-18C *Hornet*** ist ein zweistrahliges, trägergestütztes Mehrzweckkampfflugzeug.
 Durch ihre Flexibilität bei der Bekämpfung von Boden-, See- und Luftzielen auf große Entfernung stellt sie die wichtigste offensive und defensive Komponente einer US-amerikanischen Flugzeugträgerkampfgruppe dar.
 
 #### Auftrag
 
-Die **F/A-18 Hornet** wird **ausschließlich** zur **Luftraumsicherung** eingesetzt.  
+Die **F/A-18C Hornet** wird **ausschließlich** zur **Luftraumsicherung** eingesetzt.  
 CAS Aufträge werden nur von Hubschraubern durchgeführt.
 
 #### Bewaffnung zur Luftraumsicherung
