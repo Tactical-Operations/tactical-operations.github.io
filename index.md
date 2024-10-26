@@ -12,7 +12,7 @@ TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma
 Ziel für jedes Event ist:
 * Eine aufbauende, zusammenhängende Geschichte über 2-3 Tage zu spielen.
 * Ein Event mit 70 bis zu 140 Spielern zu ermöglichen. 
-* Kombinierte Streitkräft darzustellen aus:
+* Kombinierte Streitkräft darzustellen, aus:
     * Kampftruppen der Infanterie und mechanisierte Einheiten
     * kombiniert mit CAS Lufteinheiten
     * einem MedEvac
