@@ -22,7 +22,7 @@ Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWw
 
 ## Nächstes Event
 
-Das nächste Event und die Termine dafür findest um unter [Termine](./schedule.html).
+Das nächste Event und die Termine dafür findest du unter [Termine](./schedule.html).
 
 ## Teilnahme
 
