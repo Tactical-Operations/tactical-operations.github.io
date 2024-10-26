@@ -27,7 +27,7 @@ Kommunikation: TFAR oder ACRE
 </div>
 
 ## 🎫 Anmeldung
-* **Jeder** kann sich anmelden, für Details siehe [Anmeldung](./enrolment.html).
+* **Jeder** kann sich anmelden, Details findest du unter [Anmeldung](./enrolment.html).
 
 ## 🗡️ Evaluationsevent
 **Wann:** 21.12.2024, siehe [Termine](./schedule.html).  
