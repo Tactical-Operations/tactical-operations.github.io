@@ -35,7 +35,7 @@ Die **FOB Pontus** befindet südlich der **Basis Nereus**.
 
 CSAT Truppen wurden mit Drohnen im Süden bei Currulao aufgeklärt.
 Geheimdienstinformation zufolge steht ein Angriff bevor, daher geht man davon aus, dass CSAT Truppen bei Sicht das Feuer eröffnen.
-Die vermutete Absicht des Feinde ist, nach Norden vorzurücken um die FOB Pontus und Base Nereus zu nehmen, um Material und Informationen der USMC zu erbeuten.
+Die vermutete Absicht des Feinde ist, nach Norden vorzurücken um die FOB Pontus und Base Nereus zu nehmen, um Material und Informationen über den Amerikanischen Aufenthalt zu erbeuten.
 
 ### Zivile Lage
 
