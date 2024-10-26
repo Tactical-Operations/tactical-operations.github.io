@@ -46,3 +46,5 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 * M257 Hydra (M260)
 * Poniard LAU-131 x1
 * AIM-9M
+
+> Alle aufgeführten Waffenmenge sind unlimitiert.
