@@ -46,7 +46,7 @@
 
 </div>
 
-#### BAH
+#### BHA
 
 <div markdown="1" class="airforce-table airforce-bah">
 
@@ -80,6 +80,11 @@
 **Tally**: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)  
 **Bingo**: Treibstoff reicht nur für Rückflug.  
 **Winchester**: Keine Munition (Winchester Guns: Keine Munition für Gun.)
+**Bogey**: Unidentifiziertes Luftfahrzeug, bei dem noch keine Freund-Feind-Bestimmung vorliegt.
+**Bandit**: Identifiziertes feindliches Luftfahrzeug.
+**Kill**: Befehl, ein Ziel zu zerstören.
+**Splash**: Bestätigung, dass das Ziel abgeschossen und zerstört wurde.
+**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).
 
 #### Smoke:
 **Grün**: Freund Markierung  
@@ -110,58 +115,43 @@
 Logistik für RRR auf 69 Hz
 
 ####  Karten Markierungen
-**IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann.)  
-**HP**: Holding Point (Punkt an dem Hubschrauber warten und Hovern.)  
-**HA**:Holding Area (Aufenthaltsraum für Hubschrauber) →darf nur von CCT erstellt werden.  
-**ACA**:Aircraft Control Area( Aufenthaltsraum für Luftfahrzeuge)→darf nur von CCT erstellt werden  
-**LZ**:Landing Zone →muss auf c-Tab oder JVMF markiert werden, →darf nicht verschoben werden.
+**IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann).  
+**HP**: Holding Point (Punkt an dem Hubschrauber warten und Hovern).  
+**HA**: Holding Area (Aufenthaltsraum für Hubschrauber) → darf nur von ALO erstellt werden.  
+**ACA**: Aircraft Control Area (Aufenthaltsraum für (Luft-Boden)) → darf nur von ALO erstellt werden.  
+**CAP**: Combat Air Partrol Zone (Partrouillienbreich für Abfangjäger) → darf nur von ALO erstellt werden.  
+**LZ**: Landing Zone →muss auf c-Tab oder JVMF markiert werden, → darf nicht verschoben werden.
 
 ### JTAC
 
 #### Ablauf:
 
-1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den CCT gestellt,
-dort müssen die Fragen was? und wohin? geklärt werden.
+1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den ALO gestellt, dort müssen die Fragen was? und wohin? geklärt werden.
 2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
-3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat,
-meldet es sich auf der JTAC Frequenz ab.
+3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat, meldet es sich auf der JTAC Frequenz ab.
 
 #### Wichtige Punkte
 
-* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie
-MedEvac und CAS Aufträge, und können daher verzögert werden wenn die
-Kapazitäten am Limit sind.
-* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt
-werden ob ein Krankentransport oder medizinische Unterstützung am Boden
-gefordert wird.
+* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie MedEvac und CAS Aufträge, und können daher verzögert werden wenn die Kapazitäten am Limit sind.
+* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt werden ob ein Krankentransport oder medizinische Unterstützung am Boden gefordert wird.
 * Die MedEvac Crew muss an der LZ eingewiesenen werden.
-* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der
-Schweregrad der Verletzungen mit an den CCT übergeben werden.
+* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der Schweregrad der Verletzungen mit an den ALO übergeben werden.
 
 ### Piloten
 
 #### Ablauf:
 
 1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
-2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS
-Fliegern müssen auch die Waffen aufgezählt werden.
+2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
-4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich
-wieder auf der 80 Hz angemeldet.
+4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich wieder auf der 80 Hz angemeldet.
 
 #### Wichtige Punkte
 
-* Dichtes Überfliegen von Ortschaften die an keinen direkten
-Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind
-davon ausgenommen).
+* Dichtes Überfliegen von Ortschaften die an keinen direkten Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind davon ausgenommen).
 * Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
-* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen
-um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität
-verfügbar sein kann auch ohne gelandet werden.
-* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition)
-den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und
-Flugzeuge überprüfen.
-* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden
-werden.
+* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität verfügbar sein kann auch ohne gelandet werden.
+* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition) den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und Flugzeuge überprüfen.
+* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden werden.
 
 Bei weiteren Fragen im Discord [Nick Mojo #air-force-chat](https://discord.com/channels/1230998538926952578/1234144188338012170) nachfragen.
