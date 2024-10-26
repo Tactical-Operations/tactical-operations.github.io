@@ -15,6 +15,8 @@ title: TacOps 2 - Tidal Spear - Briefing
 
 ## Schicht 2: Brückenkopf absichern, Feind verzögern  
 
+<div markdown="1" class="hidden">
+
 ### Allgemeine Lage
 
 TODO
@@ -30,6 +32,8 @@ TODO
 ### Absichten
 
 TODO
+
+</div>
 
 ## Weiter
 
