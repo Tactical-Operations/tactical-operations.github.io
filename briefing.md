@@ -11,7 +11,7 @@ Das Briefing wird aktuell ausgearbeitet den aktuelle Work-In-Progress Stand, mit
 
 ## Weiter
 
-[Zurück zum Briefing: Evaluationsevent](./briefing-main-event-2.html).
+[Zum WIP-Briefing: Evaluationsevent](./briefing-main-event-2.html).
 
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
 
