@@ -28,7 +28,7 @@ Das nächste Event und die Termine dafür findest um unter [Termine](./schedule.
 
 Wenn du, egal ob Einzelspieler oder Clan/Gruppe teilnehmen möchtest, findest du alles Nötige unter [Anmeldung](./enrolment.html).
 
-Die Einladung zur Teinahme gilt für alle Arma3 MilSim Spieler, daher leite das Event gerne an Clans/Gruppen die kennst weiter.
+Die Einladung zur Teinahme gilt für alle Arma3 MilSim Spieler, daher leite das Event gerne an Clans/Gruppen die du kennst weiter.
 
 ## Fragen
 
