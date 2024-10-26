@@ -79,12 +79,12 @@
 **Cleard to Engage**: Waffenfreigabe für mehrere Anflüge  
 **Tally**: Sicht auf Ziel (No Joy: keine Sicht auf Ziel)  
 **Bingo**: Treibstoff reicht nur für Rückflug.  
-**Winchester**: Keine Munition (Winchester Guns: Keine Munition für Gun.)
-**Bogey**: Unidentifiziertes Luftfahrzeug, bei dem noch keine Freund-Feind-Bestimmung vorliegt.
-**Bandit**: Identifiziertes feindliches Luftfahrzeug.
-**Kill**: Befehl, ein Ziel zu zerstören.
-**Splash**: Bestätigung, dass das Ziel abgeschossen und zerstört wurde.
-**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).
+**Winchester**: Keine Munition (Winchester Guns: Keine Munition für Gun).  
+**Bogey**: Unidentifiziertes Luftfahrzeug, bei dem noch keine Freund-Feind-Bestimmung vorliegt.  
+**Bandit**: Identifiziertes feindliches Luftfahrzeug.  
+**Kill**: Befehl, ein Ziel zu zerstören.  
+**Splash**: Bestätigung, dass das Ziel abgeschossen und zerstört wurde.  
+**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).  
 
 #### Smoke:
 **Grün**: Freund Markierung  
