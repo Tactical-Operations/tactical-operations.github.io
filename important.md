@@ -45,10 +45,9 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 </div>
 💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner **[TacOps] Bele** wenden.
 
-<div markdown="1" class="hidden">
-**Modpaket:** [TacOps\_2\_Modset.html]()  
-**Slotliste:** [TacOps\_2\_Slotliste]()   
-**Funkplan:** [TacOps\_2\_Funkplan]()   
-**Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste]()   
-**Addon-Options**: [TacOps\_2\_Addon\_Options]()   
-</div>
+## 🛠️ Modpaket und Weiteres
+**Modpaket:** [In Bearbeitung: TacOps\_2\_Modset.html](./coming-soon.html)  
+**Slotliste:** [In Bearbeitung: TacOps\_2\_Slotliste](./coming-soon.html)   
+**Funkplan:** [In Bearbeitung: TacOps\_2\_Funkplan](./coming-soon.html)   
+**Fahrzeugliste:** [In Bearbeitung: TacOps\_2\_Fahrzeugliste](./coming-soon.html)   
+**Addon-Options**: [In Bearbeitung: TacOps\_2\_Addon\_Options](./coming-soon.html)   
