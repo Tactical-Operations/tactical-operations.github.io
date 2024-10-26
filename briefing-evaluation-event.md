@@ -28,6 +28,7 @@ Vorhandenes Material soll auf die Hemetten und Begleitschiffe verbracht werden, 
 Wir befinden uns in der **Basis Nereus**.
 Die **Hemetten** befindet sich nördlich von **Nereus**.
 Die **FOB Pontus** befindet südlich der **Basis Nereus**.
+Teile der Triton Company befinden uns in der **Basis Nereus**, weitere Teile in der **FOB Ponuts**.
 
 ![Image](./assets/tacops-2-evaluation-event-map.png)
 
@@ -47,7 +48,7 @@ Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen we
 ### Absichten
 
 Die Absichten der **Triton Company** sind es:
-1. Vorhanden Informationen und Material aus der FOB Pontus zu bergen.
+1. Vorhanden Informationen und Material aus der FOB Pontus zu bergen und FOB evakuieren.
 2. Material zu der Base Nereus auf die Hemetten verbringen.
 3. Feind verzögern bis Material aus Base Nereus auf die Hemetten verbracht wurde.
 4. Restliche Material und Informationen in Basis **Nereus** vernichten.
