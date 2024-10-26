@@ -45,4 +45,9 @@ Das Hauptevent findet in 3 Schichten:
 
 * Anmeldung im [Discord #Anmeldung Hauptevent](https://discord.com/channels/1230998538926952578/1295014852829380660)
 
+## Slotliste
+
+Die Slotliste für die verschiedenen Termine findest du hier: **Slotliste:** [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing)   
+Für jeden Eventtermin befindet sich ein Reiter im unteren Bereich.
+
 [top](#top)
