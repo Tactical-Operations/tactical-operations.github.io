@@ -1,7 +1,5 @@
 ## WIP - Logistikbestellkatalog
 
-**In Bearbeitung**
-
 <style>
 .logistic-table-order-catalog { 
   table tbody tr:nth-child(1) { background-color: var(--logistic-table-infantry-color); }
