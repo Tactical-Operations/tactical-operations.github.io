@@ -47,7 +47,9 @@ Das Hauptevent findet in 3 Schichten:
 
 ## Slotliste
 
-Die Slotliste für die verschiedenen Termine findest du hier: **Slotliste:** [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing)   
+Hier findest du die hier:
+* [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing).   
+
 Für jeden Eventtermin befindet sich ein Reiter im unteren Bereich.
 
 [top](#top)
