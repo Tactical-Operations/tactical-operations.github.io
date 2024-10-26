@@ -47,7 +47,7 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 
 ## 🛠️ Modpaket und Weiteres
 **Modpaket:** [In Bearbeitung: TacOps\_2\_Modset.html](./coming-soon.html)  
-**Slotliste:** [In Bearbeitung: TacOps\_2\_Slotliste](./coming-soon.html)   
+**Slotliste:** [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing)   
 **Funkplan:** [In Bearbeitung: TacOps\_2\_Funkplan](./coming-soon.html)   
-**Fahrzeugliste:** [In Bearbeitung: TacOps\_2\_Fahrzeugliste](./coming-soon.html)   
+**Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste](https://docs.google.com/spreadsheets/d/1F2uIgmzhfiVLH5ITcG3Vu5K1g3Oa7MxA0DLqqNaW5mM/edit?usp=sharing)   
 **Addon-Options**: [In Bearbeitung: TacOps\_2\_Addon\_Options](./coming-soon.html)   
