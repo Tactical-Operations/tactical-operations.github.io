@@ -1,6 +1,6 @@
 {% include_relative briefing-situation-pre-evaluation-event.md %}
 
-**Vor 4 Monaten (Zeitpunkt des Evaluationsevent):** Die Triton Company hat Material und Truppen im Norden Colombias aus der US-Basis **Nereus** auf den Träger Hemetten verbracht um Ressourcen zu sparen.
+**Vor 4 Monaten (Zeitpunkt des Evaluationsevent):** Die Triton Company hat Material und Truppen im Norden Colombias aus der US-Basis **Nereus** auf den Träger Hemetten verbrachtn, die Basis wurde aufgegeben und alle Teile der Triton Company wurden evakuiert.
 
 **Vor 3 Monaten:** Der Norden Kolumbiens wurde von der CSAT vollständig eingenommen und annektiert. Die CSAT begann mit dem Abbau der Ressourcen.
 
