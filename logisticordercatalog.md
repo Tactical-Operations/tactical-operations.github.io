@@ -97,9 +97,8 @@
 | 2-03 | Fahrzeugmunition-Palette Oder Fahrzeugmunition-Box | Frachtpalette, um Fahrzeuge aufzumunitionieren oder die Pylonen zu ändern |
 | 2-04 | Fahrzeugreparatur-Palette | Frachtpalette, um Fahrzeuge komplett zu reparieren |
 | 2-05 | Treibstoff-Palette | Frachtpalette, um Fahrzeuge aufzutanken (3406l) |
-| 2-06 | Blackhawk Hoist | Seilwinde, die an Blackhawk-Modellen montiert werden kann. |
-| 2-07 | Raketenwagen für A-10 | Ermöglicht Zugriff für A-10 Piloten auf das AMS |
-| 2-08 | Ersatzreifen (in Box) | Frachtkiste, vorgefüllt mit 20 Ersatzreifen |
+| 2-06 | Seahawk Hoist | Seilwinde, die an Seahawk-Modellen montiert werden kann. |
+| 2-07 | Ersatzreifen (in Box) | Frachtkiste, vorgefüllt mit 20 Ersatzreifen |
 
 </div>
 
