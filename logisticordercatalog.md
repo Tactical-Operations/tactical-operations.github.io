@@ -26,8 +26,6 @@
 
 </div>
 
-<div markdown="1" class="hidden">
-
 #### Supply Units
 
 <style>
@@ -252,7 +250,5 @@
 | 9-02 | Minenräum-Kommando | Falls Minenfelder geräumt werden sollen. |
 | 9-03 | Wracks bergen | Logistiker formen ein Bergungs-Kommando, um ein Wrack zu bergen. |
 | 9-04 | Sonderauftrag | Inhalt wird mit Logistikleitung besprochen und festgelegt, sofern Kapazitäten vorhanden sind. |
-
-</div>
 
 </div>
