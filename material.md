@@ -59,4 +59,6 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative jetloadoutwhitelists.md %}
 
+{% include_relative enemy-vehicle-list.md %}
+
 [top](#top)
