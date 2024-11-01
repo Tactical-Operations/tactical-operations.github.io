@@ -61,13 +61,14 @@
 | Nr | Infanterieversorgung | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
 | 1-01 | Infanteriemunition (Pro Squad) | Gewehrmunition für alle Infanterierollen |
-| 1-02 | Panzerabwehr | 4x M136 (HEAT), 4x Javelin-Rakete |
+| 1-02 | Panzerabwehr | 2x M136 (HEAT), 3x Javelin-Rakete, 3x SMAW Raketen |
+| 1-02 | Flugabwehr | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen |
 | 1-03 | Granaten (inkl. für Granatwerfer) | Explosiv-& Rauchgranaten (inkl. 40mm) |
 | 1-04 | Nachtkampf-Ausstattung | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope |
 | 1-05 | Minen-Kiste | 2x Minensucher, 20x APERS Minenwerfer, 20x Panzerabwehrminen, 20x M4A1 SLAM, Stolperdraht-Leuchtrakete |
 | 1-06 | Pionierkiste | 5x Minensucher, 5x Entschärfungs-Kit, 5x IED Notebook, 40x TNT Charge (75g) |
 | 1-07 | Führungskiste | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer |
-| 1-08 | Recon-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Recon |
+| 1-08 | Marine Raider-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Marine Raider |
 | 1-09 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte |
 | 1-10 | Logistiker-Versorgung | Kiste mit Werkzeugen der Logistik |
 | 1-11 | UAV-Kiste | 20x UAV-Batterie \+ 1x UAV-Terminal |
@@ -115,12 +116,13 @@
 
 | Nr | Schwere Waffen/Artillerie | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
-| 3-01 | M2HB (M3 AA) | HMG auf Dreibein montiert, wird stehend bedient |
+| 3-01 | M2HB (Verpackt) | HMG auf Dreibein montiert, wird stehend bedient |
 | 3-02 | M2-Munition | 10x Gurte mit Leuchtspur (rot) |
-| 3-03 | MK19 (M3) | GMW auf Dreibein montiert, wird sitzend bedient |
+| 3-03 | MK19 (Verpackt) | GMW auf Dreibein montiert, wird sitzend bedient |
 | 3-04 | MK19-Munition | 12x HE, 4x HEDP, 8x Kanister |
-| 3-05 | M41A4 TOW | Statische AT auf Dreibein montiert, wird kniend bedient |
+| 3-05 | M41A4 TOW (Verpackt) | Statische AT auf Dreibein montiert, wird kniend bedient |
 | 3-06 | TOW-Munition | 2x BGM-71E TOW-2A (Fahrzeugbekämpfung) 3x BGM-71H Bunker Buster (Bekämpfung von Stellungen und Infanterie) |
+| 3-07 | FIM-92 Stinger - Plattform | Statische Luftabwehrstation, nicht Radar-gestützt |
 
 </div>
 
@@ -136,18 +138,15 @@
 
 | Nr | Landfahrzeuge | Sitzplätze | Anmerkungen |
 | :---: | :---- | :-----: | :---- |
-| 4-01 | Hunter MRAP | 5 |  |
-| 4-02 | Hunter MRAP (M2) | 5 |  |
-| 4-03 | Caiman Bus MRAP | 8 |  |
-| 4-04 | Caiman Bus MRAP (M2) | 10 |  |
-| 4-05 | Caiman Bus MRAP (M2+Reaktivpanzerung) | 10 |  |
-| 4-06 | Caiman Bus MRAP (MEDEVAC) | 10 | Exkl. für Dustoff 9-1 |
-| 4-07 | HUMVEE | 4 |  |
-| 4-08 | HUMVEE (M2) | 5 |  |
-| 4-09 | HUMVEE (Funkwagen) | 3 |  |
-| 4-10 | LKW (Infanterie) | 15 |  |
-| 4-11 | Buggy für Recon | 6 |  |
-| 4-12 | LKW mit Lazarettzelt | 3 | Exkl. für Dustoff 9-1 |
+| 4-01 | AAVP-7A1 | 21 |  |
+| 4-02 | LAV-25 | 9 |  |
+| 4-03 | LAV-C2 | 4 | Fahrzeug für Kompanieführung und Lizard 1-1|
+| 4-05 | HUMVEE | 4 |  |
+| 4-06 | HUMVEE (M2) | 5 |  |
+| 4-07 | HUMVEE (TOW) | 5 |  |
+| 4-8 | HUMVEE (SAG-2/M2/M240) | 15 |  |
+| 4-9 | LKW (Infanterie) | 15 |  |
+| 4-10 | Buggy | 6 |  |
 
 </div>
 
@@ -163,20 +162,16 @@
 
 | Nr | Luftfahrzeuge | Sitzplätze | Zweck/Nutzen |
 | :---: | :---- | :-----: | :---- |
-| 5-01 | UH-60M Blackhawk | 17 | Infanterietransport |
-| 5-02 | UH-60M Blackhawk (Slick) | 8 | Frachttransport |
-| 5-03 | UH-60M Blackhawk DAP MLASS | 12 | CAS-Variante |
-| 5-04 | UH-60M Blackhawk (Medevac) | 18 | medizinisches Fahrzeug |
-| 5-05 | Chinook | 28 | Infanterietransport |
-| 5-06 | Chinook (Cargo) | 4 | Schwerer Frachttransport |
-| 5-07 | AH-6 Little Bird | 3 | Kleiner Aufklärungshelikopter |
-| 5-08 | AH-64 Apache | 2 | Kampfhelikopter für CAS |
-| 5-09 | A-10 Warthog | 1 | Erdkampfflugzeug |
-| 5-10 | MQ-9 Reaper | 0 | UAV |
+| 5-01 | UH-1Y Venom | 17 | Infanterietransport |
+| 5-02 | MH-60S Seahawk (Medevac/Logistik) | 18 | Patienten-/Frachttransport |
+| 5-03 | CH-53E (GAU-21) | 27 | Fracht-/Infanterietransport |
+| 5-04 | AH-1Z Viper | 2 | CAS |
+| 5-05 | MV-22 Osprey (M134+M2) | 26 | Infanterietransport |
+| 5-06 | F/A-18C | 1 | Luftüberlegenheitsjäger |
 
 </div>
 
-#### Seefahrzeuge
+#### Wasserfahrzeuge
 
 <style>
 .logistic-table-sea-vehicle {
@@ -186,9 +181,11 @@
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-sea-vehicle">
 
-| Nr | Seefahrzeuge | Sitzplätze | Beschreibung/Inhalt |
+| Nr | Wasserfahrzeuge | Sitzplätze | Beschreibung/Inhalt |
 | :---: | :---- | :-----: | ----- |
-| 6-01 | N/A | N/A | N/A |
+| 6-01 | Schnellboot Minigun | 11 | Kampfboot mit GMW und 7.62 Minigun |
+| 6-02 | MK.V SOC | 33 | Patroullienboot  |
+| 6-03 | RHIB | 8 | Unbewaffnetes Boot |
 
 </div>
 
