@@ -1,4 +1,4 @@
-## WIP - Funkplan Triton Company
+## Funkplan Triton Company
 
 **In Bearbeitung**
 
