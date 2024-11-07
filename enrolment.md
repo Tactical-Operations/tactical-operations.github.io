@@ -32,7 +32,7 @@ Betreffende Personen erscheinen selbstständig - falls ihr euch nicht sicher sei
 
 ## Evaluationsevent - Samstag 21.12.2024
 Die **Anmeldung** für das Evaluationsevent ist **ab dem 01.12.2024 - 19:00 Uhr** geöffnet.  
-Fas Evaluationsevent findet am 21.12.2024 statt, siehe [Termine](./schedule.html).  
+Das Evaluationsevent findet am 21.12.2024 statt, siehe [Termine](./schedule.html).  
 * Anmeldung im [Discord #Anmeldung Evaluationsevent](https://discord.com/channels/1230998538926952578/1295007787197272164)
 
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
