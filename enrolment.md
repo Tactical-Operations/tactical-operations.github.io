@@ -37,7 +37,7 @@ Das Evaluationsevent findet am 21.12.2024 statt, siehe [Termine](./schedule.html
 
 ## Hauptevent - Freitag 17.01.2025 und Samstag 18.01.2025
 
-Die **Anmeldung** für das Hauptevent ist **ab dem 01.12.2024 - 19:00 Uhr** freigegeben.  
+Die **Anmeldung** für das Hauptevent ist **ab dem 29.12.2024 - 19:00 Uhr** freigegeben.  
 Das Hauptevent findet in 3 Schichten:  
 * Schicht 1 **Freitag Abend** 17.01.2025 mit Slotten ab 18:00 - Mission bis 23:30 Uhr  
 * Schicht 2 **Samstag Nachmittag** 18.01.2025 mit Slotten ab 13:00 - Mission bis 18:30 Uhr  
