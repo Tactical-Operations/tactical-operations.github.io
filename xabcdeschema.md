@@ -11,7 +11,7 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 |  | Medics: IV oder IO einrichten, TXA verwenden, Gabe von Kochsalzlösung/Plasma |
 | A | Atemweg prüfen |
 |  | Kopf überstrecken, Kopf drehen, Atemweg prüfen |
-|  | Medics: (zweiten Durchgang) Guedel-Tubus oder King-LT verwenden |
+|  | Medics: (zweiten Durchgang) King-LT verwenden |
 | B | Beatmung |
 |  | Brustkorb inspektieren, Chestseal anbringen |
 |  | Medics: Pulsoximeter anbringen, (zweiten Durchgang) PocketBVM verwenden |
