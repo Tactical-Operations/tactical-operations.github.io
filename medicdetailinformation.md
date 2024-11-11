@@ -26,8 +26,10 @@ Was ist neu gegenüber Ace Medical im TacOps2 KAT Medical?
 > Nalbuphine -> stärkstes Schmerzmittel  
 > Adenosine -> senkt den Puls  
 > Amiodaron -> hilft bei CPR/AED  
-> Atropine -> erhöht Puls also bei kleiner als 60er Puls (Bradykardie) und heilt chemische Vergiftungen Lidocaine -> hilft bei CPR/AED und ist ein leichtes Schmerzmittel  
-> EACA -> "näht" Verletzungen alle 5 sec, 10 min lang kann mit TXA verwendet werden BVM -> SP02 erhöhendes Equipment  
+> Atropine -> erhöht Puls also bei kleiner als 60er Puls (Bradykardie) und heilt chemische Vergiftungen  
+> Lidocaine -> hilft bei CPR/AED und ist ein leichtes Schmerzmittel  
+> EACA -> "näht" Verletzungen alle 5 sec, 10 min lang kann mit TXA verwendet werden  
+> BVM -> SP02 erhöhendes Equipment  
 
 </div>
 
