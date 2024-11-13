@@ -23,6 +23,8 @@ Da aktuell zu wenig Truppen und Material vorhanden sind wurde die Evakuierung vo
 Der Träger **Hemetten** hat eine Übung in der karibischen See abgebrochen und ist bereit Material und Truppen der US-Basis **Nereus** aufzunehmen.
 Vorhandenes Material soll auf die Hemetten und Begleitschiffe verbracht werden, die **Triton Company** vor Ort verzögert mögliche Feindkräfte.
 
+<div markdown="1" class="hidden">
+
 ### Eigene Lage (USMC)
 
 Wir befinden uns in der **Basis Nereus**.
@@ -61,5 +63,7 @@ Die Absichten der **Triton Company** sind es:
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 2](./briefing-main-event-2.html).
 
 [ACHTUNG Spoiler: Weiter zum Briefing: Hauptevent - Schicht 3](./briefing-main-event-3.html).
+
+</div>
 
 </div>
