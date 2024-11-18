@@ -148,7 +148,7 @@ Logistik für RRR auf 69 Hz
 
 #### Wichtige Punkte
 
-* Dichtes Überfliegen von Ortschaften die an keinen direkten Kampfhandlungen beteiligt sind, ist zu vermeiden (Dörfer an der AirBase sind davon ausgenommen).
+* Bei der Landung auf Schiffen müssen die Positionslichter aktiviert werden zur Kenntlichmachung des Luftfahrzeuges.
 * Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
 * Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität verfügbar sein kann auch ohne gelandet werden.
 * Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition) den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und Flugzeuge überprüfen.
