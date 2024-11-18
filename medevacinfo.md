@@ -7,7 +7,7 @@ Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den Me
 Einfach sagen: „Wir sind Otter Bravo und brauchen den MedEvac\!“  
 Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT/ALO mit höchster Priorität behandelt.
 
-**2\. Schnelle Ankunft innerhalb von 3-4 Minuten**    
+**2\. Schnelle Ankunft innerhalb von 5 Minuten**    
 Der MedEvac ist so trainiert und optimiert, dass er bis zum Ausrücken nur 90 Sekunden benötigt. Nach weiteren 3 Minuten ist ein MedEvac-Doktor planmäßig in der Landezone.    
 Wir hoffen auf eine durchschnittliche Estimated Time of Arrival (ETA) von etwa 5 Minuten.
 
