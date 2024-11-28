@@ -19,6 +19,8 @@ Es ist so aufgebaut, dass zunächst die allgemeinen Informationen für alle Spie
 
 Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
+<div style="break-after:page"></div>
+
 {% include_relative organisational.md %}
 
 # Alle
@@ -33,9 +35,15 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative xabcdeschema.md %}
 
+<div style="break-after:page"></div>
+
 {% include_relative radio-communication-plan.md %}
 
+<div style="break-after:page"></div>
+
 {% include_relative medevacinfo.md %}
+
+<div style="break-after:page"></div>
 
 # Medizinisches Personal
 
