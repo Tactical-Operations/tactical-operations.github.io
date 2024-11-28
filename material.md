@@ -23,6 +23,8 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative organisational.md %}
 
+<div style="break-after:page"></div>
+
 # Alle
 
 ### Medic Settings
