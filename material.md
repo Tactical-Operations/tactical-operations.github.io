@@ -23,10 +23,6 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 
 {% include_relative organisational.md %}
 
-<div style="break-after:page"></div>
-
-# Alle
-
 ### Medic Settings
 
 * Wir benutzen KAT Medical sehr ähnlich zu ACE Medical, zusammengefasst: 
@@ -34,6 +30,12 @@ Wir werden das Dokument ebenso ggf. zum Herunterladen als PDF veröffentlichen.
 * Für KAT Medical stehen stehen 2 Handouts zur Verfügung:
     * Für **Alle** Spieler: **XABCDE Schema** für Behandlungen
     * Zusätzlich für Platoon/Squad-Medics: **Wichtigsten Infos für PMED und Squad Medics**
+
+<div style="break-after:page"></div>
+
+# Alle
+
+<div style="break-after:page"></div>
 
 {% include_relative xabcdeschema.md %}
 
