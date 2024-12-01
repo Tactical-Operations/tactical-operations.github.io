@@ -14,6 +14,8 @@ zerstörte Fahrzeuge zu bergen und im HQ vollständig zu reparieren. Aus diesem 
 bitten wir darum, zerstörte Fahrzeuge umgehend zu melden, damit diese in einer ruhigen
 Phase des Events von der Logistik geborgen und instandgesetzt werden können.
 
+Sollte Wracks im Wasser versinken, werden diese an die Küste zum Bergen teleportiert.
+
 #### Aufträge der Logistik
 
 * Versorgung der Infanterie für einen konsistenten Spielfluss
