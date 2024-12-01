@@ -20,15 +20,15 @@ title: TacOps 2 - Tidal Spear - Briefing Evaulationsevent
 CSAT Truppen sind in den Norden von Colombia vorgedrungen.
 Man geht davon aus, das ein Angriff der CSAT auf die US-Basis **Nereus** bevorsteht.
 Da aktuell zu wenig Truppen und Material vorhanden sind wurde die Evakuierung von **Nereus** befohlen.
-Der Träger **Hemetten** hat eine Übung in der karibischen See abgebrochen und ist bereit Material und Truppen der US-Basis **Nereus** aufzunehmen.
-Vorhandenes Material soll auf die Hemetten und Begleitschiffe verbracht werden, die **Triton Company** vor Ort verzögert mögliche Feindkräfte.
+Der Träger **Basking** hat eine Übung in der karibischen See abgebrochen und ist bereit Material und Truppen der US-Basis **Nereus** aufzunehmen.
+Vorhandenes Material soll auf die Basking und Begleitschiffe verbracht werden, die **Triton Company** vor Ort verzögert mögliche Feindkräfte.
 
 <div markdown="1" class="hidden">
 
 ### Eigene Lage (USMC)
 
 Wir befinden uns in der **Basis Nereus**.
-Die **Hemetten** befindet sich nördlich von **Nereus**.
+Die **Basking** befindet sich nördlich von **Nereus**.
 Die **FOB Pontus** befindet südlich der **Basis Nereus**.
 Teile der Triton Company befinden uns in der **Basis Nereus**, weitere Teile in der **FOB Ponuts**.
 
@@ -51,10 +51,10 @@ Daher ist davon auszugehen, dass Zivilisten nicht von CSAT Truppen beschossen we
 
 Die Absichten der **Triton Company** sind es:
 1. Vorhanden Informationen und Material aus der FOB Pontus zu bergen und FOB evakuieren.
-2. Material zu der Base Nereus auf die Hemetten verbringen.
-3. Feind verzögern bis Material aus Base Nereus auf die Hemetten verbracht wurde.
+2. Material zu der Base Nereus auf die Basking verbringen.
+3. Feind verzögern bis Material aus Base Nereus auf die Basking verbracht wurde.
 4. Restliche Material und Informationen in Basis **Nereus** vernichten.
-5. Triton Company auf die Hemetten verschieben.
+5. Triton Company auf die Basking verschieben.
 
 ## Weiter
 
