@@ -75,8 +75,8 @@
 **BOC**: Bomb on Coordinate (Bekämpfen von Koordinate→ohne Sicht auf Ziel.)  
 **BDA**: Battle Damage Assesment  
 **BHA**: Battle Hit Assesment  
-**Cleard Hot**: Waffenfreigabe für Anflug erteilt.  
-**Cleard to Engage**: Waffenfreigabe für mehrere Anflüge  
+**Cleared Hot**: Waffenfreigabe für Anflug erteilt.  
+**Cleared to Engage**: Waffenfreigabe für mehrere Anflüge  
 **Tally**: Sicht auf Ziel (**No Joy**: keine Sicht auf Ziel)  
 **Bingo**: Treibstoff reicht nur für Rückflug.  
 **Winchester**: Keine Munition (Winchester Guns: Keine Munition für Gun).  
