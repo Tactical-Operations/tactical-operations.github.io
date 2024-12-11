@@ -26,7 +26,7 @@ Vorhandenes Material soll auf die Basking und Begleitschiffe verbracht werden, d
 Wir (**Triton Company**) befinden uns in der **Basis Nereus**.
 Die Begleitschiffe **Remora** und **Hammerhead** befindet sich nördlich von **Nereus**.
 Der Träger **Basking** befindet sich nordöstlich der **Basis Nereus**.
-Die **FOB Pontus** befindet südlich der **Basis Nereus**.
+Die **FOB Pontus** befindet südlich der **Basis Nereus**, die Funkverbindung ist abgebrochen und die Lage unklar.
 
 Anmerkung: MedEvac und Piloten starten auf der Träger **Basking**.
 
