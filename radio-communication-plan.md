@@ -47,6 +47,7 @@
 | ----------- | ------------ | -------------------------- | ------------------ | ------------- | ---------------- |
 | 1           | SOS          | Emergency                  |                    |               |                  |
 | 2           | TRITON PLT   | Triton Platoon             |                    |               |                  |
+| 2           | TRITON PLT A | Triton Platoon Alternative |                    |               |                  |
 | 3           | OTTER JTAC   | Otter JTAC                 | Otter Platoon      | Platoon Squad |                  |
 | 4           | BARRA JTAC   | Barracuda JTAC             | Barracuda Platoon  | Platoon Squad |                  |
 | 5           | TRITON JTAC  | Triton JTAC                |                    |               |                  |
