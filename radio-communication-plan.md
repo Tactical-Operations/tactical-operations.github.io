@@ -7,25 +7,43 @@
 ## Funkplan als Tabelle
 
 <style>
-.logistic-table-order-catalog { 
-  table tbody tr:nth-child(1) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
-  table tbody tr:nth-child(5) { background-color: var(--logistic-table-vehicle-color);  }
+.radio-communication-plan { 
+  table tbody tr:nth-child(1) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(2) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(5) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(6) { background-color: var(--logistic-table-lead-color);  }
-  table tbody tr:nth-child(7) { background-color: var(--logistic-table-air-color);  }
+
+  table tbody tr:nth-child(9) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(10) { background-color: var(--logistic-table-lead-color);  }
+
+  table tbody tr:nth-child(29) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(30) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(31) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(32) { background-color: var(--logistic-table-vehicle-color);  }
+
   
+  table tbody tr:nth-child(46) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(37) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(48) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(39) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(40) { background-color: var(--logistic-table-logistic-only-color);  }
+
+  table tbody tr:nth-child(41) { background-color: var(--logistic-table-lead-color);  }
+
   table tbody tr:nth-child(42) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(42) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(43) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(44) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(45) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(46) { background-color: var(--logistic-table-medic-color);}
-  table tbody tr:nth-child(48) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(47) { background-color: var(--logistic-table-medic-only-color);  }
 
 }
 </style>
 
-<div markdown="1" class="logistic-table">
+<div markdown="1" class="logistic-table radio-communication-plan">
 
 | Channel Nr. | Kurzname     | Beschreibung               | Platoon            | Squad         | Team             |
 | ----------- | ------------ | -------------------------- | ------------------ | ------------- | ---------------- |
