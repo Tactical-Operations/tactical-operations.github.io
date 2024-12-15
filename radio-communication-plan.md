@@ -55,7 +55,7 @@
 | 8           | BARRA PLT    | Barracuda Platoon          | Barracuda Platoon  | Platoon Squad |                  |
 | 9           | GHOST IN1    | Ghost Crab 1 internal      | Ghost Crab         | Squad 1       |                  |
 | 10          | GHOST IN2    | Ghost Crab 2 internal      | Ghost Crab         | Squad 2       |                  |
-| 11          | OTTER ACTUAL | Otter Actual               | Otter Platoon      | Platoon Squad |                  |
+| 11          | OTTER ACTUAL | Otter Actual intern        | Otter Platoon      | Platoon Squad |                  |
 | 12          | OTTER ALPHA  | Otter Alpha                | Otter Platoon      | Alpha Squad   |                  |
 | 13          | OTTER AF1    | Otter Alpha Fireteam 1     | Otter Platoon      | Alpha Squad   | Fireteam 1       |
 | 14          | OTTER AF2    | Otter Alpha Fireteam 2     | Otter Platoon      | Alpha Squad   | Fireteam 2       |
@@ -64,7 +64,7 @@
 | 17          | OTTER BF1    | Otter Bravo Fireteam 1     | Otter Platoon      | Bravo Squad   | Fireteam 1       |
 | 18          | OTTER BF2    | Otter Bravo Fireteam 2     | Otter Platoon      | Bravo Squad   | Fireteam 2       |
 | 19          | OTTER BF3    | Otter Bravo Fireteam 3     | Otter Platoon      | Bravo Squad   | Fireteam 3       |
-| 20          | BARRA ACTUAL | Barracuda Actual           | Barracuda Platoon  | Platoon Squad |                  |
+| 20          | BARRA ACTUAL | Barracuda Actual intern    | Barracuda Platoon  | Platoon Squad |                  |
 | 21          | BARRA ALPHA  | Barracuda Alpha            | Barracuda Platoon  | Alpha Squad   |                  |
 | 22          | BARRA AF1    | Barracuda Alpha Fireteam 1 | Barracuda Platoon  | Alpha Squad   | Fireteam 1       |
 | 23          | BARRA AF2    | Barracuda Alpha Fireteam 2 | Barracuda Platoon  | Alpha Squad   | Fireteam 2       |
