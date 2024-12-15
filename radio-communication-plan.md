@@ -6,6 +6,27 @@
 
 ## Funkplan als Tabelle
 
+<style>
+.logistic-table-order-catalog { 
+  table tbody tr:nth-child(1) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(5) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(6) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(7) { background-color: var(--logistic-table-air-color);  }
+  
+  table tbody tr:nth-child(42) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(42) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(43) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(44) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(45) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(46) { background-color: var(--logistic-table-medic-color);}
+  table tbody tr:nth-child(48) { background-color: var(--logistic-table-medic-only-color);  }
+
+}
+</style>
+
+<div markdown="1" class="logistic-table">
+
 | Channel Nr. | Kurzname     | Beschreibung               | Platoon            | Squad         | Team             |
 | ----------- | ------------ | -------------------------- | ------------------ | ------------- | ---------------- |
 | 1           | SOS          | Emergency                  |                    |               |                  |
@@ -56,6 +77,8 @@
 | 46          | DUSTOFF 9-1  | Dustoff 9-1 internal       | Dustoff            |               |                  |
 | 47          | LIZARD INT   | Lizard 1 internal          | Lizard 1           |               |                  |
 | 48          | GHOST PLT    | Ghost Crab Platoon (empty) | Ghost Crab Platoon |               |                  |
+
+</div>
 
 ## Rauchfarben
 
