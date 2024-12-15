@@ -48,4 +48,6 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 **Slotliste:** [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing)   
 **Funkplan:** [Vorab - Stand 30.11.2024: TacOps\_2\_Funkplan](./assets/tacops-2-radio-communication-plan.png)   
 **Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste](https://docs.google.com/spreadsheets/d/1F2uIgmzhfiVLH5ITcG3Vu5K1g3Oa7MxA0DLqqNaW5mM/edit?usp=sharing)   
+<div markdown="1" class="hidden">
 **Addon-Options**: [In Bearbeitung: TacOps\_2\_Addon\_Options](./coming-soon.html)   
+</div>
