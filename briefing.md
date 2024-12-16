@@ -67,21 +67,10 @@ Gelb
 
 ---
 
-### Durchführung
-
-**Feuerstatus:**  
-Gelb  
-
-**Geschwindigkeit Konvoi (Vorschlag):**  
-- **Freundliches Gebiet**: 30 km/h innerorts, 70 km/h außerorts  
-- **Feindliches Gebiet**: 15 km/h innerorts, 50 km/h außerorts  
-
----
-
-## **Durchführung**
+### **Durchführung**
 
 Absicht ist über POI zu **FOB Pontus** vorzudringen.
- 
+
 #### **Phase 0 – Herstellung der Einsatzbereitschaft und Aufklärung kritischer Bereiche**  
 - **Aufklärung:**  
   Schnelle Aufklärung des westlichen und südlichen Gebiets durch Luftaufklärung (Triton 8).  
