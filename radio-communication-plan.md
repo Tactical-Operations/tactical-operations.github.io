@@ -10,33 +10,35 @@
 .radio-communication-plan { 
   table tbody tr:nth-child(1) { background-color: var(--logistic-table-medic-only-color);  }
   table tbody tr:nth-child(2) { background-color: var(--logistic-table-lead-color);  }
-  table tbody tr:nth-child(3) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-lead-color);  }
+
   table tbody tr:nth-child(4) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(5) { background-color: var(--logistic-table-air-color);  }
   table tbody tr:nth-child(6) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(7) { background-color: var(--logistic-table-air-color);  }
 
-  table tbody tr:nth-child(7) { background-color: var(--logistic-table-infantry-color);  }
   table tbody tr:nth-child(8) { background-color: var(--logistic-table-infantry-color);  }
+  table tbody tr:nth-child(9) { background-color: var(--logistic-table-infantry-color);  }
 
-  table tbody tr:nth-child(9) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(10) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
 
   /* Otter and Barracuda */
-  table tbody tr:nth-child(n+11):nth-child(-n+28) { background-color: var(--logistic-table-infantry-color);  }
+  table tbody tr:nth-child(n+12):nth-child(-n+29) { background-color: var(--logistic-table-infantry-color);  }
   /* Alligator */
-  table tbody tr:nth-child(n+29):nth-child(-n+35) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(n+30):nth-child(-n+36) { background-color: var(--logistic-table-vehicle-color);  }
   /* Logistic */
-  table tbody tr:nth-child(n+36):nth-child(-n+40) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(n+37):nth-child(-n+41) { background-color: var(--logistic-table-logistic-only-color);  }
   /* Triton HQ internal */
-  table tbody tr:nth-child(41) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(42) { background-color: var(--logistic-table-lead-color);  }
 
   /* Air Assets except Logistic */
-  table tbody tr:nth-child(n+42):nth-child(-n+45) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(n+43):nth-child(-n+46) { background-color: var(--logistic-table-air-color);  }
 
   /* Dustoff 9-1 */
-  table tbody tr:nth-child(46) { background-color: var(--logistic-table-medic-color);}
+  table tbody tr:nth-child(47) { background-color: var(--logistic-table-medic-color);}
   /* Lizard */
-  table tbody tr:nth-child(47) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(48) { background-color: var(--logistic-table-medic-only-color);  }
 
 }
 </style>
