@@ -76,23 +76,30 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
   Schnelle Aufklärung des westlichen und südlichen Gebiets durch Luftaufklärung (Triton 8).  
 
 - **Otter, Barracuda und Alligator:**  
-  Herstellung der Einsatzbereitschaft:  
+  Herstellung der Einsatzbereitschaft  
   - **Fahrzeugausrüstung:**  
+    - **Otter Actual:** Humvee SAG-2/M2/M240.  
     - **Otter 1:** Humvee TOW, Humvee M2, Humvee.  
     - **Otter 2:** Humvee TOW, Humvee M2, Humvee.  
-    - **Otter:** Humvee SAG-2/M2/M240.  
+
+    - **Barracuda Actual:** Humvee SAG-2/M2/M240.    
+    - **Barracuda 1:** Humvee M2, Humvee, Humvee SAG-2/M2/M240.  
+    - **Barracuda 2:** Humvee M2, Humvee.  
+
     - **Alligator:** 2x LAV (ohne Barracuda) oder 1x LAV, 1x AAVP (mit Barracuda aufgesessen).  
-    - **Barracuda:**  
-      - **Barracuda 1:** Humvee M2, Humvee, Humvee SAG-2/M2/M240.  
-      - **Barracuda 2:** Humvee M2, Humvee.  
+
 
   - **Absprache:**  
-    Interne Koordination mit Lizard, Dustoff und Triton zu:  
-    - Konvoiparametern, Verhalten unter Beschuss.  
-    - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
+    - Interne Koordination mit Lizard, Dustoff und Triton zu:  
+      - Konvoiparametern, Verhalten unter Beschuss.  
+      - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
 
 - **Lizard und Dustoff:**  
-  Absprache und Einsatzbereitschaft an Basis Nereus.  
+  - Herstellung der Einsatzbereitschaft
+  - **Absprache:**  
+    - Interne Koordination mit Lizard, Dustoff und Triton zu:  
+      - Konvoiparametern, Verhalten unter Beschuss.  
+      - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
 
 - **Ghost Crab:**  
   - Ausrüstung der Buggys.  
@@ -106,13 +113,13 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
   - Weiterfahrt zur FOB Pontus anhand Kartenmarkierung.  
 
 - **Ghost Crab:**  
-  Verlegung zum ersten Missionsziel basierend auf Aufklärungsdaten.  
+  - Verlegung zum ersten Missionsziel basierend auf Aufklärungsdaten.  
 
 - **Dustoff:**  
-  Einsatzbereitschaft an Basis Nereus.  
+  - Einsatzbereitschaft an Basis Nereus herstellen.  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  - Ausbau von Stellungen (z. B. Minenfelder).  
+  - Ausbau von Stellungen (z. B. Geschütze, Minenfelder).  
   - Abtransport von Gütern nach Stellungsausbau.  
 
 ---
@@ -134,18 +141,18 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 
 #### **Phase 3 – Aufklärung der FOB Pontus und Umgebung**  
 - **Alligator:**  
-  Absicherung des Umfelds der Anlage.  
+  - Absicherung des Umfelds der Anlage (FOB Pontus).  
 
 - **Otter:**  
   - Rundum-Sicherung der Anlage.  
-  - Auffindung von Zielobjekten (ca. 10 Server, Überlebende).  
+  - Auffindung von Zielobjekten (10 Server, ggf. Überlebende).  
   - Koordination des Abtransports mit Logistik.  
 
 - **Barracuda:**  
-  Sicherung des westlichen Umfelds (Kreuzung).  
+  - Sicherung des westlichen Umfelds (Kreuzung).  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  Abtransport von Zielobjekten.  
+  - Abtransport von Zielobjekten.  
 
 ---
 
@@ -155,45 +162,46 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
   - Einnehmen von Verteidigungspositionen (Alligator: Allgemein, Otter: Süden, Barracuda: Westen).  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  Abtransport von Personal und Material zur Flotte.  
+  - Bereitstellen von Javelin für Ghost Crab in Basis Nereus.  
+  - Starten des Abtransports von Personal und Material zur Flotte.  
 
 - **Ghost Crab:**  
-  Nachrüstung mit Javelin (Anforderung über Logistik).  
-  Verlegung zu POI 30 und POI 31.  
+  - Verlegung zur Basis für Ausrüsten mit Javelin (Ausgabe über Logistikanfrage) und Verlegung zu POI 30 und POI 31.  
+  - Einnehmen von Verteidigungspositionen POI 30 und POI 31
 
 ---
 
 #### **Phase 5 – Verteidigung und Abtransport**  
 - **Alligator, Otter und Barracuda:**  
-  - Verteidigung des äußeren Verteidigungsrings der Basis Nereus.  
+  - Verteidigung der Basis Nereus (Äußerer Verteidigungsring).  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  Abtransport von Personal und Material zur Flotte.  
+  - Abtransport von Personal und Material zur Flotte.  
 
 - **Ghost Crab:**  
-  - Verteidigung (Absprache mit Alligator).  
+  - Verteidigung der Basis Nereus bei POI 30 und POI 31.  
   - Abtransport über den Strand mit Unterstützung von Alligator.  
 
 ---
 
 #### **Phase 6 – Abtransport**  
 - **Alligator:**  
-  - Verteidigung des inneren Rings.  
-  - Rückzug über den Strand nach Evakuierung der letzten Infanterie (Absprache mit Triton 4 und Ghost Crab).  
+  - Verteidigung (Innerer Verteidigungsring).  
+  - Ausweichen über den Strand nach Evakuierung der letzten Infanterie (Absprache mit Triton 4 und Ghost Crab).  
 
 - **Otter:**  
-  - Verteidigung des inneren Rings.  
-  - Rückzug nach Barracuda-Evakuierung per Helikopter (Absprache mit Triton 4).  
+  - Verteidigung (Innerer Verteidigungsring).  
+  - Ausweichen nach Barracuda-Evakuierung per Helikopter (Absprache mit Triton 4).  
 
 - **Barracuda:**  
-  - Verteidigung des inneren Rings.  
-  - Evakuierung per erstem verfügbaren Helikopter nach Materialabtransport (Absprache mit Triton 4).  
+  - Verteidigung (Innerer Verteidigungsring).  
+  - Nach Materialabtransport: Evakuierung mit dem erstem verfügbaren Helikopter (Absprache mit Triton 4).  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  Evakuierung des Personals zur Flotte.  
+  - Abtransport des Personals zur Flotte.  
 
 - **Ghost Crab:**  
-  Abtransport über den Strand mit Alligator.  
+  - Abtransport über den Strand mit Alligator.  
 
 
 
