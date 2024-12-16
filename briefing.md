@@ -203,7 +203,10 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 - **Ghost Crab:**  
   - Abtransport über den Strand mit Alligator.  
 
-
+#### **Missionabschluss in Nachbesprechung im Teamspeak**  
+- **Gruppenintern Feedback sammeln bis 00:00 Uhr**  
+- **Gesamter Missionsfeedback in TS ab 00:00 Uhr**  
+- **Ausgabe des Fragebogen**  
 
 <div markdown="1" class="hidden">
 
