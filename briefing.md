@@ -11,6 +11,17 @@ title: TacOps 2 - Tidal Spear - Briefing
 
 **Vor 4 Monaten:** Zeitpunkt des Evaluationsevent
 
+<div markdown="1" class="table-blue">
+
+| Ablauf \- Samstag Abend | 21.12.2024 |
+| ----- | :---- |
+| Slotten/Joinen auf Server | ab 18:00 Uhr |
+| Führungsbesprechung Ingame | 18:30 Uhr |
+| **Start/Einleitende Worte** | **19:00 Uhr** |
+| Missionsstart | 19:15 Uhr |
+
+</div>
+
 # LADEF - Evaluationevent
 
 ## Allgemeine Lage
@@ -213,10 +224,20 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 
 ---
 
+<div markdown="1" class="table-blue">
+
 #### **Missionabschluss in Nachbesprechung im Teamspeak**  
-- **Gruppenintern Feedback sammeln bis 00:00 Uhr**  
-- **Gesamter Missionsfeedback in TS ab 00:00 Uhr**  
-- **Ausgabe des Fragebogen**  
+
+| Ablauf \- Samstag Abend | 21.12.2024 |
+| ----- | :---- |
+| Missionsende | 23:30 Uhr |
+| Gruppenintern Feedback sammeln | bis 00:00 Uhr |
+| Gesamter Missionsfeedback in TS | ab 00:00 Uhr |
+
+**Anmerkung:** Es wird ein Fragebogen ausgegeben.
+
+</div>
+
 
 <div markdown="1" class="hidden">
 
