@@ -86,15 +86,22 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
     - **Barracuda 1:** Humvee M2, Humvee, Humvee SAG-2/M2/M240.  
     - **Barracuda 2:** Humvee M2, Humvee.  
 
-    - **Alligator:** 2x LAV (ohne Barracuda) oder 1x LAV, 1x AAVP (mit Barracuda aufgesessen).  
-
+    - **Alligator:** 2x LAV oder 1x LAV, 1x AAVP.  
 
   - **Absprache:**  
     - Interne Koordination mit Lizard, Dustoff und Triton zu:  
       - Konvoiparametern, Verhalten unter Beschuss.  
       - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
 
-- **Lizard und Dustoff:**  
+- **Lizard:**  
+  - Herstellung der Einsatzbereitschaft
+    - **Fahrzeugausrüstung:** CGR CAT1A2 (Medizinisch)
+  - **Absprache:**  
+    - Interne Koordination mit Lizard, Dustoff und Triton zu:  
+      - Konvoiparametern, Verhalten unter Beschuss.  
+      - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
+
+- **Dustoff:**  
   - Herstellung der Einsatzbereitschaft
   - **Absprache:**  
     - Interne Koordination mit Lizard, Dustoff und Triton zu:  
@@ -102,6 +109,7 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
       - Anpassung der Fahrzeugwahl, Ausrüstung und medizinischer Lage.  
 
 - **Ghost Crab:**  
+  - Herstellung der Einsatzbereitschaft
   - Ausrüstung der Buggys.  
   - Absprache mit Triton über primäre, sekundäre und tertiäre Missionsziele.  
 
@@ -162,11 +170,11 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
   - Einnehmen von Verteidigungspositionen (Alligator: Allgemein, Otter: Süden, Barracuda: Westen).  
 
 - **Triton 4 (Capybara und Pelikan):**  
-  - Bereitstellen von Javelin für Ghost Crab in Basis Nereus.  
+  - Bereitstellen von TOW für Ghost Crab in Basis Nereus.  
   - Starten des Abtransports von Personal und Material zur Flotte.  
 
 - **Ghost Crab:**  
-  - Verlegung zur Basis für Ausrüsten mit Javelin (Ausgabe über Logistikanfrage) und Verlegung zu POI 30 und POI 31.  
+  - Verlegung zur Basis für Ausrüsten mit TOW (Ausgabe über Logistikanfrage) und Verlegung zu POI 30 und POI 31.  
   - Einnehmen von Verteidigungspositionen POI 30 und POI 31
 
 ---
