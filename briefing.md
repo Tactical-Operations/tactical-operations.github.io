@@ -224,6 +224,12 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 
 ---
 
+### Kartenmaterial
+
+<iframe src="https://maps.plan-ops.fr/ViewMap/24180/LiveFullScreen?t=CWOq8wWTzcubSwy4u6kK8RaiLIGSHkztBp0lm1m4oC4" style="width:100%;height:80vh;border:0;" /> 
+
+---
+
 <div markdown="1" class="table-blue">
 
 #### **Missionabschluss in Nachbesprechung im Teamspeak**  
