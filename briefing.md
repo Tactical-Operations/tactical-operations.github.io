@@ -59,7 +59,7 @@ Zivilisten sind zu großen Teilen geflohen oder haben Zuflucht in ihren Heimen g
 
 ---
 
-### Absichten
+### Auftrag
 
 1.  Sichern der **FOB Pontus**
 2.  Vorhandenes Personal und **zehn (10) Servereinheiten** auf die **Remora** verbringen.
@@ -79,8 +79,6 @@ Gelb
 ---
 
 ### **Durchführung**
-
-Absicht ist über POI zu **FOB Pontus** vorzudringen.
 
 #### **Phase 0 – Herstellung der Einsatzbereitschaft und Aufklärung kritischer Bereiche**  
 - **Aufklärung:**  
@@ -224,26 +222,6 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 
 ---
 
-### Material
-
-#### Kartenmaterial
-
-<div>
-
-<iframe src="https://maps.plan-ops.fr/ViewMap/24180/LiveFullScreen?t=CWOq8wWTzcubSwy4u6kK8RaiLIGSHkztBp0lm1m4oC4" style="width:100%;height:80vh;border:0;" /> 
-
-</div>
-
-#### Servereinheiten
-
-![Image](./assets/tacops-2-referenceimage-serverunit.jpg)
-
-#### CSAT Logistikcontainer
-
-![Image](./assets/tacops-2-referenceimage-logisticunit.jpg)
-
----
-
 <div markdown="1" class="table-blue">
 
 #### **Missionabschluss in Nachbesprechung im Teamspeak**  
@@ -257,6 +235,26 @@ Absicht ist über POI zu **FOB Pontus** vorzudringen.
 **Anmerkung:** Es wird ein Fragebogen ausgegeben.
 
 </div>
+
+### Material
+
+#### Servereinheiten
+
+![Image](./assets/tacops-2-referenceimage-serverunit.jpg)
+
+#### CSAT Logistikcontainer
+
+![Image](./assets/tacops-2-referenceimage-logisticunit.jpg)
+
+#### Kartenmaterial
+
+<div markdown="1">
+
+<iframe src="https://maps.plan-ops.fr/ViewMap/24180/LiveFullScreen?t=CWOq8wWTzcubSwy4u6kK8RaiLIGSHkztBp0lm1m4oC4" style="width:100%;height:80vh;border:0;" /> 
+
+</div>
+
+---
 
 
 <div markdown="1" class="hidden">
