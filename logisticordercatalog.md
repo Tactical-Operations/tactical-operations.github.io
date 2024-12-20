@@ -59,7 +59,7 @@
 | Nr | Infanterieversorgung | Beschreibung/Inhalt |
 | :---: | :---- | :---- |
 | 1-01 | Infanteriemunition (Pro Squad) | Gewehrmunition für alle Infanterierollen |
-| 1-02 | Panzerabwehr | 2x M136 (HEAT), 3x Javelin-Rakete, 3x SMAW Raketen |
+| 1-02 | Panzerabwehr | 2x M136 (HEAT), Raketen für MAAWS Werfer |
 | 1-02 | Flugabwehr | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen |
 | 1-03 | Granaten (inkl. für Granatwerfer) | Explosiv-& Rauchgranaten (inkl. 40mm) |
 | 1-04 | Nachtkampf-Ausstattung | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope |
@@ -69,7 +69,7 @@
 | 1-08 | Marine Raider-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Marine Raider |
 | 1-09 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte |
 | 1-10 | Logistiker-Versorgung | Kiste mit Werkzeugen der Logistik |
-| 1-11 | UAV-Kiste | 20x UAV-Batterie \+ 1x UAV-Terminal |
+| 1-11 | UAV-Kiste | 10x UAV-Batterie, 1x UAV-Terminal, 2x UAV (Darter), 4x Fernmarkierer |
 | 1-12 | (ACE) Sanitätskiste (Standard) | Exkl. für Dustoff 9-1 |
 | 1-13 | (KAM) Allgemeine Gegenstände | Exkl. für Dustoff 9-1 |
 | 1-14 | (ACE) Sanitätskiste (Erweitert) | Exkl. für Dustoff 9-1 |
@@ -138,12 +138,13 @@
 | :---: | :---- | :-----: | :---- |
 | 4-01 | AAVP-7A1 | 21 |  |
 | 4-02 | LAV-25 | 9 |  |
-| 4-03 | LAV-C2 | 4 | Fahrzeug für Kompanieführung und Lizard 1-1|
+| 4-03 | LAV-C2 | 6 | Fahrzeug für Kompanieführung|
+| 4-04 | CGR CAT1A2 (Medizinisch) | 6 | Fahrzeug für Kompanieführung|
 | 4-05 | HUMVEE | 4 |  |
 | 4-06 | HUMVEE (M2) | 5 |  |
 | 4-07 | HUMVEE (TOW) | 5 |  |
-| 4-8 | HUMVEE (SAG-2/M2/M240) | 15 |  |
-| 4-9 | LKW (Infanterie) | 15 |  |
+| 4-08 | HUMVEE (SAG-2/M2/M240) | 15 |  |
+| 4-09 | LKW (Infanterie) | 15 |  |
 | 4-10 | Buggy | 6 |  |
 
 </div>
@@ -184,6 +185,8 @@
 | 6-01 | Schnellboot Minigun | 11 | Kampfboot mit GMW und 7.62 Minigun |
 | 6-02 | MK.V SOC | 33 | Patroullienboot  |
 | 6-03 | RHIB | 8 | Unbewaffnetes Boot |
+| 6-04 | LCVP Personentransport | 36 | Landungsboot |
+| 6-05 | Schlauchboot | 5 | Unbewaffnetes Boot |
 
 </div>
 
