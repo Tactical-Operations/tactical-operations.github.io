@@ -51,15 +51,15 @@
 <style>
 .logistic-table-infantry-supply {
   table tbody tr { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(7) { background-color: var(--logistic-table-lead-color);  }
-  table tbody tr:nth-child(9) { background-color: var(--logistic-table-medic-color);}
-  table tbody tr:nth-child(10) { background-color: var(--logistic-table-logistic-only-color);  }
-  table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
-  table tbody tr:nth-child(12) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(8) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(10) { background-color: var(--logistic-table-medic-color);}
+  table tbody tr:nth-child(11) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(12) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(13) { background-color: var(--logistic-table-medic-only-color);  }
   table tbody tr:nth-child(14) { background-color: var(--logistic-table-medic-only-color);  }
   table tbody tr:nth-child(15) { background-color: var(--logistic-table-medic-only-color);  }
   table tbody tr:nth-child(16) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(17) { background-color: var(--logistic-table-medic-only-color);  }
 }
 </style>
 
@@ -69,21 +69,21 @@
 | :---: | :---- | :---- |
 | 1-01 | Infanteriemunition (Pro Squad) | Gewehrmunition für alle Infanterierollen |
 | 1-02 | Panzerabwehr | 2x M136 (HEAT), Raketen für MAAWS Werfer |
-| 1-02 | Flugabwehr | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen |
-| 1-03 | Granaten (inkl. für Granatwerfer) | Explosiv-& Rauchgranaten (inkl. 40mm) |
-| 1-04 | Nachtkampf-Ausstattung | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope |
-| 1-05 | Sprengstoff&Minen-Kiste | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
-| 1-06 | Funkturm Kiste | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (Ersetzt SATCOMS) |
-| 1-07 | Führungskiste | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer |
-| 1-08 | Marine Raider-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Marine Raider |
-| 1-09 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte |
-| 1-10 | Logistiker-Versorgung | Kiste mit Werkzeugen der Logistik |
-| 1-11 | UAV-Kiste | 10x UAV-Batterie, 1x UAV-Terminal, 2x UAV (Darter), 4x Fernmarkierer |
-| 1-12 | (ACE) Sanitätskiste (Standard) | Exkl. für Dustoff 9-1 |
-| 1-13 | (KAM) Allgemeine Gegenstände | Exkl. für Dustoff 9-1 |
-| 1-14 | (ACE) Sanitätskiste (Erweitert) | Exkl. für Dustoff 9-1 |
-| 1-15 | (KAM) Medikamentenkiste | Exkl. für Dustoff 9-1 |
-| 1-16 | (KAM) Medizinische Blutbank | Exkl. für Dustoff 9-1 |
+| 1-03 | Flugabwehr | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen |
+| 1-04 | Granaten (inkl. für Granatwerfer) | Explosiv-& Rauchgranaten (inkl. 40mm) |
+| 1-05 | Nachtkampf-Ausstattung | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope |
+| 1-06 | Sprengstoff&Minen-Kiste | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
+| 1-07 | Funkturm Kiste | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (Ersetzt SATCOMS) |
+| 1-08 | Führungskiste | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer |
+| 1-09 | Marine Raider-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Marine Raider |
+| 1-10 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte |
+| 1-11 | Logistiker-Versorgung | Kiste mit Werkzeugen der Logistik |
+| 1-12 | UAV-Kiste | 10x UAV-Batterie, 1x UAV-Terminal, 2x UAV (Darter), 4x Fernmarkierer |
+| 1-13 | (ACE) Sanitätskiste (Standard) | Exkl. für Dustoff 9-1 |
+| 1-14 | (KAM) Allgemeine Gegenstände | Exkl. für Dustoff 9-1 |
+| 1-15 | (ACE) Sanitätskiste (Erweitert) | Exkl. für Dustoff 9-1 |
+| 1-16 | (KAM) Medikamentenkiste | Exkl. für Dustoff 9-1 |
+| 1-17 | (KAM) Medizinische Blutbank | Exkl. für Dustoff 9-1 |
 | 1-69 | Kleine Kiste (leer)/Große Kiste (leer) | Dient für Sonderbestellungen |
 
 </div>
