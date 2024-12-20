@@ -20,7 +20,7 @@
 | **Rosa** | **Medizinisch (für alle)** |
 | **Rot** | **Für medizinisches Personal** |
 | **Gelb** | **Exkl. für Logistiker** |
-| **Orange** | **Fahrzeugwartung** |
+| **Orange** | **Für Fahrzeuge + Wartung** |
 | **Lila-Blau** | **Für Führungskräfte** |
 | **Blau** | **Für Luftstreitkräfte** |
 
@@ -51,6 +51,14 @@
 <style>
 .logistic-table-infantry-supply {
   table tbody tr { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(9) { background-color: var(--logistic-table-medic-color);}
+  table tbody tr:nth-child(10) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(12) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(13) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(14) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(15) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(16) { background-color: var(--logistic-table-medic-only-color);  }
 }
 </style>
 
@@ -84,6 +92,7 @@
 <style>
 .logistic-table-vehicle-supply {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+  table tbody tr:nth-child(6) { background-color: var(--logistic-table-air-color);  }
 }
 </style>
 
@@ -106,7 +115,7 @@
 
 <style>
 .logistic-table-artillery-supply {
-  table tbody tr { background-color: var(--logistic-table-lead-color); }
+  table tbody tr { background-color: var(--logistic-table-infantry-color); }
 }
 </style>
 
@@ -184,6 +193,9 @@
 <style>
 .logistic-table-sea-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(5) { background-color: var(--logistic-table-infantry-color); }
 }
 </style>
 
@@ -250,7 +262,7 @@
 
 <style>
 .logistic-table-others {
-  table tbody tr { background-color: var(--logistic-table-lead-color); }
+  table tbody tr { background-color: var(--logistic-table-logistic-only-color); }
 }
 </style>
 
