@@ -139,7 +139,7 @@
 | 4-01 | AAVP-7A1 | 21 |  |
 | 4-02 | LAV-25 | 9 |  |
 | 4-03 | LAV-C2 | 6 | Fahrzeug für Kompanieführung|
-| 4-04 | CGR CAT1A2 (Medizinisch) | 6 | Fahrzeug für Kompanieführung|
+| 4-04 | <span class="table-medical"CGR CAT1A2 (Medizinisch)</span> | 6 | Fahrzeug für Kompanieführung|
 | 4-05 | HUMVEE | 4 |  |
 | 4-06 | HUMVEE (M2) | 5 |  |
 | 4-07 | HUMVEE (TOW) | 5 |  |
