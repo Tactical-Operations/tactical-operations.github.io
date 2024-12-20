@@ -129,17 +129,26 @@
 <style>
 .logistic-table-land-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
+  table tbody tr:nth-child(1) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(2) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(3) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-medic-only-color);  }
+  table tbody tr:nth-child(5) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(6) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(7) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(8) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(9) { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(10) { background-color: var(--logistic-table-infantry-color); }
 }
 </style>
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-land-vehicle">
-
 | Nr | Landfahrzeuge | Sitzplätze | Anmerkungen |
 | :---: | :---- | :-----: | :---- |
 | 4-01 | AAVP-7A1 | 21 |  |
 | 4-02 | LAV-25 | 9 |  |
 | 4-03 | LAV-C2 | 6 | Fahrzeug für Kompanieführung|
-| 4-04 | <span class="table-medical">CGR CAT1A2 (Medizinisch)</span> | 6 | Fahrzeug für Kompanieführung|
+| 4-04 | CGR CAT1A2 (Medizinisch) | 6 | Fahrzeug für Lizard|
 | 4-05 | HUMVEE | 4 |  |
 | 4-06 | HUMVEE (M2) | 5 |  |
 | 4-07 | HUMVEE (TOW) | 5 |  |
