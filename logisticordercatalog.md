@@ -51,6 +51,7 @@
 <style>
 .logistic-table-infantry-supply {
   table tbody tr { background-color: var(--logistic-table-infantry-color); }
+  table tbody tr:nth-child(7) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(9) { background-color: var(--logistic-table-medic-color);}
   table tbody tr:nth-child(10) { background-color: var(--logistic-table-logistic-only-color);  }
   table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
@@ -71,8 +72,8 @@
 | 1-02 | Flugabwehr | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen |
 | 1-03 | Granaten (inkl. für Granatwerfer) | Explosiv-& Rauchgranaten (inkl. 40mm) |
 | 1-04 | Nachtkampf-Ausstattung | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope |
-| 1-05 | Minen-Kiste | 2x Minensucher, 20x APERS Minenwerfer, 20x Panzerabwehrminen, 20x M4A1 SLAM, Stolperdraht-Leuchtrakete |
-| 1-06 | Pionierkiste | 5x Minensucher, 5x Entschärfungs-Kit, 5x IED Notebook, 40x TNT Charge (75g) |
+| 1-05 | Sprengstoff&Minen-Kiste | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
+| 1-06 | Funkturm Kiste | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (Ersetzt SATCOMS) |
 | 1-07 | Führungskiste | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer |
 | 1-08 | Marine Raider-Versorgung | Munitionskiste exklusiv für die Bewaffnung der Marine Raider |
 | 1-09 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte |
