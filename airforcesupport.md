@@ -24,7 +24,3 @@
 * A-Recon steht für Aerial reconnaissance, nicht zu verwechseln mit Recon Einheiten.
 * Der Einsatztyp A-Recon beinhaltet das luftgestützte Aufklären von Gebieten, bei der feindliche Kräfte markiert werden können und über den JTAC eine Lagebild übermittelt wird.
 * A-Recon hat die geringste Gewichtung von allen Einsatztypen und kann daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben werden.
-
-#### CAP:
-
-* Text folgt
