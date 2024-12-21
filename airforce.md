@@ -100,19 +100,19 @@
 **Grün**: Freund Markierung  
 **Rot**: Feind Markierung
 
-#### Wichtige Frequenzen
+#### Wichtige Funkkanäle
 
 <div markdown="1" class="airforce-table airforce-important-frequences">
 
 | Piloten |  | JTAC |  |
 | :-----: | :----: | :-----: | :----: |
-| Luftraum (Tower) | 80 Hz (Lasercode 1115\) | TACP-com | 84 Hz |
-| Red Titan | 38 Hz (Lasercode 1113\) |  |  |
-| Blue King | 58 Hz (Lasercode 1114\) |  |  |
+| Luftraum (Tower) | AIR SPACE (Lasercode 1115\) | TACP-com | 84 Hz |
+| Blue Otter | OTTER JTAC (Lasercode 1113\) |  |  |
+| Red Barracuda | BARRA JTAC (Lasercode 1114\) |  |  |
 
 </div>
 
-Logistik für RRR auf 69 Hz
+Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 ####  Karten Markierungen
 **IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann).  
@@ -126,9 +126,9 @@ Logistik für RRR auf 69 Hz
 
 #### Ablauf:
 
-1. Eine Anfrage für Luftunterstützung wird auf der 84 Hz an den ALO gestellt, dort müssen die Fragen was? und wohin? geklärt werden.
-2. Das Luftfahrzeug meldet sich auf der Frequenz des JTAC an.
-3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat, meldet es sich auf der JTAC Frequenz ab.
+1. Eine Anfrage für Luftunterstützung wird auf dem *TRITON ALO* Funkkanal an den ALO gestellt, dort müssen die Fragen was? und wohin? geklärt werden.
+2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTAC an.
+3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat, meldet es sich auf dem JTAC Funkkanal ab.
 
 #### Wichtige Punkte
 
@@ -141,17 +141,17 @@ Logistik für RRR auf 69 Hz
 
 #### Ablauf:
 
-1. Dem Luftfahrzeug wird auf der 80 Hz der Mission 3-Liner übergeben..
-2. Das Luftfahrzeug meldet sich auf der Frequenz des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt werden.
+1. Dem Luftfahrzeug wird auf dem *AIR SPACE* Funkkanal den Mission 3-Liner übergeben ...
+2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
-4. Nach abgeschlossener Mission wird die JTAC Frequenz verlassen und sich wieder auf der 80 Hz angemeldet.
+4. Nach abgeschlossener Mission wird der JTAC Funkkanal verlassen und sich wieder auf dem *AIR SPACE* Funkkanal angemeldet.
 
 #### Wichtige Punkte
 
 * Bei der Landung auf Schiffen müssen die Positionslichter aktiviert werden zur Kenntlichmachung des Luftfahrzeuges.
-* Auch am Boden muss jede Einheit auf der 80 Hz erreichbar sein.
-* Nur Starrflügler müssen einen Call bei der Landung auf der 80 Hz machen um andere Luftfahrzeuge zu warnen, sollte auf der 80 Hz keine Kapazität verfügbar sein kann auch ohne gelandet werden.
-* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition) den Näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und Flugzeuge überprüfen.
+* Auch am Boden muss jede Einheit auf dem Air Space Funkkanal erreichbar sein.
+* Nur Starrflügler müssen einen Call bei der Landung auf dem Air Space Funkkanal machen um andere Luftfahrzeuge zu warnen, sollte auf diesem Funkkanal keine Kapazität verfügbar sein kann auch ohne gelandet werden.
+* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition) den näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und Flugzeuge überprüfen.
 * Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden werden.
 
 Bei weiteren Fragen im Discord [Nick Mojo #air-force-chat](https://discord.com/channels/1230998538926952578/1234144188338012170) nachfragen.
