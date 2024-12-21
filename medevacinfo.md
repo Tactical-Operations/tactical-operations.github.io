@@ -3,7 +3,7 @@
 Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
 
 **1\. Kein kompliziertes Anfrageverfahren**  
-Jeder kann, bei Ausfall der Führung, auf der Prioritätsfrequenz (87 Hz) den MedEvac anfordern.  
+Jeder kann, bei Ausfall der Führung, auf dem Notfallkanal (Kanal 1 - *SOS*) den MedEvac anfordern.  
 Einfach sagen: „Wir sind Otter Bravo und brauchen den MedEvac\!“  
 Alles Weitere wird dann erfragt, während der MedEvac bereits auf dem Weg ist. Die Anfrage wird vom CCT/ALO mit höchster Priorität behandelt.
 
@@ -27,6 +27,6 @@ Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:
 
 ## Mobile Medical Team Info
 
-Das MMT (Mobile Medical Team), ähnlich einem BAT (Beweglicher Arzttruppe), ist für die Versorgung von verwundeten Kräften zuständig. 
-Die Besonderheit gegenüber dem MedEvac liegt darin, dass diese Einheit einer anderen Einheit angegliedert wird, diese begleitet, die Versorgung gemeinsam mit weiteren medizinischen Kräften durchführt.
-Weiter gegebenenfalls die Evakuierung leitet und unterstützt, beispielsweise durch den Transport von Patienten zu einem Übergabepunkt.
+Das MMT (Mobile Medical Team), ähnlich einem BAT (Beweglicher Arzttruppe), ist für die Versorgung von verwundeten Kräften zuständig.  
+Die Besonderheit gegenüber dem MedEvac liegt darin, dass diese Einheit einer anderen Einheit angegliedert wird, diese begleitet, die Versorgung gemeinsam mit weiteren medizinischen Kräften durchführt.  
+Weiter gegebenenfalls die Evakuierung leitet und unterstützt, beispielsweise durch den Transport von Patienten zu einem Übergabepunkt.  
