@@ -97,7 +97,8 @@
 | 49          | LIZARD INT   | Lizard 1 internal          | Lizard 1           |               |                  |
 | 50          | GHOST PLT    | Ghost Crab Platoon (empty) | Ghost Crab Platoon |               |                  |
 | 51          | TELEMEDIC    | Medic Q. and A.            |                    |               |                  |
-| 52          | MISC         | Miscellaneous              |                    |               |                  |
+| 52          | MISC 1       | Miscellaneous 1            |                    |               |                  |
+| 53          | MISC 1       | Miscellaneous 2            |                    |               |                  |
 
 </div>
 
