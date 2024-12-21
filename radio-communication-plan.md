@@ -14,6 +14,9 @@
   /* Triton Platoon */
   table tbody tr:nth-child(n+2):nth-child(-n+3) { background-color: var(--logistic-table-lead-color);  }
 
+  /* Logistic */
+  table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
+
   table tbody tr:nth-child(n+5):nth-child(-n+8) { background-color: var(--logistic-table-air-color);  }
 
   table tbody tr:nth-child(9) { background-color: var(--logistic-table-infantry-color);  }
@@ -38,6 +41,9 @@
   table tbody tr:nth-child(48) { background-color: var(--logistic-table-medic-color);}
   /* Lizard */
   table tbody tr:nth-child(49) { background-color: var(--logistic-table-medic-only-color);  }
+  /* TELEMEDIC */
+  table tbody tr:nth-child(51) { background-color: var(--logistic-table-medic-only-color);  }
+
 
 }
 </style>
