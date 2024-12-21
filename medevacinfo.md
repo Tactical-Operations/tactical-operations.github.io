@@ -19,7 +19,7 @@ Ein MedEvac-Doktor bleibt im MedEvac für Folgeaufträge. Selbst wenn der MedEva
 </div>
 
 **3\. MedEvac leistet, was benötigt wird**  
-Teilt uns nach Anmeldung auf eurer Frequenz mit, welches Verfahren ihr wünscht:  
+Teilt uns nach Anmeldung auf eurem Funkkanal mit, welches Verfahren ihr wünscht:  
 \- Transport der Patienten zur Basis, bei vielen schweren Ausfällen  
 \- Medizinische Unterstützung vor Ort durch MedEvac-Doktoren
 
