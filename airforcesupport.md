@@ -3,8 +3,8 @@
 #### Ablauf:
 
 1. Eine Anforderung für CAS, MedEvac oder A-Recon wird durch den JTAC an den ALO gemacht.
-2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf die Frequenz des JTACs, dort wird das weitere Vorgehen koordiniert
-3. Sobald die Luftunterstützung nicht mehr benötigt wird, meldet sich diese wieder von der Frequenz des JTACs ab.
+2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf den Funkkanal des JTACs, dort wird das weitere Vorgehen koordiniert
+3. Sobald die Luftunterstützung nicht mehr benötigt wird, meldet sich diese wieder von dem Funkkanal des JTACs ab.
 
 #### MedEvac:
 
