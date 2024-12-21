@@ -49,54 +49,55 @@
 | 1           | SOS          | Emergency                  |                    |               |                  |
 | 2           | TRITON PLT   | Triton Platoon             |                    |               |                  |
 | 3           | TRITON PLT A | Triton Platoon Alternative |                    |               |                  |
-| 4           | OTTER JTAC   | Otter JTAC                 | Otter Platoon      | Platoon Squad |                  |
-| 5           | BARRA JTAC   | Barracuda JTAC             | Barracuda Platoon  | Platoon Squad |                  |
-| 6           | TRITON JTAC  | Triton JTAC                |                    |               |                  |
-| 7           | AIR SPACE    | Air Space                  |                    |               |                  |
-| 8           | OTTER PLT    | Otter Platoon              | Otter Platoon      | Platoon Squad |                  |
-| 9           | BARRA PLT    | Barracuda Platoon          | Barracuda Platoon  | Platoon Squad |                  |
-| 10          | GHOST IN1    | Ghost Crab 1 internal      | Ghost Crab         | Squad 1       |                  |
-| 11          | GHOST IN2    | Ghost Crab 2 internal      | Ghost Crab         | Squad 2       |                  |
-| 12          | OTTER ACTUAL | Otter Actual intern        | Otter Platoon      | Platoon Squad |                  |
-| 13          | OTTER ALPHA  | Otter Alpha                | Otter Platoon      | Alpha Squad   |                  |
-| 14          | OTTER AF1    | Otter Alpha Fireteam 1     | Otter Platoon      | Alpha Squad   | Fireteam 1       |
-| 15          | OTTER AF2    | Otter Alpha Fireteam 2     | Otter Platoon      | Alpha Squad   | Fireteam 2       |
-| 16          | OTTER AF3    | Otter Alpha Fireteam 3     | Otter Platoon      | Alpha Squad   | Fireteam 3       |
-| 17          | OTTER BRAVO  | Otter Bravo                | Otter Platoon      | Bravo Squad   |                  |
-| 18          | OTTER BF1    | Otter Bravo Fireteam 1     | Otter Platoon      | Bravo Squad   | Fireteam 1       |
-| 19          | OTTER BF2    | Otter Bravo Fireteam 2     | Otter Platoon      | Bravo Squad   | Fireteam 2       |
-| 20          | OTTER BF3    | Otter Bravo Fireteam 3     | Otter Platoon      | Bravo Squad   | Fireteam 3       |
-| 21          | BARRA ACTUAL | Barracuda Actual intern    | Barracuda Platoon  | Platoon Squad |                  |
-| 22          | BARRA ALPHA  | Barracuda Alpha            | Barracuda Platoon  | Alpha Squad   |                  |
-| 23          | BARRA AF1    | Barracuda Alpha Fireteam 1 | Barracuda Platoon  | Alpha Squad   | Fireteam 1       |
-| 24          | BARRA AF2    | Barracuda Alpha Fireteam 2 | Barracuda Platoon  | Alpha Squad   | Fireteam 2       |
-| 25          | BARRA AF3    | Barracuda Alpha Fireteam 3 | Barracuda Platoon  | Alpha Squad   | Fireteam 3       |
-| 26          | BARRA BRAVO  | Barracuda Bravo            | Barracuda Platoon  | Bravo Squad   |                  |
-| 27          | BARRA BF1    | Barracuda Bravo Fireteam 1 | Barracuda Platoon  | Bravo Squad   | Fireteam 1       |
-| 28          | BARRA BF2    | Barracuda Bravo Fireteam 2 | Barracuda Platoon  | Bravo Squad   | Fireteam 2       |
-| 29          | BARRA BF3    | Barracuda Bravo Fireteam 3 | Barracuda Platoon  | Bravo Squad   | Fireteam 3       |
-| 30          | ALLI PLT     | Alligator Platoon          | Alligator Platoon  |               |                  |
-| 31          | ALLI ALPHA   | Alligator Alpha            | Alligator Platoon  | Alpha Squad   |                  |
-| 32          | ALLI AL1     | Alligator Alpha 1 internal | Alligator Platoon  | Alpha Squad   | Alpha 1 internal |
-| 33          | ALLI AL2     | Alligator Alpha 2 internal | Alligator Platoon  | Alpha Squad   | Alpha 2 internal |
-| 34          | ALLI BRAVO   | Alligator Bravo            | Alligator Platoon  | Bravo Squad   |                  |
-| 35          | ALLI BR1     | Alligator Bravo 1 internal | Alligator Platoon  | Bravo Squad   | Bravo 1 internal |
-| 36          | ALLI BR2     | Alligator Bravo 2 internal | Alligator Platoon  | Bravo Squad   | Bravo 2 internal |
-| 37          | CAPY PLT     | Capybara Platoon           | Capybara Platoon   |               |                  |
-| 38          | CAPY IN1     | Capybara 1 internal        | Capybara Platoon   | Capybara 1    |                  |
-| 39          | CAPY IN2     | Capybara 2 internal        | Capybara Platoon   | Capybara 2    |                  |
-| 40          | PELI IN1     | Pelican 1 internal         | Pelican 1          |               |                  |
-| 41          | PELI IN2     | Pelican 2 internal         | Pelican 2          |               |                  |
-| 42          | TRITON HQ    | Triton HQ internal         | Triton HQ          |               |                  |
-| 43          | EAGLE INT    | Eagle internal             | Eagle Wing         |               |                  |
-| 44          | MORAY IN1    | Moray 1 internal           | Moray 1            |               |                  |
-| 45          | MORAY IN2    | Moray 2 internal           | Moray 2            |               |                  |
-| 46          | OSPRY IN1    | Osprey 1 internal          | Osprey 1           |               |                  |
-| 47          | DUSTOFF 9-1  | Dustoff 9-1 internal       | Dustoff            |               |                  |
-| 48          | LIZARD INT   | Lizard 1 internal          | Lizard 1           |               |                  |
-| 49          | GHOST PLT    | Ghost Crab Platoon (empty) | Ghost Crab Platoon |               |                  |
-| 50          | MISC         | Miscellaneous              |                    |               |                  |
-
+| 4           | LOGISTIC     | Logistic Request           |                    |               |                  |
+| 5           | OTTER JTAC   | Otter JTAC                 | Otter Platoon      | Platoon Squad |                  |
+| 6           | BARRA JTAC   | Barracuda JTAC             | Barracuda Platoon  | Platoon Squad |                  |
+| 7           | TRITON ALO   | Triton ALO and JTAC        |                    |               |                  |
+| 8           | AIR SPACE    | Air Space                  |                    |               |                  |
+| 9           | OTTER PLT    | Otter Platoon              | Otter Platoon      | Platoon Squad |                  |
+| 10          | BARRA PLT    | Barracuda Platoon          | Barracuda Platoon  | Platoon Squad |                  |
+| 11          | GHOST IN1    | Ghost Crab 1 internal      | Ghost Crab         | Squad 1       |                  |
+| 12          | GHOST IN2    | Ghost Crab 2 internal      | Ghost Crab         | Squad 2       |                  |
+| 13          | OTTER ACTUAL | Otter Actual intern        | Otter Platoon      | Platoon Squad |                  |
+| 14          | OTTER ALPHA  | Otter Alpha                | Otter Platoon      | Alpha Squad   |                  |
+| 15          | OTTER AF1    | Otter Alpha Fireteam 1     | Otter Platoon      | Alpha Squad   | Fireteam 1       |
+| 16          | OTTER AF2    | Otter Alpha Fireteam 2     | Otter Platoon      | Alpha Squad   | Fireteam 2       |
+| 17          | OTTER AF3    | Otter Alpha Fireteam 3     | Otter Platoon      | Alpha Squad   | Fireteam 3       |
+| 18          | OTTER BRAVO  | Otter Bravo                | Otter Platoon      | Bravo Squad   |                  |
+| 19          | OTTER BF1    | Otter Bravo Fireteam 1     | Otter Platoon      | Bravo Squad   | Fireteam 1       |
+| 20          | OTTER BF2    | Otter Bravo Fireteam 2     | Otter Platoon      | Bravo Squad   | Fireteam 2       |
+| 21          | OTTER BF3    | Otter Bravo Fireteam 3     | Otter Platoon      | Bravo Squad   | Fireteam 3       |
+| 22          | BARRA ACTUAL | Barracuda Actual intern    | Barracuda Platoon  | Platoon Squad |                  |
+| 23          | BARRA ALPHA  | Barracuda Alpha            | Barracuda Platoon  | Alpha Squad   |                  |
+| 24          | BARRA AF1    | Barracuda Alpha Fireteam 1 | Barracuda Platoon  | Alpha Squad   | Fireteam 1       |
+| 25          | BARRA AF2    | Barracuda Alpha Fireteam 2 | Barracuda Platoon  | Alpha Squad   | Fireteam 2       |
+| 26          | BARRA AF3    | Barracuda Alpha Fireteam 3 | Barracuda Platoon  | Alpha Squad   | Fireteam 3       |
+| 27          | BARRA BRAVO  | Barracuda Bravo            | Barracuda Platoon  | Bravo Squad   |                  |
+| 28          | BARRA BF1    | Barracuda Bravo Fireteam 1 | Barracuda Platoon  | Bravo Squad   | Fireteam 1       |
+| 29          | BARRA BF2    | Barracuda Bravo Fireteam 2 | Barracuda Platoon  | Bravo Squad   | Fireteam 2       |
+| 30          | BARRA BF3    | Barracuda Bravo Fireteam 3 | Barracuda Platoon  | Bravo Squad   | Fireteam 3       |
+| 31          | ALLI PLT     | Alligator Platoon          | Alligator Platoon  |               |                  |
+| 32          | ALLI ALPHA   | Alligator Alpha            | Alligator Platoon  | Alpha Squad   |                  |
+| 33          | ALLI AL1     | Alligator Alpha 1 internal | Alligator Platoon  | Alpha Squad   | Alpha 1 internal |
+| 34          | ALLI AL2     | Alligator Alpha 2 internal | Alligator Platoon  | Alpha Squad   | Alpha 2 internal |
+| 35          | ALLI BRAVO   | Alligator Bravo            | Alligator Platoon  | Bravo Squad   |                  |
+| 36          | ALLI BR1     | Alligator Bravo 1 internal | Alligator Platoon  | Bravo Squad   | Bravo 1 internal |
+| 37          | ALLI BR2     | Alligator Bravo 2 internal | Alligator Platoon  | Bravo Squad   | Bravo 2 internal |
+| 38          | CAPY PLT     | Capybara Platoon           | Capybara Platoon   |               |                  |
+| 39          | CAPY IN1     | Capybara 1 internal        | Capybara Platoon   | Capybara 1    |                  |
+| 40          | CAPY IN2     | Capybara 2 internal        | Capybara Platoon   | Capybara 2    |                  |
+| 41          | PELI IN1     | Pelican 1 internal         | Pelican 1          |               |                  |
+| 42          | PELI IN2     | Pelican 2 internal         | Pelican 2          |               |                  |
+| 43          | TRITON HQ    | Triton HQ internal         | Triton HQ          |               |                  |
+| 44          | EAGLE INT    | Eagle internal             | Eagle Wing         |               |                  |
+| 45          | MORAY IN1    | Moray 1 internal           | Moray 1            |               |                  |
+| 46          | MORAY IN2    | Moray 2 internal           | Moray 2            |               |                  |
+| 47          | OSPRY IN1    | Osprey 1 internal          | Osprey 1           |               |                  |
+| 48          | DUSTOFF 9-1  | Dustoff 9-1 internal       | Dustoff            |               |                  |
+| 49          | LIZARD INT   | Lizard 1 internal          | Lizard 1           |               |                  |
+| 50          | GHOST PLT    | Ghost Crab Platoon (empty) | Ghost Crab Platoon |               |                  |
+| 51          | TELEMEDIC    | Medic Q. and A.            |                    |               |                  |
+| 52          | MISC         | Miscellaneous              |                    |               |                  |
 
 </div>
 
