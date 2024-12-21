@@ -1,4 +1,4 @@
-## WIP - Logistikbestellkatalog
+## Logistikbestellkatalog
 
 <style>
 .logistic-table-order-catalog { 
