@@ -11,10 +11,14 @@ Für Air-Stack, Medizinisches Personal und Führung wird es Termine zum Abkläre
 Anmeldungen für die Übungstermine sind nicht nötig.  
 Betreffende Personen erscheinen selbstständig - falls ihr euch nicht sicher seid fragt einfach im [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792)    
 
+<div markdown="1" class="hidden">
+
 Folgende Übungstermine werden angesetzt:  
 * Training Medizinisches Personal: Termin wird noch veröffentlicht  
 * Einspieltermin für Airstack: Termin wird noch veröffentlicht  
 * Übungstermine für MedicEvac/Mobile Doctor Team: Termin wird noch veröffentlicht  
+
+</div>
 
 ## Evaluationsevent - Samstag 21.12.2024
 
