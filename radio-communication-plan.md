@@ -28,7 +28,7 @@
   /* Alligator */
   table tbody tr:nth-child(n+31):nth-child(-n+32) { background-color: var(--logistic-table-vehicle-color);  }
   /* Logistic */
-  table tbody tr:nth-child(n+32):nth-child(-n+37) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(n+33):nth-child(-n+37) { background-color: var(--logistic-table-logistic-only-color);  }
   /* Triton HQ internal */
   table tbody tr:nth-child(38) { background-color: var(--logistic-table-lead-color);  }
 
