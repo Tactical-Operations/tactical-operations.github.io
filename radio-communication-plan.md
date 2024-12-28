@@ -18,32 +18,25 @@
   table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
 
   table tbody tr:nth-child(n+5):nth-child(-n+9) { background-color: var(--logistic-table-air-color);  }
-
-  table tbody tr:nth-child(10) { background-color: var(--logistic-table-infantry-color);  }
-  table tbody tr:nth-child(11) { background-color: var(--logistic-table-infantry-color);  }
-
+  
+  table tbody tr:nth-child(10) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(12) { background-color: var(--logistic-table-lead-color);  }
 
   /* Otter and Barracuda */
   table tbody tr:nth-child(n+13):nth-child(-n+30) { background-color: var(--logistic-table-infantry-color);  }
   /* Alligator */
-  table tbody tr:nth-child(n+31):nth-child(-n+37) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(n+31):nth-child(-n+32) { background-color: var(--logistic-table-vehicle-color);  }
   /* Logistic */
-  table tbody tr:nth-child(n+38):nth-child(-n+42) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(n+32):nth-child(-n+37) { background-color: var(--logistic-table-logistic-only-color);  }
   /* Triton HQ internal */
-  table tbody tr:nth-child(43) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(38) { background-color: var(--logistic-table-lead-color);  }
 
   /* Air Assets except Logistic */
-  table tbody tr:nth-child(n+44):nth-child(-n+47) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(n+39):nth-child(-n+41) { background-color: var(--logistic-table-air-color);  }
 
   /* Dustoff 9-1 */
-  table tbody tr:nth-child(48) { background-color: var(--logistic-table-medic-color);}
-  /* Lizard */
-  table tbody tr:nth-child(49) { background-color: var(--logistic-table-medic-only-color);  }
-  /* TELEMEDIC */
-  table tbody tr:nth-child(51) { background-color: var(--logistic-table-medic-only-color);  }
-
+  table tbody tr:nth-child(42) { background-color: var(--logistic-table-medic-color);}
 
 }
 </style>
