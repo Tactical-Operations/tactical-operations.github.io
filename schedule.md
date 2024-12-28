@@ -58,7 +58,7 @@ Die **Anmeldung** für das Hauptevent ist **ab dem 29.12.2024 - 19:00 Uhr** geö
 
 Das Hauptevent findet in 3 Schichten statt: 
 > Schicht 1 **Freitag Abend** 17.01.2025 mit Slotten ab 18:00 - Mission bis 23:30 Uhr  
-> Schicht 2 **Samstag Nachmittag** 18.01.2025 mit Slotten ab 13:00 - Mission bis 18:30 Uhr  
+> Schicht 2 **Samstag Nachmittag** 18.01.2025 mit Slotten ab 13:00 - Mission bis 18:00 Uhr  
 > Schicht 3 **Samstag Abend** 18.01.2025 mit Slotten ab 18:15 - Mission bis 23:30 Uhr  
 
 Ziel ist es Spass zu haben.  
