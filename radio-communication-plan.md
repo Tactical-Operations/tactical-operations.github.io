@@ -17,10 +17,10 @@
   /* Logistic */
   table tbody tr:nth-child(4) { background-color: var(--logistic-table-logistic-only-color);  }
 
-  table tbody tr:nth-child(n+5):nth-child(-n+8) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(n+5):nth-child(-n+9) { background-color: var(--logistic-table-air-color);  }
 
-  table tbody tr:nth-child(9) { background-color: var(--logistic-table-infantry-color);  }
   table tbody tr:nth-child(10) { background-color: var(--logistic-table-infantry-color);  }
+  table tbody tr:nth-child(11) { background-color: var(--logistic-table-infantry-color);  }
 
   table tbody tr:nth-child(11) { background-color: var(--logistic-table-lead-color);  }
   table tbody tr:nth-child(12) { background-color: var(--logistic-table-lead-color);  }
@@ -61,9 +61,9 @@
 | 7           | GHOST JTAC   | Ghost Crab JTAC               |
 | 8           | TRITON ALO   | Triton ALO and JTAC           |
 | 9           | AIR SPACE    | Air Space                     |
-| 10          | OTTER PLT    | Otter Platoon                 |
-| 11          | BARRA PLT    | Barracuda Platoon             |
-| 12          | GHOST CRAB   | Ghost Crab                    |
+| 10          | GHOST CRAB   | Ghost Crab                    |
+| 11          | OTTER PLT    | Otter Platoon                 |
+| 12          | BARRA PLT    | Barracuda Platoon             |
 | 13          | OTTER ACTUAL | Otter Actual intern           |
 | 14          | OTTER ALPHA  | Otter Alpha                   |
 | 15          | OTTER AF1    | Otter Alpha Fireteam 1        |
