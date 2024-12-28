@@ -18,7 +18,7 @@ Folgende Übungstermine werden angesetzt:
 * Einspieltermin für Airstack: Termin wird noch veröffentlicht  
 * Übungstermine für MedicEvac/Mobile Doctor Team: Termin wird noch veröffentlicht  
 
-</div>
+
 
 ## Evaluationsevent - Samstag 21.12.2024
 
@@ -28,6 +28,8 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 <div markdown="1" class="hidden">
 * Slotliste für Evaluationsevent: [Slotliste - Google Sheet ]()  
+</div>
+
 </div>
 
 #### Ablauf
