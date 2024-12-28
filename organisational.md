@@ -1,6 +1,6 @@
 # Organisatorisches
 
-### Join-In-Progress
+### Join-In-Progress und Respawn
 
 * Spieler können jederzeit verspätet zum Event erscheinen. Meldet euch dann bei der Logistik; ihr werdet von einem Zeus teleportiert.
 * Respawn ist aktiviert. Sucht nach eurem Respawn die Logistik auf. Diese organisiert den Transport zu eurem Trupp.
