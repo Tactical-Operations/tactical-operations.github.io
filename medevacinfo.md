@@ -25,8 +25,12 @@ Teilt uns nach Anmeldung auf eurem Funkkanal mit, welches Verfahren ihr wünscht
 
 **Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
 
+<div markdown="1" class="hidden">
+
 ## Mobile Medical Team Info
 
 Das MMT (Mobile Medical Team), ähnlich einem BAT (Beweglicher Arzttruppe), ist für die Versorgung von verwundeten Kräften zuständig.  
 Die Besonderheit gegenüber dem MedEvac liegt darin, dass diese Einheit einer anderen Einheit angegliedert wird, diese begleitet, die Versorgung gemeinsam mit weiteren medizinischen Kräften durchführt.  
 Weiter gegebenenfalls die Evakuierung leitet und unterstützt, beispielsweise durch den Transport von Patienten zu einem Übergabepunkt.  
+
+</div>
