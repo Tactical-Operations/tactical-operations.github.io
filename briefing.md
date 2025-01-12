@@ -258,3 +258,82 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 
 ---
 
+# Durchführung Schicht 2 - Samstag Nachmittag 18.1.2025  
+
+## Einzelaufträge
+
+### Phase 0 – Herstellung der Einsatzbereitschaft
+
+- **Schnelle Aufklärung** von Südost (Waldgebiet) durch Luft (Triton 8).  
+- **Moray 1-2**: Aufsitzen auf Osprey.  
+- **Eagle**: Unterstützung von Moray 1-2.  
+
+#### Otter, Barracuda und Alligator
+- **Herstellung der Einsatzbereitschaft**  
+  - Ausrüsten der Fahrzeuge:  
+    - **Otter 1**: LKW (Infanterie)  
+    - **Otter 2**: LKW (Infanterie)  
+    - **Otter Actual**: HUMVEE (SAG-2/M2/M240)  
+    - **Alligator**: 4x LAV / 24 (freie Sitzplätze)  
+    - **Barracuda**:  
+      - **Barracuda Actual**: HUMVEE (SAG-2/M2/M240)  
+      - **Barracuda 1**: LKW (Infanterie)  
+      - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
+	  
+#### Otter, Barracuda und Alligator
+- **Herstellung der Einsatzbereitschaft**  
+- Ausrüsten mit Fahrzeugen:  
+  - **Otter 1**: LKW (Infanterie)  
+  - **Otter 2**: LKW (Infanterie)  
+  - **Otter Actual**: HUMVEE (SAG-2/M2/M240) 
+  
+#### Barracuda und Alligator
+- **Herstellung der Einsatzbereitschaft**  
+- Ausrüsten mit Fahrzeugen: 
+  - **Barracuda 1**: LKW (Infanterie)  
+  - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
+  - **Barracuda Actual**: HUMVEE (SAG-2/M2/M240)  
+  
+#### Alligator
+- **Herstellung der Einsatzbereitschaft**  
+- Ausrüsten mit Fahrzeugen:  
+  - **Alligator**: 4x LAV
+
+#### Triton, Otter, Barracuda, Dustoff und Alligator:
+- **Interne Absprache** für Vorgehen untereinander:  
+  - Konvoiparameter  
+  - Verhalten unter Beschuss  
+  - Anpassung Fahrzeugwahl, Ausrüstung, medizinische Lage  
+
+#### Capybara
+- Bereitstellung von Nachschub.  
+
+#### Dustoff
+- **Interne Absprache** für Vorgehen mit Otter, Barracuda, Ghost Crab und Alligator.  
+- Einsatzbereitschaft herstellen.  
+
+#### Ghost Crab
+- **Herstellung der Einsatzbereitschaft**  
+- Ausrüstung für Halo-Jump
+- Absprache mit Triton, welche Ziele erfüllt werden müssen.  
+- Aufsitzen auf Moray 1-2.  
+
+---
+
+
+---
+
+### Material
+
+#### Servereinheit
+
+![Image](./assets/tacops-2-referenceimage-serverunit.jpg)
+
+
+#### Kartenmaterial
+
+<div markdown="1">
+
+<iframe src="https://maps.plan-ops.fr/ViewMap/24180/LiveFullScreen?t=CWOq8wWTzcubSwy4u6kK8RaiLIGSHkztBp0lm1m4oC4" style="width:100%;height:80vh;border:0;" /> 
+
+</div>
