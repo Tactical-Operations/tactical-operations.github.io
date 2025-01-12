@@ -320,6 +320,105 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 
 ---
 
+### Phase 1 – Verlegung der Truppen zu T2 Broadway über Abladepunkt LKW
+
+Slotten/Joinen auf Server: ab 13:00 Uhr  
+Führungsbesprechung Ingame: 13:30 Uhr  
+Missionsstart: 14:00 Uhr  
+
+- Verlegung von Otter, Barracuda und Alligator zu T2 Broadway.  
+
+#### Aufteilung:
+- **Barracuda und Alligator**: über West.  
+- **Otter**: entlang des Flusses über Ost.  
+
+#### Dustoff
+- Einsatzbereitschaft für Aufträge.  
+
+#### Ghost Crab
+- Durchführung Halo-Jump zu **Landepunkt für Halo-Jump, Ghost Crab**
+---
+
+### Phase 2 – Sichern von T2 Broadway
+
+#### Alligator
+- Sicherung eigener Teile.  
+- Herstellung der Feuerüberlegenheit.  
+- Schaffen des Momentums zur Einnahme der Anlage.  
+
+#### Otter und Barracuda
+- Sicherung der Anlage  
+- Otter: Sicherung der Anlage überStellung Otter T2-B.  
+- Barracuda: Sicherung der Anlage über Stellung Barracuda T2-B.  
+
+#### Ghost Crab
+- Gewinnen und Vernichten der Anlage Old Grudge. 
+- Vorhandene Maschinen zerstören.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 3 – Abmarsch zu T2 Pickle
+
+#### Alligator
+- Unterstützung eigener Teile über die Straße.  
+
+#### Otter
+- Abmarsch Richtung Südost, Einnahme des Waldes vor T2 Pickle.  
+
+#### Barracuda
+- Abmarsch Richtung Südost, Einnahme des Waldes vor T2 Pickle.  
+
+#### Remora (Capybara und Pelican)
+- Bereitstellung von Versorgung bei Broadway.  
+
+#### Ghost Crab
+- Organisation des Abtransports zu T2 Pickle in die Nähe eigener Truppenteile.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 4 – Nehmen von T2 Pickle
+
+#### Alligator
+- Absicherung des Umfelds der Anlage.  
+- Unterstützung eigener Teile über die Straßen.  
+
+#### Otter
+- Einnahme von Sector 1 über Stellung Otter T2-P.  
+
+#### Barracuda
+- Einnahme von Sector 2 über Stellung Barracuda T2-P.  
+- Anschließende Einnahme von Sector 3 mit Ghost Crab.  
+
+#### Ghost Crab
+- Einnahme von Sector 3.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 5 – Abtransport
+
+- Rückverlegung aller Einheiten zu T2 Broadway zum Aufmunitionieren und Debrief.  
+
+Missionsende: 18:00 Uhr (hoffentlich etwas früher)  
+**keine** Nachbesprechung am Nachmittag.  
+
 
 ---
 
