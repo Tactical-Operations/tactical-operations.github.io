@@ -87,28 +87,170 @@ Das Ziel ist die Etablierung eines Brückenkopfes und die Zerschlagung der CSAT-
 2. **Verminen T2/3 - Old Grudge (Ziel für Ghost Crab):** Brücke dient als Übersetzpunkt. Brücke muss mit Minen und Blockaden versehen werden.
 3. **Sichern T3 - D-Point:** Feindliche FOB angreifen und CSAT-Truppen im Einsatzgebiet zerschlagen.
 
-<div markdown="1" class="hidden">
+---
 
-## Schicht 1: Anlandung und Brückenkopf Errichtung  
+# Durchführung Schicht 1 - Freitag Abend 17.1.2025  
 
-Vollständige Ausarbeitung des Briefings bis zum 12.1.2025.
+Slotten/Joinen auf Server: ab 18:00 Uhr
+Führungsbesprechung Ingame: 18:30 Uhr
+Start/Einleitende Worte: 19:00 Uhr
+Missionsstart: 19:15 Uhr
 
-## Schicht 2: Brückenkopf absichern  
+## Einzelaufträge
 
-Vollständige Ausarbeitung des Briefings bis zum 12.1.2025.
+### Phase 0 – Herstellung der Einsatzbereitschaft und Aufklärung Strand
 
-## Schicht 3: Perimeter vergrößern  
+- **Schnelle Aufklärung** von West, Süd und Ost durch Luft (Triton 8).
 
-Vollständige Ausarbeitung des Briefings bis zum 12.1.2025.
+#### Otter, Barracuda und Alligator
+- **Herstellung der Einsatzbereitschaft**  
+  - **Ausrüsten der Fahrzeuge**:
+    - **Otter 1**: LCVP-Landungsboot (Personentransport)  
+    - **Otter 2**: LCVP-Landungsboot (Personentransport)  
+    - **Otter Actual**: Aufsitzen auf Landungsboot von Otter 1 oder Otter 2  
+    - **Alligator**:  
+      - Alpha: 2x LAV  
+      - Bravo: 2x Schnellboot Minigun (mit 40mm)    
+    - **Barracuda 1**: LCVP-Landungsboot (Personentransport)  
+    - **Barracuda 2**: LCVP-Landungsboot (Personentransport)  
+    - **Barracuda Actual**: Aufsitzen auf Landungsboot von Barracuda 1 oder Barracuda 2  
+  - **Interne Absprache** für Vorgehen untereinander (und mit Dustoff und Triton) über:
+    - Konvoi-Parameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl, Ausrüstung, medizinische Lage.
 
-Weiter
+#### Capybara
+- **Herstellung der Einsatzbereitschaft**  
+  - Transportiert mit 3x LCVP-Landungsboot (Frachttransport):  
+    - 1x TOW-Humvee  
+    - 2x SAG-Humvee  
+    - Munitionskisten  
 
-[Zum WIP-Briefing: Evaluationsevent](./briefing-evaluation-event.html).
+#### Dustoff
+- **Interne Absprache** für Vorgehen mit Otter, Barracuda, Ghost Crab und Alligator.  
+- Herstellung der Einsatzbereitschaft.  
 
-[Weiter zum Briefing: Hauptevent - Schicht 1](./briefing-main-event-1.html).
+#### Ghost Crab
+- **Herstellung der Einsatzbereitschaft**  
+  - **Ausrüsten mit Fahrzeugen**:
+    - 2x Schnellboot Minigun (mit 40mm)  
+  - **Absprache mit Triton**:
+    - Ziele definieren  
+    - Unterstützung Strand  
+    - Sicherung der Servereinheit aus T1 - Big Brain  
 
-[Weiter zum Briefing: Hauptevent - Schicht 2](./briefing-main-event-2.html).
+---
 
-[Weiter zum Briefing: Hauptevent - Schicht 3](./briefing-main-event-3.html).
+### Phase 1 – Verlegung der Truppen zu T1 Homestead
 
-</div>
+#### **Einheiten**: Otter, Barracuda, Alligator Bravo, Ghost Crab und Capybara  
+- Verlegung zu T1 Homestead über Wasser und **Anlandung Barracuda, Alligator und Capybara**.  
+- Bei Anlandung:  
+  - **Alligator Bravo und Ghost Crab**: Vernichtung feindlicher Stellungen.  
+  - **Otter, Ghost Crab und Capybara**: Anlanden am Strand.  
+
+#### Alligator Alpha und Triton
+- Verlegung zum Strand als 3er-Konvoi.  
+
+#### Dustoff
+- Einsatzbereitschaft für Aufträge.  
+
+#### Pelican
+- Bereitstellung von 2x LAV am Strand für Alligator Bravo.  
+
+#### Moray
+- Vorbereitung des Strands zur Landung.  
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 2 – Sichern von T1 Homestead
+
+#### Alligator Alpha
+- Sicherung eigener Teile.  
+- Herstellung der Feuerüberlegenheit.  
+- Schaffen des Momentums zur Einnahme der Anlage - Homestead und Warehouse.  
+
+#### Alligator Bravo
+- Umsteigen auf LAVs.  
+
+#### Otter und Barracuda
+- Sichern von T1 Homestead und Warehouse.  
+
+#### Ghost Crab
+- Verlegung zum ersten Missionsziel.  
+
+#### Capybara
+- Ausladen der Landungsschiffe am Strand.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 3 – Abmarsch zu T1 Concrete
+
+#### Alligator
+- Absicherung des Umfelds der Anlage.  
+- Unterstützung eigener Teile.  
+
+#### Otter
+- Abmarsch Richtung Südost.  
+- Einnahme des Vororts vor T1 Concrete.  
+
+#### Barracuda
+- Abmarsch Richtung Ost.  
+- Einnahme der Hügelkante vor T1 Concrete.  
+
+#### Remora (Capybara und Pelican)
+- Bereitstellung von Versorgung bei Warehouse.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 4 – Nehmen von Concrete
+
+#### Alligator
+- Absicherung des Umfelds der Anlage.  
+- Unterstützung eigener Teile.  
+
+#### Otter
+- Einnehmen von Sector 1 über Stellung Otter T1.  
+
+#### Barracuda
+- Einnehmen von Sector 2 über Stellung Barracuda T1.  
+- Bereitstellung von Nachschub für Ghost Crab.  
+
+#### Remora (Capybara und Pelican)
+- Abtransport der Boote, wenn Kapazität vorhanden.  
+
+#### Ghost Crab
+- Weiteres Halten von Big Brain bei möglicher Verstärkung des Feindes.  
+- Unterstützung der Infanterie in Concrete.  
+- Ggf. Einsatz von TOW-Humvees.  
+
+#### Moray
+- Bereitstellung von Luftnahunterstützung.  
+
+#### Eagle
+- Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 6 – Abtransport
+
+- Rückverlegung aller Einheiten zu T1-Warehouse zum Aufmunitionieren und Debrief.  
+
+
+Missionsende: 23:30 Uhr
+Gruppenintern Feedback sammeln: bis 00:00 Uhr
+Gesamter Missionsfeedback in TS: ab 00:00 Uhr
