@@ -337,6 +337,8 @@ Missionsstart: 14:00 Uhr
 
 #### Ghost Crab
 - Durchführung Halo-Jump zu **Landepunkt für Halo-Jump, Ghost Crab**
+
+
 ---
 
 ### Phase 2 – Sichern von T2 Broadway
