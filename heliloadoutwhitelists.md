@@ -47,5 +47,5 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 * Poniard LAU-131 x1
 * AIM-9M
 
-> Alle aufgeführten Waffenmenge sind unlimitiert.
+> Alle aufgeführten Waffenmenge sind unlimitiert.  
 > Die ACE Hellfire: AGM-114K [ACE], AGM-114L [ACE] haben **keine funktionierende Laseraufschaltung**!
