@@ -91,10 +91,10 @@ Das Ziel ist die Etablierung eines Brückenkopfes und die Zerschlagung der CSAT-
 
 # Durchführung Schicht 1 - Freitag Abend 17.1.2025  
 
-Slotten/Joinen auf Server: ab 18:00 Uhr
-Führungsbesprechung Ingame: 18:30 Uhr
-Start/Einleitende Worte: 19:00 Uhr
-Missionsstart: 19:15 Uhr
+Slotten/Joinen auf Server: ab 18:00 Uhr  
+Führungsbesprechung Ingame: 18:30 Uhr  
+Start/Einleitende Worte: 19:00 Uhr  
+Missionsstart: 19:15 Uhr  
 
 ## Einzelaufträge
 
@@ -251,6 +251,10 @@ Missionsstart: 19:15 Uhr
 - Rückverlegung aller Einheiten zu T1-Warehouse zum Aufmunitionieren und Debrief.  
 
 
-Missionsende: 23:30 Uhr
-Gruppenintern Feedback sammeln: bis 00:00 Uhr
-Gesamter Missionsfeedback in TS: ab 00:00 Uhr
+Missionsende: 23:30 Uhr  
+Gruppenintern Feedback sammeln: bis 00:00 Uhr  
+Gesamter Missionsfeedback in TS: ab 00:00 Uhr  
+
+
+---
+
