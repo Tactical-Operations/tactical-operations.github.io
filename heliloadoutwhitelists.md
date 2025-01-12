@@ -9,7 +9,7 @@ Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
 
 Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
-**Waffennamen:**
+**Waffennamen (erlaubt):**
 * APKWS alle Varianten
 * M151 Hydra (M260)
 * M151 Hydra (M261)
@@ -31,9 +31,9 @@ Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
 
 Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
-**Waffennamen:**
-* AGM-114K [ACE]
-* AGM-114L [ACE]
+**Waffennamen (erlaubt):**
+* AGM-114K AT
+* AGM-114M HE-Frag
 * Hot 1 [ACE]
 * Hot 2 [ACE]
 * Hot 2MP [ACE]
@@ -48,3 +48,4 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 * AIM-9M
 
 > Alle aufgeführten Waffenmenge sind unlimitiert.
+> Die ACE Hellfire: AGM-114K [ACE], AGM-114L [ACE] haben **keine funktionierende Laseraufschaltung**!
