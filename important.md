@@ -44,7 +44,7 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [TacOps] Bele** wenden.
 
 ## 🛠️ Modpaket und Weiteres
-**Modpaket:** [TacOps 2 - Evaluationsevent.html](https://drive.google.com/file/d/13alQnWyxVmNt4v06MuP-7yKZ_dw9oBXI/view?usp=sharing)  
+**Modpaket:** [TacOps 2 - Hauptevent.html](https://drive.google.com/file/d/1Fn8OQ-dI5wrjaDBj5UCelwoJyfKGM-RA/view?usp=sharing)  
 **Slotliste:** [TacOps\_2\_Slotliste](https://docs.google.com/spreadsheets/d/1I4mrZ7sKjQIGIvC3hMNXciAyX7yUP5k_xm6aDk8pnM0/edit?usp=sharing)   
 **Funkplan:** [TacOps\_2\_Funkplan](./assets/tacops-2-radio-communication-plan.png)   
 **Fahrzeugliste:** [TacOps\_2\_Fahrzeugliste](https://docs.google.com/spreadsheets/d/1F2uIgmzhfiVLH5ITcG3Vu5K1g3Oa7MxA0DLqqNaW5mM/edit?usp=sharing)   
