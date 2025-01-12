@@ -91,6 +91,8 @@ Das Ziel ist die Etablierung eines Brückenkopfes und die Zerschlagung der CSAT-
 
 # Durchführung Schicht 1 - Freitag Abend 17.1.2025  
 
+> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.
+
 Slotten/Joinen auf Server: ab 18:00 Uhr  
 Führungsbesprechung Ingame: 18:30 Uhr  
 Start/Einleitende Worte: 19:00 Uhr  
@@ -116,6 +118,11 @@ Missionsstart: 19:15 Uhr
     - **Barracuda Actual**: Aufsitzen auf Landungsboot von Barracuda 1 oder Barracuda 2  
   - **Interne Absprache** für Vorgehen untereinander (und mit Dustoff und Triton) über:
     - Konvoi-Parameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl, Ausrüstung, medizinische Lage.
+
+- **Interne Absprache**  
+  - Vorgehen untereinander (und mit Dustoff und Triton).  
+  - Konvoiparameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl.  
+  - Ausrüstung, medizinische Lage.  
 
 #### Capybara
 - **Herstellung der Einsatzbereitschaft**  
@@ -260,6 +267,12 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 
 # Durchführung Schicht 2 - Samstag Nachmittag 18.1.2025  
 
+> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.  
+
+Slotten/Joinen auf Server: ab 13:00 Uhr  
+Führungsbesprechung Ingame: 13:30 Uhr  
+Missionsstart: 14:00 Uhr  
+
 ## Einzelaufträge
 
 ### Phase 0 – Herstellung der Einsatzbereitschaft
@@ -321,10 +334,6 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 ---
 
 ### Phase 1 – Verlegung der Truppen zu T2 Broadway über Abladepunkt LKW
-
-Slotten/Joinen auf Server: ab 13:00 Uhr  
-Führungsbesprechung Ingame: 13:30 Uhr  
-Missionsstart: 14:00 Uhr  
 
 - Verlegung von Otter, Barracuda und Alligator zu T2 Broadway.  
 
@@ -420,6 +429,150 @@ Missionsstart: 14:00 Uhr
 
 Missionsende: 18:00 Uhr (hoffentlich etwas früher)  
 **keine** Nachbesprechung am Nachmittag.  
+
+---
+
+# Durchführung Schicht 3 - Samstag Abend 18.1.2025  
+
+> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.  
+> Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr  
+
+Slotten/Joinen auf Server: ab 18:15 Uhr  
+Führungsbesprechung Ingame: 19:00 Uhr  
+Missionsstart: 19:30 Uhr  
+
+
+### Phase 0 – Herstellung der Einsatzbereitschaft
+
+- **Schnelle Aufklärung**  
+  - Aufklärung von Osten (Dirtway) durch Luft (Triton 8).  
+
+- **Morey**  
+  - Morey 1-2: Aufsitzen auf Osprey.  
+  - Eagle: Unterstützung von Morey 1-2.  
+
+- **Otter, Barracuda und Alligator**  
+  - **Herstellen der Einsatzbereitschaft:**  
+    - **Ausrüsten der Fahrzeuge**  
+      - **Otter 1**: HUMVEE (SAG-2/M2/M240), HUMVEE (M2) – 16 Plätze  
+      - **Otter 2**: HUMVEE (SAG-2/M2/M240), HUMVEE – 15 Plätze  
+      - **Otter Actual**: HUMVEE (M2), HUMVEE – 9 Plätze  
+      - **Alligator Actual**: 4x LAV – 24 Plätze (freie Sitzplätze)  
+      - **Barracuda**: HUMVEE (M2), HUMVEE – 9 Plätze  
+      - **Barracuda 1**: HUMVEE (SAG-2/M2/M240), HUMVEE – 15 Plätze  
+      - **Barracuda 2**: HUMVEE (SAG-2/M2/M240), HUMVEE (TOW) – 16 Plätze  
+
+- **Interne Absprache**  
+  - Vorgehen untereinander (und mit Dustoff und Triton).  
+  - Konvoiparameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl.  
+  - Ausrüstung, medizinische Lage.  
+
+- **Dustoff**  
+  - Interne Absprache für Vorgehen mit Otter, Barracuda, Ghost Crab und Alligator.  
+  - Herstellung der Einsatzbereitschaft.  
+
+- **Ghost Crab**  
+  - Ausrüsten für Halo-Jump, Aufsitzen auf Morey 1-2.  
+  - Absprache mit Triton über Ziele.  
+
+- **Remora (Capybara und Pelikan)**  
+  - Bereitstellung für Luftversorgung bei Pickle.  
+
+---
+
+### Phase 1 – Verlegung der Truppen zu T3 Dirtway
+
+- **Otter, Barracuda und Alligator**  
+  - Verlegung zu T3 Dirtway.  
+  - **Aufteilung:**  
+    - Barracuda und Alligator: Verlegung über Osten.  
+    - Otter: Verlegung am Fluss entlang über Norden.  
+
+- **Dustoff**  
+  - Einsatzbereitschaft für Aufträge.  
+
+---
+
+### Phase 2 – Sichern von T3 Dirtway
+
+- **Alligator**  
+  - Sicherung eigener Teile.  
+  - Herstellung der Feuerüberlegenheit.  
+  - Schaffen des Momentums zum Nehmen der Anlage.  
+
+- **Otter**  
+  - Sicherung der Anlage über Norden.  
+
+- **Barracuda**  
+  - Sicherung der Anlage über Süden.  
+
+- **Ghost Crab**  
+  - Verminen und Blockieren der Brücke.  
+
+- **Moray**  
+  - Bereitstellung von Luftnahunterstützung.  
+
+- **Eagle**  
+  - Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 3 – Abmarsch zu T3 D-Point
+
+- **Alligator**  
+  - Aufbau von zwei Konvois:  
+    - **Alpha**: Mit Otter und Ghost Crab.  
+    - **Bravo**: Mit Barracuda.  
+
+- **Otter**  
+  - Aufbau eines Konvois mit Alligator Alpha.  
+
+- **Barracuda**  
+  - Aufbau eines Konvois mit Alligator Bravo.  
+
+- **Ghost Crab**  
+  - Aufbau eines Konvois mit Alligator Alpha, ggf. Aufsitzen in Alligator Alpha.  
+
+- **Moray**  
+  - Bereitstellung von Luftnahunterstützung.  
+
+- **Eagle**  
+  - Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 4 – Nehmen von T3 D-Point
+
+- **Alligator**  
+  - Absicherung des Umfelds der Anlage.  
+  - Unterstützung eigener Teile.  
+
+- **Otter**  
+  - Einnahme von Sector 1 über Stellung Otter T3-DP.  
+
+- **Barracuda**  
+  - Einnahme von Sector 2 über Stellung Barracuda T3-DP.  
+
+- **Ghost Crab**  
+  - Vernichtung der Artillerie im Süden.  
+  - Anschließend Unterstützung der Infanterie in T3 D-Point (Sector 3).  
+
+- **Moray**  
+  - Bereitstellung von Luftnahunterstützung.  
+
+- **Eagle**  
+  - Sicherstellung der Luftüberlegenheit.  
+
+---
+
+### Phase 5 – Abtransport
+
+- Sammeln auf der Freifläche vor D-Point.  
+
+
+Missionsende: 23:30 Uhr  
+Gruppenintern Feedback sammeln: bis 00:00 Uhr  
+Gesamter Missionsfeedback in TS: ab 00:00 Uhr  
 
 
 ---
