@@ -91,7 +91,7 @@ Das Ziel ist die Etablierung eines Brückenkopfes und die Zerschlagung der CSAT-
 
 # Durchführung Schicht 1 - Freitag Abend 17.1.2025  
 
-> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.
+> bei Fragen zur Durchführung, im [Discord an @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.
 
 Slotten/Joinen auf Server: ab 18:00 Uhr  
 Führungsbesprechung Ingame: 18:30 Uhr  
@@ -267,7 +267,7 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 
 # Durchführung Schicht 2 - Samstag Nachmittag 18.1.2025  
 
-> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.  
+> bei Fragen zur Durchführung, im [Discord an @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.
 
 Slotten/Joinen auf Server: ab 13:00 Uhr  
 Führungsbesprechung Ingame: 13:30 Uhr  
@@ -434,7 +434,7 @@ Missionsende: 18:00 Uhr (hoffentlich etwas früher)
 
 # Durchführung Schicht 3 - Samstag Abend 18.1.2025  
 
-> bei Fragen zur Durchführung bei [Discord @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.  
+> bei Fragen zur Durchführung, im [Discord an @maximann410.](https://discord.com/channels/1230998538926952578/1230998539388190792) wenden.  
 > Technischer Serverneustart: 18:00 Uhr bis 18:15 Uhr  
 
 Slotten/Joinen auf Server: ab 18:15 Uhr  
@@ -587,7 +587,5 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 #### Kartenmaterial
 
 <div markdown="1">
-
-<iframe src="https://maps.plan-ops.fr/ViewMap/24180/LiveFullScreen?t=CWOq8wWTzcubSwy4u6kK8RaiLIGSHkztBp0lm1m4oC4" style="width:100%;height:80vh;border:0;" /> 
-
+<iframe src="https://maps.plan-ops.fr/EditMap/24268?t=mBMCNzC-COy14FkOnuhMXkjvul_tOHln39nAUIo3tw0#showLayers" style="width:100%;height:80vh;border:0;" /> 
 </div>
