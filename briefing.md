@@ -17,6 +17,8 @@ Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumb
 Es wird eine zweite Front im Norden des Landes eröffnen.
 Die Triton Company wurde in die Region verlegt um anzulanden und einen Brückenkopf abzusichern.
 
+---
+
 ### Eigene Lage
 Die Trägerflotte der **USS Basking**, begleitet von den Schiffen **USS Remora** und **USS Hammerhead**, befindet sich im südkaribischen Meer.  
 Die **Triton Company** setzt sich aus folgenden Einheiten zusammen:  
