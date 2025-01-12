@@ -46,7 +46,7 @@ Die Feindtruppen bestehen aus:
 Mit Luftunterstützung durch Jets ist zu rechnen.  
 Versorgungswege des Feindes verlaufen entlang der markierten MSRs im Osten, Süden und Westen.  
 CSAT-Truppen haben sich über die letzten vier Monate eingegraben und die Infrastruktur für ihre Zwecke umgebaut.  
-- Pioniereinheiten haben Bunker errichtet und Compoundmauern teilweise gegen Fahrzeugdurchbrüche verstärkt.
+Pioniereinheiten haben Bunker errichtet und Compoundmauern teilweise gegen Fahrzeugdurchbrüche verstärkt.
 
 #### Minenlage
 - CSAT-Pioniere setzen ausschließlich Anti-Fahrzeug-Minen in Minensperren ein.  
