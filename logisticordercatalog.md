@@ -84,7 +84,7 @@
 | 1-15 | (ACE) Sanitätskiste (Erweitert) | Exkl. für Dustoff 9-1 |
 | 1-16 | (KAM) Medikamentenkiste | Exkl. für Dustoff 9-1 |
 | 1-17 | (KAM) Medizinische Blutbank | Exkl. für Dustoff 9-1 |
-| 1-18 | Gepolstere Kiste | Eine Kiste, reichlich gepolstert mit Luftpolsterfolie und Crayons für die Sorgen des einfachen Marines |
+| 1-18 | Emotional Support Chest | Eine Kiste, reichlich gepolstert mit Luftpolsterfolie und Crayons für die Sorgen des einfachen Marines |
 | 1-69 | Kleine Kiste (leer)/Große Kiste (leer) | Dient für Sonderbestellungen |
 
 </div>
