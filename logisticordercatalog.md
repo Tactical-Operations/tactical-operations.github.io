@@ -84,6 +84,7 @@
 | 1-15 | (ACE) Sanitätskiste (Erweitert) | Exkl. für Dustoff 9-1 |
 | 1-16 | (KAM) Medikamentenkiste | Exkl. für Dustoff 9-1 |
 | 1-17 | (KAM) Medizinische Blutbank | Exkl. für Dustoff 9-1 |
+| 1-18 | Gepolstere Kiste | Eine Kiste, gefüllt mit BubbleWraps |
 | 1-69 | Kleine Kiste (leer)/Große Kiste (leer) | Dient für Sonderbestellungen |
 
 </div>
