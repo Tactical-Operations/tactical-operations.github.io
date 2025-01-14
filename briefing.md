@@ -104,27 +104,29 @@ Missionsstart: 19:15 Uhr
 
 ### Phase 0 – Herstellung der Einsatzbereitschaft und Aufklärung Strand
 
-- **Schnelle Aufklärung** von West, Süd und Ost durch Luft (Triton 8).
+- **Luftaufklärung** von POI Homestead sowie des westlichen und östlichen Strandes durch Triton 8.
 
 #### Otter, Barracuda und Alligator
 - **Herstellung der Einsatzbereitschaft**  
   - **Ausrüsten der Fahrzeuge**:
-    - **Otter 1**: LCVP-Landungsboot (Personentransport)  
-    - **Otter 2**: LCVP-Landungsboot (Personentransport)  
+														  
+    - **Otter 1 & 2**:2x LCVP-Landungsboot (Personentransport)   
     - **Otter Actual**: Aufsitzen auf Landungsboot von Otter 1 oder Otter 2  
+    - **Barracuda 1 & 2**:2x LCVP-Landungsboot (Personentransport) 
+    - **Barracuda Actual**: Aufsitzen auf Landungsboot von Barracuda 1 oder Barracuda 2  
     - **Alligator**:  
       - Alpha: 2x LAV  
-      - Bravo: 2x Schnellboot Minigun (mit 40mm)    
-    - **Barracuda 1**: LCVP-Landungsboot (Personentransport)  
-    - **Barracuda 2**: LCVP-Landungsboot (Personentransport)  
-    - **Barracuda Actual**: Aufsitzen auf Landungsboot von Barracuda 1 oder Barracuda 2  
-  - **Interne Absprache** für Vorgehen untereinander (und mit Dustoff und Triton) über:
+      - Bravo: 2x Schnellboot Minigun (mit 40mm)
+															  
+															  
+																						 
+  - **Interne Absprache** für Vorgehen untereinander (mit Dustoff und Triton) über:
     - Konvoi-Parameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl, Ausrüstung, medizinische Lage.
 
-- **Interne Absprache**  
-  - Vorgehen untereinander (und mit Dustoff und Triton).  
-  - Konvoiparameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl.  
-  - Ausrüstung, medizinische Lage.  
+						 
+														  
+																			
+									 
 
 #### Capybara
 - **Herstellung der Einsatzbereitschaft**  
@@ -148,7 +150,7 @@ Missionsstart: 19:15 Uhr
 
 ---
 
-### Phase 1 – Verlegung der Truppen zu T1 Homestead
+### Phase 1 – Offensive auf T1 Homestead
 
 #### **Einheiten**: Otter, Barracuda, Alligator Bravo, Ghost Crab und Capybara  
 - Verlegung zu T1 Homestead über Wasser und **Anlandung Barracuda, Alligator und Capybara**.  
@@ -281,40 +283,43 @@ Missionsstart: 14:00 Uhr
 
 ### Phase 0 – Herstellung der Einsatzbereitschaft
 
-- **Schnelle Aufklärung** von Südost (Waldgebiet) durch Luft (Triton 8).  
+- **Luftaufklärung** vom Waldgebiet nördlich und östlich von T2 Broadway durch Triton 8.
 - **Moray 1-2**: Aufsitzen auf Osprey.  
 - **Eagle**: Unterstützung von Moray 1-2.  
 
 #### Otter, Barracuda und Alligator
 - **Herstellung der Einsatzbereitschaft**  
   - Ausrüsten der Fahrzeuge:  
-    - **Otter 1**: LKW (Infanterie)  
-    - **Otter 2**: LKW (Infanterie)  
+									 
+    - **Otter 1 & 2**: 2x LKW (Infanterie)   
     - **Otter Actual**: HUMVEE (SAG-2/M2/M240)  
+    - **Barracuda Actual**: HUMVEE (SAG-2/M2/M240)  
+    - **Barracuda 1**: LKW (Infanterie)  
+    - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
     - **Alligator**: 4x LAV / 24 (freie Sitzplätze)  
-    - **Barracuda**:  
-      - **Barracuda Actual**: HUMVEE (SAG-2/M2/M240)  
-      - **Barracuda 1**: LKW (Infanterie)  
-      - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
+					  
+													  
+										   
+															
 	  
-#### Otter, Barracuda und Alligator
-- **Herstellung der Einsatzbereitschaft**  
-- Ausrüsten mit Fahrzeugen:  
-  - **Otter 1**: LKW (Infanterie)  
-  - **Otter 2**: LKW (Infanterie)  
-  - **Otter Actual**: HUMVEE (SAG-2/M2/M240) 
+								   
+										   
+							  
+								   
+								   
+											 
   
-#### Barracuda und Alligator
-- **Herstellung der Einsatzbereitschaft**  
-- Ausrüsten mit Fahrzeugen: 
-  - **Barracuda 1**: LKW (Infanterie)  
-  - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
-  - **Barracuda Actual**: HUMVEE (SAG-2/M2/M240)  
+							
+										   
+							 
+									   
+														
+												  
   
-#### Alligator
-- **Herstellung der Einsatzbereitschaft**  
-- Ausrüsten mit Fahrzeugen:  
-  - **Alligator**: 4x LAV
+			  
+										   
+							  
+						 
 
 #### Triton, Otter, Barracuda, Dustoff und Alligator:
 - **Interne Absprache** für Vorgehen untereinander:  
@@ -363,7 +368,7 @@ Missionsstart: 14:00 Uhr
 
 #### Otter und Barracuda
 - Sicherung der Anlage  
-- Otter: Sicherung der Anlage überStellung Otter T2-B.  
+- Otter: Sicherung der Anlage über Stellung Otter T2-B.  
 - Barracuda: Sicherung der Anlage über Stellung Barracuda T2-B.  
 
 #### Ghost Crab
@@ -449,8 +454,8 @@ Missionsstart: 19:30 Uhr
 
 ### Phase 0 – Herstellung der Einsatzbereitschaft
 
-- **Schnelle Aufklärung**  
-  - Aufklärung von Osten (Dirtway) durch Luft (Triton 8).  
+- **Luftaufklärung**  
+  - Aufklärung von T3 Dirtway im Osten durch Triton 8.  
 
 - **Morey**  
   - Morey 1-2: Aufsitzen auf Osprey.  
@@ -462,13 +467,14 @@ Missionsstart: 19:30 Uhr
       - **Otter 1**: HUMVEE (SAG-2/M2/M240), HUMVEE (M2) – 16 Plätze  
       - **Otter 2**: HUMVEE (SAG-2/M2/M240), HUMVEE – 15 Plätze  
       - **Otter Actual**: HUMVEE (M2), HUMVEE – 9 Plätze  
-      - **Alligator Actual**: 4x LAV – 24 Plätze (freie Sitzplätze)  
-      - **Barracuda**: HUMVEE (M2), HUMVEE – 9 Plätze  
+																		 
+      - **Barracuda Actual**: HUMVEE (M2), HUMVEE – 9 Plätze  
       - **Barracuda 1**: HUMVEE (SAG-2/M2/M240), HUMVEE – 15 Plätze  
       - **Barracuda 2**: HUMVEE (SAG-2/M2/M240), HUMVEE (TOW) – 16 Plätze  
+      - **Alligator**: 4x LAV – 24 Plätze (freie Sitzplätze)
 
 - **Interne Absprache**  
-  - Vorgehen untereinander (und mit Dustoff und Triton).  
+  - Vorgehen untereinander (mit Dustoff und Triton).  
   - Konvoiparameter, Verhalten unter Beschuss, Anpassung der Fahrzeugwahl.  
   - Ausrüstung, medizinische Lage.  
 
@@ -490,8 +496,9 @@ Missionsstart: 19:30 Uhr
 - **Otter, Barracuda und Alligator**  
   - Verlegung zu T3 Dirtway.  
   - **Aufteilung:**  
-    - Barracuda und Alligator: Verlegung über Osten.  
-    - Otter: Verlegung am Fluss entlang über Norden.  
+    - Barracuda: Verlegung über Osten.  
+    - Otter: Verlegung am Fluss entlang über Norden.
+    - Alligator: Eigenständige Stellungssuche nach Flussquerung.   
 
 - **Dustoff**  
   - Einsatzbereitschaft für Aufträge.  
