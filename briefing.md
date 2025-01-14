@@ -98,7 +98,7 @@ Führungsbesprechung Ingame: 18:30 Uhr
 Start/Einleitende Worte: 19:00 Uhr  
 Missionsstart: 19:15 Uhr  
 
-> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25039?t=WNwCwdmjlH4UlHceQQM3kaA9ZUCOKD44tbNgA-wP3Ak)  
+> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25108?t=wGDgU9tYZTzQJNjWi269xnONfrFq9A3WgBpSpnutlcA)  
 
 ## Einzelaufträge
 
@@ -277,7 +277,7 @@ Slotten/Joinen auf Server: ab 13:00 Uhr
 Führungsbesprechung Ingame: 13:30 Uhr  
 Missionsstart: 14:00 Uhr  
 
-> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25039?t=WNwCwdmjlH4UlHceQQM3kaA9ZUCOKD44tbNgA-wP3Ak)  
+> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25108?t=wGDgU9tYZTzQJNjWi269xnONfrFq9A3WgBpSpnutlcA)  
 
 ## Einzelaufträge
 
@@ -297,29 +297,6 @@ Missionsstart: 14:00 Uhr
     - **Barracuda 1**: LKW (Infanterie)  
     - **Barracuda 2**: HUMVEE (TOW), HUMVEE (M2), HUMVEE  
     - **Alligator**: 4x LAV / 24 (freie Sitzplätze)  
-					  
-													  
-										   
-															
-	  
-								   
-										   
-							  
-								   
-								   
-											 
-  
-							
-										   
-							 
-									   
-														
-												  
-  
-			  
-										   
-							  
-						 
 
 #### Triton, Otter, Barracuda, Dustoff und Alligator:
 - **Interne Absprache** für Vorgehen untereinander:  
@@ -450,7 +427,7 @@ Slotten/Joinen auf Server: ab 18:15 Uhr
 Führungsbesprechung Ingame: 19:00 Uhr  
 Missionsstart: 19:30 Uhr  
 
-> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25039?t=WNwCwdmjlH4UlHceQQM3kaA9ZUCOKD44tbNgA-wP3Ak)  
+> [Link zur Karte](https://maps.plan-ops.fr/ViewMap/25108?t=wGDgU9tYZTzQJNjWi269xnONfrFq9A3WgBpSpnutlcA)  
 
 ### Phase 0 – Herstellung der Einsatzbereitschaft
 
