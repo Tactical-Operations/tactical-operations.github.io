@@ -3,7 +3,7 @@ layout: default
 title: TacOps 2 - Tidal Spear - Briefing
 ---
 
-# Tidal Spear - Briefing - Evaluationsevent
+# Operation Torchwood - Briefing - Evaluationsevent
 
 ## Allgemeine Situation
 

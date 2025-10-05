@@ -13,9 +13,7 @@ title: TacOps 2 - Tidal Spear - Briefing
 
 ### Allgemeine Lage
 
-Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumbianischen Militär.
-Es wird eine zweite Front im Norden des Landes eröffnen.
-Die Triton Company wurde in die Region verlegt um anzulanden und einen Brückenkopf abzusichern.
+
 
 ---
 
