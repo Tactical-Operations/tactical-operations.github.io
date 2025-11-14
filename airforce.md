@@ -2,16 +2,15 @@
 
 ## Operationsübersicht
 
-
-### Wichtige Infos
+### Wichtige Informationen
 
 #### LZ 4-Liner:
 
 <div markdown="1" class="airforce-table airforce-lz-4-liner">
 
-| LZ Name | Feindlage  | Ingress/Egress  | Markierung  |
-| :-----: | :--------: | :-------------: | :---------: |
-| - | (grün, gelb, rot) | (optional) | (optional) |
+| LZ Name |     Feindlage     | Ingress/Egress | Markierung |
+|:-------:|:-----------------:|:--------------:|:----------:|
+|    -    | (grün, gelb, rot) |   (optional)   | (optional) |
 
 </div>
 
@@ -19,10 +18,10 @@
 
 <div markdown="1" class="airforce-table airforce-gameplan">
 
-|  | Gameplan |
-| :-----: | :---: |
-| 1\. | Einsatz Typ |
-| 2\. | BOT/BOC |
+|     |     Gameplan      |
+|:---:|:-----------------:|
+| 1\. |    Einsatz Typ    |
+| 2\. |      BOT/BOC      |
 | 3\. | Waffenanforderung |
 
 </div>
@@ -31,18 +30,18 @@
 
 <div markdown="1" class="airforce-table airforce-9-liner airforce-5-liner">
 
-|  | 9-Liner |  | 5-Liner |
-| :-: | :---: | :-----: | :-----: |
-| 1\. | Ingress | 1\. | Ziel Position |
-| 2\. | Richtung | 2\. | Ziel Beschreibung |
-| 3\. | Distanz zum Ziel IP | 3\. | Ziel Markierung |
-| 4\. | Ziel Höhe (ASL) | 4\. | Freundliche Kräfte |
-| 5\. | Ziel Beschreibung | 5\. | Hinweise oder Einschränkungen |
-| 6\. | Ziel Position |  |  |
-| 7\. | Markierung |  |  |
-| 8\. | Eigene Kräfte (Markierung) |  |  |
-| 9\. | Egress |  |  |
-|  | Hinweise |  |  |
+|     |          9-Liner           |     |            5-Liner            |
+|:---:|:--------------------------:|:---:|:-----------------------------:|
+| 1\. |          Ingress           | 1\. |         Ziel Position         |
+| 2\. |          Richtung          | 2\. |       Ziel Beschreibung       |
+| 3\. |    Distanz zum Ziel IP     | 3\. |        Ziel Markierung        |
+| 4\. |      Ziel Höhe (ASL)       | 4\. |      Freundliche Kräfte       |
+| 5\. |     Ziel Beschreibung      | 5\. | Hinweise oder Einschränkungen |
+| 6\. |       Ziel Position        |     |                               |
+| 7\. |         Markierung         |     |                               |
+| 8\. | Eigene Kräfte (Markierung) |     |                               |
+| 9\. |           Egress           |     |                               |
+|     |          Hinweise          |     |                               |
 
 </div>
 
@@ -50,11 +49,11 @@
 
 <div markdown="1" class="airforce-table airforce-bah">
 
-| | BHA \- Ergebnis des Waffeneinsatzes  |
-| :-: | :---: |
-| 1\. | Effekt |
-| 2\. | BDA |
-| 3\. | Re-run |
+|     | BHA \- Ergebnis des Waffeneinsatzes |
+|:---:|:-----------------------------------:|
+| 1\. |               Effekt                |
+| 2\. |                 BDA                 |
+| 3\. |               Re-run                |
 
 </div>
 
@@ -62,19 +61,20 @@
 
 <div markdown="1" class="airforce-table airforce-mission-3-liner">
 
-| Mission Typ | Ort (AO) | Zu kontaktierende Einheit |
-| :----: | :----: | :----: |
-| A-Recon/ CAS/ MedEvac | z.B. POI001 | z.B. Green Ant auf 68 |
+|          Mission Typ          |  Ort (AO)   | Zu kontaktierende Einheit |
+|:-----------------------------:|:-----------:|:-------------------------:|
+| A-Recon/ CAS/ QRF/ Pararescue | z.B. POI001 |   z.B. Green Ant auf 68   |
 
 </div>
 
-#### Brevity Terms:  
+#### Brevity Terms:
+
 **AO**: Area of Operation  
 **MSR**: Main Supply Route  
 **BOT**: Bomb on Target (Bekämpfen von Ziel→Benötigt Sicht auf das Ziel(Tally), für Freigabe.)  
 **BOC**: Bomb on Coordinate (Bekämpfen von Koordinate→ohne Sicht auf Ziel.)  
-**BDA**: Battle Damage Assesment  
-**BHA**: Battle Hit Assesment  
+**BDA**: Battle Damage Assessment  
+**BHA**: Battle Hit Assessment  
 **Cleared Hot**: Waffenfreigabe für Anflug erteilt.  
 **Cleared to Engage**: Waffenfreigabe für mehrere Anflüge  
 **Tally**: Sicht auf Ziel (**No Joy**: keine Sicht auf Ziel)  
@@ -84,9 +84,10 @@
 **Bandit**: Identifiziertes feindliches Luftfahrzeug.  
 **Kill**: Befehl, ein Ziel zu zerstören.  
 **Splash**: Bestätigung, dass das Ziel abgeschossen und zerstört wurde.  
-**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).  
+**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).
 
 #### Smoke:
+
 **Grün**: Freund Markierung  
 **Gelb**: JTAC Reserviert  
 **Rot**: Feind Markierung  
@@ -95,26 +96,28 @@
 **Violet**: Medevac  
 **Weiß**: Verschleierung
 
-#### Flares:  
+#### Flares:
+
 **Weiß**: Beleuchtung  
 **Grün**: Freund Markierung  
 **Rot**: Feind Markierung
 
-#### Wichtige Funkkanäle
+#### Lasercodes
 
 <div markdown="1" class="airforce-table airforce-important-frequences">
 
-| Piloten |  | JTAC |  |
-| :-----: | :----: | :-----: | :----: |
-| Luftraum (Tower) | AIR SPACE (Lasercode 1115\) | TACP-com | 84 Hz |
-| Blue Otter | OTTER JTAC (Lasercode 1113\) |  |  |
-| Red Barracuda | BARRA JTAC (Lasercode 1114\) |  |  |
+|       Unit        |    Callsign    | Lasercode-Nr. | JTAC Channel Name/Nr. |
+|:-----------------:|:--------------:|:-------------:|:---------------------:|
+|  Triton HQ JTAC   |    Triton 8    |     1113      |      TRITON JTAC      |
+| Leviathan Platoon | Leviathan JTAC |     1114      |       LEVI JTAC       |
+| Barracuda Platoon | Leviathan JTAC |     1115      |      BARRA JTAC       |
 
 </div>
 
 Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
-####  Karten Markierungen
+#### Karten Markierungen
+
 **IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann).  
 **HP**: Holding Point (Punkt an dem Hubschrauber warten und **nicht hovern**).  
 **HA**: Holding Area (Aufenthaltsraum für Hubschrauber) → darf nur von ALO erstellt werden.  
@@ -126,32 +129,42 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 #### Ablauf:
 
-1. Eine Anfrage für Luftunterstützung wird auf dem *TRITON ALO* Funkkanal an den ALO gestellt, dort müssen die Fragen was? und wohin? geklärt werden.
-2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTAC an.
-3. Sobald der JTAC keine Verwendung mehr für die Luftunterstützung hat, meldet es sich auf dem JTAC Funkkanal ab.
+1. Eine Anfrage für Luftunterstützung wird auf dem  *REQUEST* Funkkanal an die jeweilige Einheit gestellt.
+   Dort wir nur geklärt: Wer? Funkkanal? Weitere Klärungen auf der jeweiligen JTAC Funkkanal.
+    * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
+      Funkkanal Barracuda JTAC. Ende.
+2. Das Luftfahrzeug meldet sich auf dem Funkkanal JTAC an.
+3. Klärung der Anfrage wird auf dem JTAC Funkkanal abgehandelt - Aufträge werden durchgeführt
+4. Sobald die Aufträge durchgeführt wurden, entlässt der JTAC die Einheit.
 
 #### Wichtige Punkte
 
-* A-Recon und Logistik Aufträge haben eine geringere Gewichtung wie MedEvac und CAS Aufträge, und können daher verzögert werden wenn die Kapazitäten am Limit sind.
-* Bei MedEvac Einsätzen muss vor dem Anflug mit dem MedEvac abgeklärt werden ob ein Krankentransport oder medizinische Unterstützung am Boden gefordert wird.
-* Die MedEvac Crew muss an der LZ eingewiesenen werden.
-* Bei einer Anforderung eines MedEvac kann die Anzahl der Verletzten und der Schweregrad der Verletzungen mit an den ALO übergeben werden.
+* Aufträge sollten in dieser Reihenfolge priorisiert werden: QRF/Pararescue, CAS, A-Recon.
+* Lufteinheiten verwalten sich im Rückraum selbstständig und priorisieren Aufträge selbstständig.
+* Die selbstständige Priorisierung kann durch Triton 8 (Triton HQ JTAC) überschrieben werden.
 
 ### Piloten
 
 #### Ablauf:
 
-1. Dem Luftfahrzeug wird auf dem *AIR SPACE* Funkkanal den Mission 3-Liner übergeben ...
-2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt werden.
+1. Das Luftfahrzeug wird auf dem *REQUEST* Funkkanal angefragt.
+    * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
+      Funkkanal Barracuda JTAC. Ende.
+2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt
+   werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
-4. Nach abgeschlossener Mission wird der JTAC Funkkanal verlassen und sich wieder auf dem *AIR SPACE* Funkkanal angemeldet.
+4. Nach abgeschlossener Mission wird der JTAC Funkkanal verlassen und sich wieder auf dem *REQUEST* Funkkanal
+   angemeldet.
 
 #### Wichtige Punkte
 
+* Piloten müssen während Einsätzen auf dem Funkkanal *AIR SPACE* angemeldet sein, für die
+  Piloten-zu-Piloten-Kommunikation.
+* Auch am Boden sollte jede Einheit auf dem Funkkanal *AIR SPACE* erreichbar sein.
+* Alle Luftfahrzeuge müssen vor dem Starten den näheren Luftraum mithilfe des cTabs auf landende Helikopter prüfen, ggf.
+  Absprechen auf dem *AIR SPACE* Funkkanal.
 * Bei der Landung auf Schiffen müssen die Positionslichter aktiviert werden zur Kenntlichmachung des Luftfahrzeuges.
-* Auch am Boden muss jede Einheit auf dem Air Space Funkkanal erreichbar sein.
-* Nur Starrflügler müssen einen Call bei der Landung auf dem Air Space Funkkanal machen um andere Luftfahrzeuge zu warnen, sollte auf diesem Funkkanal keine Kapazität verfügbar sein kann auch ohne gelandet werden.
-* Alle Luftfahrzeuge müssen vor dem Starten (Starrflügler → Holdingposition) den näheren Luftraum mit Hilfe von c-Tab auf Landende Helikopter und Flugzeuge überprüfen.
-* Das durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden werden.
+* Das Durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden werden.
 
-Bei weiteren Fragen im Discord [Nick Mojo #air-force-chat](https://discord.com/channels/1230998538926952578/1234144188338012170) nachfragen.
+Bei __weiteren Fragen__
+im [Discord \#air-force-chat](https://discord.com/channels/1230998538926952578/1234144188338012170) nachfragen.

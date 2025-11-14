@@ -1,4 +1,4 @@
-## XABCDE Schema für Behandlungen von Verletzten
+## ACE Behandlungen von Verletzten
 
 Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 
@@ -32,4 +32,4 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 2. **Atemweg** geprüft und frei: Ja/Nein  
 3. **Medikamente** gegeben: Ja/Nein  
 4. Wie **lange** liegt er?  
-5. Fragen ob **weitere Hilfe** (z.B. HLW) notwendigs
+5. Fragen ob **weitere Hilfe** (z.B. HLW) notwendig?

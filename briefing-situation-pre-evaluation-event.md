@@ -1,18 +1,20 @@
 
-**Vor 10 Jahren:** In der letzten Dekade hat Kolumbien stärkere wirtschaftliche und militärische Beziehungen zu NATO-Partnern aufgebaut, ohne der NATO selbst beizutreten. Kolumbien ist ein ressourcenreiches und daher strategisch wichtiges Land in Südamerika.
+**Vor 10 Jahren bis vor 2 Monaten:**
+Die CSAT-Allianz hat ihre geopolitischen Bestrebungen in Südamerika intensiviert und in Kolumbien eingefallen.
+Die NATO-Länder unterstützen Kolumbien erst wirtschaftlich, dann militärisch.
 
-**Vor 3 Jahren:** Die CSAT-Allianz hat ihre geopolitischen Bestrebungen in Südamerika intensiviert, insbesondere mit dem Ziel des Abbaus von Öl und Seltenen Erden. Im Norden des Landes wurden neue Bodenschätze entdeckt.
+**Vor 1 Monaten:** Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumbianischen Militär.
+Die Triton Company hat eine zweite Front und einen Brückenkopf im Norden des Landes errichtet.
 
-**Vor 2 Jahren:** Die CSAT-Allianz stationierte Truppen in Südamerika in der Nähe von Panama, offiziell zur Sicherung der eigenen Handelsrouten.
+**>> TacOps 2 <<:** Das TacOps 3 Event findet in kurzem zeitlichen Anschluss an TacOps 2 statt (TODO Link zu TacOps 2). 
 
-**Vor 1 Jahr:** CSAT begann mit Anti-Piraterie-Einsätzen im Ostpazifik und verletzte dabei mehrfach kolumbianische Hoheitsgewässer. Die Spannungen zwischen der CSAT und der kolumbianischen Regierung nahmen zu.
+**Vor 3 Wochen:**
+Die Kampfhandlungen zwischen CSAT-Truppen und Triton Company im Norden Kolumbiens dauern an.
 
-**Vor 6 Monaten:** Offiziell aufgrund der fehlenden Unterstützung bei der Pirateriebekämpfung durch die kolumbianische Regierung und zur Wahrung der eigenen Interessen begann CSAT einen Angriffskrieg und landete im Westen Kolumbiens. Die NATO-Staaten verhängten sofort Sanktionen gegen die CSAT. Auf internationaler Ebene begannen diplomatische Bemühungen, um den Abzug der CSAT-Truppen zu erreichen.
+**Vor 2 Wochen:**
+Ein Versorgungskonvoi ist in der Nähe der Insel Tanoa verschwunden.
+Geheimdienstinformation zufolge wurde dieser nach Tanoa umgeleitet und von CSAT-Truppen festgesetzt.
 
-**Vor 5 Monaten:** CSAT erzielte anfänglich Geländegewinne, aber durch die wirtschaftliche Unterstützung der NATO-Länder konnte das kolumbianische Militär die aus dem Westen vorrückenden CSAT-Streitkräfte in der Mitte des Landes binden.
+**Vor 1 Woche:** Ein Teil der Triton Company wurde als QRF-Einsatztruppe nach Tanoa beordert, um den Versorgungskonvoi zurückzuholen.
 
-**Vor 4 Monaten:** CSAT schnitt den nördlichen Teil des Landes ab, woraufhin der Widerstand der kolumbianischen Armee im Norden zusammenbrach.
-Aktuell rücken Truppen der CSAT auf die US-Basis **Nereus**, in Colombia etwa 100 km von Cartagena entfernt, zu.
-Dort sind Teile der Triton Company stationiert.
-
-![Image](./assets/tacops-2-colombia.png)
+**Vor 2 Tagen:** Die QRF-Einsatztruppe der Triton Company ist in Tanoa angekommen. 

@@ -1,4 +1,4 @@
-# Organisatorisches
+## Organisatorisches
 
 ### Join-In-Progress und Respawn
 

@@ -1,1 +1,0 @@
-## Gesichtete Feindfahrzeuge

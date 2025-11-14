@@ -1,3 +1,11 @@
+## QRF/Pararescue
+
+coming soon ...
+
+**Wir hoffen, dass der QRF/Pararescue damit den Spielfluss und den Spielspaß für euch erhöht.**
+
+<div markdown="1" class="hidden">
+
 ## MedEvac Info
 
 Es gibt Bedenken hinsichtlich der Ineffizienz des MedEvac. Wir haben uns viele Gedanken gemacht, damit der MedEvac euch optimal unterstützt und die Hemmschwelle, ihn anzufordern, praktisch nicht vorhanden ist.
@@ -24,6 +32,8 @@ Teilt uns nach Anmeldung auf eurem Funkkanal mit, welches Verfahren ihr wünscht
 \- Medizinische Unterstützung vor Ort durch MedEvac-Doktoren
 
 **Wir hoffen, dass der MedEvac damit den Spielfluss und den Spielspaß für euch erhöht.**
+
+</div>
 
 <div markdown="1" class="hidden">
 

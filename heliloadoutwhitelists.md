@@ -7,7 +7,7 @@ Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
 
 #### Bewaffnung
 
-Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
+Nach der Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
 **Waffennamen (erlaubt):**
 * APKWS alle Varianten
@@ -17,19 +17,18 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 * M257 Hydra (M260)
 * Poniard LAU-131 x1
 
-> Alle aufgeführten Waffenmenge sind unlimitiert.
+> Alle aufgeführten Waffen sind in der Menge unlimitiert.
 
 
 ### AH-1Z Viper
 
 #### Auftrag
 
-Die **AH-1Z Viper** wird für **CAS Aufträge** eingesetzt.  
-Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
+Die **AH-1Z Viper** wird für **Luftraumsicherung** und **CAS Aufträge** eingesetzt.  
 
 #### Bewaffnung
 
-Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
+Nach der Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
 **Waffennamen (erlaubt):**
 * AGM-114K AT
@@ -47,5 +46,5 @@ Nach Genfer Convention sind chemische Waffen, biologische Waffen und Clustermuni
 * Poniard LAU-131 x1
 * AIM-9M
 
-> Alle aufgeführten Waffenmenge sind unlimitiert.  
+> Alle aufgeführten Waffen sind in der Menge unlimitiert.  
 > Die ACE Hellfire: AGM-114K [ACE], AGM-114L [ACE] haben **keine funktionierende Laseraufschaltung**!

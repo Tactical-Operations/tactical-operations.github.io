@@ -5,8 +5,8 @@ Durch ihre Flexibilität bei der Bekämpfung von Boden-, See- und Luftzielen auf
 
 #### Auftrag
 
-Die **F/A-18C Hornet** wird **ausschließlich** zur **Luftraumsicherung** eingesetzt.  
-CAS Aufträge werden nur von Hubschraubern durchgeführt.
+Die **F/A-18C Hornet** wird für **Luftraumsicherung** und **CAS Aufträge** eingesetzt.  
+Die **F/A-18C Hornet** steht nicht jederzeit zur Verfügung da sie, von einem hinter dem Horizont entfernten Träger, gestartet wird.
 
 #### Bewaffnung zur Luftraumsicherung
 
@@ -37,7 +37,7 @@ CAS Aufträge werden nur von Hubschraubern durchgeführt.
 * Guided Anti Tank missile. Guidance system depends on the version.  
 * H \[F&F\] \[EO\] Shaped-charge warhead 57 kg (125 lb) 1 Missile per Pylon  
 
-> Die Waffenmenge der AGM-65 Maverick \[AT\] ist in der Anzahl **stark limitiert**, und wird daher nur im absoluten Notfall eingesetzt. 
+> Die Waffenmenge der AGM-65 Maverick \[AT\] ist in der Anzahl **limitiert**.
 
 Aufschlüsselung
 

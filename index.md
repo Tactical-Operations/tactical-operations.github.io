@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 2 - Home
+title: TacOps 3 - Home
 ---
 
 # Tactical-Operations
@@ -11,12 +11,13 @@ TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma
 TacOps verfolgt das Ziel, Szenarien mit taktischer und immersiver Tiefe anzubieten.
 
 Ziel für jedes Event ist:
+
 * Eine aufbauende, zusammenhängende Geschichte über 2-3 Tage zu spielen.
-* Ein Event mit 70 bis zu 140 Spielern zu ermöglichen. 
-* Kombinierte Streitkräft darzustellen, aus:
+* Ein Event mit 70 bis zu 140 Spielern zu ermöglichen.
+* Kombinierte Streitkräfte darzustellen, aus:
     * Kampftruppen der Infanterie und mechanisierte Einheiten
     * kombiniert mit CAS Lufteinheiten
-    * einem MedEvac
+    * einem MedEvac/QRF/Pararescue
     * und schneller Logistik
 
 Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.
@@ -42,3 +43,7 @@ Solltest du Fragen haben, tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8
 Details zum Briefing gibt es, wenig überraschend unter [Briefing](./briefing.html).
 
 Alle restlichen Informationen wie: Organisatorisches, Medic Settings, Luftunterstützung, Logistikunterstützung findest du unter [Material](./material.html).
+
+## Vorheriges Event - TacOps 2
+
+Das vorherige Event findest du unter [Archiv - TacOps 2](./archive.html).
