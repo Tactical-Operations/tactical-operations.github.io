@@ -129,16 +129,7 @@
 <style>
 .logistic-table-land-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
-  table tbody tr:nth-child(1) { background-color: var(--logistic-table-vehicle-color);  }
   table tbody tr:nth-child(2) { background-color: var(--logistic-table-vehicle-color);  }
-  table tbody tr:nth-child(3) { background-color: var(--logistic-table-lead-color);  }
-  table tbody tr:nth-child(4) { background-color: var(--logistic-table-medic-only-color);  }
-  table tbody tr:nth-child(5) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(6) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(7) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(8) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(9) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(10) { background-color: var(--logistic-table-infantry-color); }
 }
 </style>
 
@@ -180,9 +171,6 @@
 <style>
 .logistic-table-sea-vehicle {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
-  table tbody tr:nth-child(3) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(4) { background-color: var(--logistic-table-infantry-color); }
-  table tbody tr:nth-child(5) { background-color: var(--logistic-table-infantry-color); }
 }
 </style>
 

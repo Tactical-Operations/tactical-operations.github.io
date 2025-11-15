@@ -3,7 +3,7 @@
 #### Auftrag
 
 Die **UH-1Y Venom Gunship** wird für **Truppentransport** und **CAS Aufträge** eingesetzt.  
-Für die Luftraumsicherung sind die F/A-18C Hornets zuständig.
+Für die Luftraumsicherung sind alle Streitkräfte zuständig.
 
 #### Bewaffnung
 

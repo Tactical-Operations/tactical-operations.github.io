@@ -11,7 +11,7 @@
 4. Auf Rückfragen von Triton 4 warten oder die Auftragsbestätigung annehmen.  
 5. Nach **Auftragsbestätigung mit ETA** kann der *REQUEST* Funkkanal verlassen werden.  
 6. Warten bis:  
-    6.1. sich ein **Lufttransport (Pelican)** auf dem Platoon JTAC Funkkanal meldet. (Dies ist zu erwarten beim Transport von Infanterieversorgung)  
+    6.1. sich ein **Lufttransport (Capybara)** auf dem Platoon JTAC Funkkanal meldet. (Dies ist zu erwarten beim Transport von Infanterieversorgung)  
     6.2. sich ein **Bodentransport (Capybara)** auf dem Platoon Actual Funkkanal meldet.  
     6.3. sich ein **Combat Engineer Team (Capybara)** entweder für einen Auftrag oder den Abschluss von diesem auf der Platoon Actual Funkkanal meldet.  
 

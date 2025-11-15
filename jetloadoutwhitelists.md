@@ -6,7 +6,7 @@ Durch ihre Flexibilität bei der Bekämpfung von Boden-, See- und Luftzielen auf
 #### Auftrag
 
 Die **F/A-18C Hornet** wird für **Luftraumsicherung** und **CAS Aufträge** eingesetzt.  
-Die **F/A-18C Hornet** steht nicht jederzeit zur Verfügung da sie, von einem hinter dem Horizont entfernten Träger, gestartet wird.
+Die **F/A-18C Hornet** steht nicht jederzeit zur Verfügung, da sie von einem hinter dem Horizont entfernten Träger gestartet wird.
 
 #### Bewaffnung zur Luftraumsicherung
 

@@ -3,7 +3,7 @@ layout: default
 title: TacOps 3 - Operation Torchwood - Wichtiges im Überblick
 ---
 
-# Operation Torchwood - Wichtiges im Überblick
+# Operation Torchwood – Wichtiges im Überblick
 
 ### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) 
 
@@ -12,7 +12,7 @@ Zeitraum um 2020
 **Gespielte Fraktion:** USMC  
 **Feindliche Fraktion:** CSAT  
 
-## 💻 Arma3 Server   
+## 💻 Arma 3 Server   
 <div markdown="1" class="hidden">
 **Modpaket:** [TacOps\_2\_Modset.html]()  
 </div>

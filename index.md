@@ -7,7 +7,7 @@ title: TacOps 3 - Home
 
 ## Was ist TacOps
 
-TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma3 Event, mit hoher Spielerzahl, welches verschiedene Szenarien mit kombinierten Streitkräften anbietet.
+TacOps (kurz für Tactical-Operations) ist ein Clan-/Gruppenübergreifendes Arma 3 Event, mit hoher Spielerzahl, welches verschiedene Szenarien mit kombinierten Streitkräften anbietet.
 TacOps verfolgt das Ziel, Szenarien mit taktischer und immersiver Tiefe anzubieten.
 
 Ziel für jedes Event ist:
@@ -30,7 +30,7 @@ Das nächste Event und die Termine dafür findest du unter [Termine](./schedule.
 
 Wenn du, egal ob Einzelspieler oder Clan/Gruppe teilnehmen möchtest, findest du alles Nötige unter [Anmeldung](./enrolment.html).
 
-Die Einladung zur Teilnahme gilt für alle Arma3 Spieler, daher leite das Event gerne an Clans/Gruppen die du kennst weiter.
+Die Einladung zur Teilnahme gilt für alle Arma 3 Spieler, daher leite das Event gerne an Clans/Gruppen die du kennst weiter.
 
 ## Fragen
 
