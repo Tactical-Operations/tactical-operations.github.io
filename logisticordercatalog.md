@@ -156,13 +156,13 @@
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-air-vehicle">
 
-|  Nr  | Luftfahrzeuge    | Sitzplätze | Zweck/Nutzen                |
-|:----:|:-----------------|:----------:|:----------------------------|
-| 5-01 | UH-1Y Venom      |     11     | Infanterietransport         |
-| 5-02 | MH-60M DAP MLASS |     11     | Patienten-/Frachttransport  |
-| 5-03 | CH-53E (GAU-21)  |     27     | Fracht-/Infanterietransport |
-| 5-04 | AH-1Z Viper      |     2      | CAS                         |
-| 5-06 | F/A-18C          |     1      | Luftüberlegenheitsjäger     |
+|    Nr    | Luftfahrzeuge       | Sitzplätze | Zweck/Nutzen                    |
+|:--------:|:--------------------|:----------:|:--------------------------------|
+|   5-01   | UH-1Y Venom         |     11     | Infanterietransport             |
+|   5-02   | MH-60M DAP MLASS    |     11     | Patienten-/Frachttransport      |
+| ~~5-03~~ | ~~CH-53E (GAU-21)~~ |   ~~27~~   | ~~Fracht-/Infanterietransport~~ |
+|   5-04   | AH-1Z Viper         |     2      | CAS                             |
+|   5-06   | F/A-18C             |     1      | Luftüberlegenheitsjäger         |
 
 </div>
 
