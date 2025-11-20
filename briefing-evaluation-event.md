@@ -43,7 +43,7 @@ coming soon ...
 
 ### Zivile Lage
 
-Zivilisten sind zu großen Teilen geflohen oder haben Zuflucht in ihren Heimen gesucht.
+Zivilisten sind zu großen Teilen geflohen oder haben Zuflucht in ihren verschlossenen Heimen gesucht.
 
 ---
 
