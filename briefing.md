@@ -13,6 +13,3 @@ title: TacOps 3 - Operation Torchwood - Briefing
 {% include_relative briefing-evaluation-event.md %}
 </div>
 
-<div markdown="1" class="hidden">
-{% include_relative briefing-situation-post-evaluation-event.md %}
-</div>
