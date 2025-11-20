@@ -6,7 +6,7 @@ Die NATO-Länder unterstützen Kolumbien erst wirtschaftlich, dann militärisch.
 **Vor 1 Monaten:** Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumbianischen Militär.
 Die Triton Company hat eine zweite Front und einen Brückenkopf im Norden des Landes errichtet.
 
-**>> TacOps 2 <<:** Das TacOps 3 Event findet in kurzem zeitlichen Anschluss an TacOps 2 statt (TODO Link zu TacOps 2). 
+**[TacOps 2](./to2/index.html):** Das TacOps 3 Event findet in kurzem zeitlichen Anschluss an TacOps 2 statt: [Archiv - TacOps 2](./to2/index.html). 
 
 **Vor 3 Wochen:**
 Die Kampfhandlungen zwischen CSAT-Truppen und Triton Company im Norden Kolumbiens dauern an.
