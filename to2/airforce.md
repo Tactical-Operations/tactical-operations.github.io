@@ -116,7 +116,7 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 ####  Karten Markierungen
 **IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann).  
-**HP**: Holding Point (Punkt an dem Hubschrauber warten und **nicht hovern**).  
+**HP**: Holding Point (Punkt an dem Hubschrauber warten und Hovern).  
 **HA**: Holding Area (Aufenthaltsraum für Hubschrauber) → darf nur von ALO erstellt werden.  
 **ACA**: Aircraft Control Area (Aufenthaltsraum für (Luft-Boden)) → darf nur von ALO erstellt werden.  
 **CAP**: Combat Air Partrol Zone (Partrouillienbreich für Abfangjäger) → darf nur von ALO erstellt werden.  
