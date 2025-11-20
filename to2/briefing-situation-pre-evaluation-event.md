@@ -15,4 +15,4 @@
 Aktuell rücken Truppen der CSAT auf die US-Basis **Nereus**, in Colombia etwa 100 km von Cartagena entfernt, zu.
 Dort sind Teile der Triton Company stationiert.
 
-![Image](./assets/tacops-2-colombia.png)
+![Image](assets/tacops-2-colombia.png)

@@ -570,7 +570,7 @@ Gesamter Missionsfeedback in TS: ab 00:00 Uhr
 
 ### Servereinheit
 
-![Image](./assets/tacops-2-referenceimage-serverunit.jpg)
+![Image](assets/tacops-2-referenceimage-serverunit.jpg)
 
 
 ### Kartenmaterial
