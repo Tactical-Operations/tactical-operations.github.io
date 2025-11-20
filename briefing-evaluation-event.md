@@ -240,11 +240,11 @@ Gelb
 
 #### Servereinheiten
 
-![Image](assets/tacops-2-referenceimage-serverunit.jpg)
+![Image](./assets/tacops-2-referenceimage-serverunit.jpg)
 
 #### CSAT Logistikcontainer
 
-![Image](assets/tacops-2-referenceimage-logisticunit.jpg)
+![Image](./assets/tacops-2-referenceimage-logisticunit.jpg)
 
 #### Kartenmaterial
 
