@@ -118,19 +118,19 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 #### Karten Markierungen
 
-**IP**: Inital Point (Punkt von dem ein Anflug gestartet werden kann).  
-**HP**: Holding Point (Punkt an dem Hubschrauber warten und **nicht hovern**).  
+**IP**: Initial Point (Punkt, von dem ein Anflug gestartet werden kann).  
+**HP**: Holding Point (Punkt, an dem Hubschrauber warten und **nicht hovern**).  
 **HA**: Holding Area (Aufenthaltsraum für Hubschrauber) → darf nur von ALO erstellt werden.  
 **ACA**: Aircraft Control Area (Aufenthaltsraum für (Luft-Boden)) → darf nur von ALO erstellt werden.  
-**CAP**: Combat Air Partrol Zone (Partrouillienbreich für Abfangjäger) → darf nur von ALO erstellt werden.  
-**LZ**: Landing Zone →muss auf c-Tab oder JVMF markiert werden, → darf nicht verschoben werden.
+**CAP**: Combat Air Patrol Zone (Partrouillienbreich für Abfangjäger) → darf nur von ALO erstellt werden.  
+**LZ**: Landing Zone → muss auf c-Tab oder JVMF markiert werden, → darf nicht verschoben werden.
 
 ### JTAC
 
 #### Ablauf:
 
-1. Eine Anfrage für Luftunterstützung wird auf dem  *REQUEST* Funkkanal an die jeweilige Einheit gestellt.
-   Dort wir nur geklärt: Wer? Funkkanal? Weitere Klärungen auf der jeweiligen JTAC Funkkanal.
+1. Eine Anfrage für Luftunterstützung wird auf dem *REQUEST* Funkkanal an die jeweilige Einheit gestellt.
+   Dort wir nur geklärt: wer? Funkkanal? Weitere Klärungen auf dem jeweiligen JTAC-Funkkanal.
     * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
       Funkkanal Barracuda JTAC. Ende.
 2. Das Luftfahrzeug meldet sich auf dem Funkkanal JTAC an.
