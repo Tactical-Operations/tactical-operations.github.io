@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Home
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Tactical-Operations
 
 ## Was ist TacOps

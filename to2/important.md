@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Tidal Spear - Wichtiges im Überblick
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Tidal Spear - Wichtiges im Überblick
 
 ### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) 

@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Tidal Spear - Briefing
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Tidal Spear - Briefing - Evaluationsevent
 
 ## Allgemeine Situation

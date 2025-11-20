@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Tidal Spear - Material und Handouts
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Material
 <div markdown="1" class="hidden">
 </div>

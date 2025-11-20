@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Tidal Spear - Anmeldung
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Tidal Spear - Anmeldung
 
 **Jeder** kann sich An-/Abmeldung, sowohl **Einzelspieler** als auch **Gruppen/Clans**.  

@@ -3,6 +3,8 @@ layout: default
 title: TacOps 2 - Tidal Spear - Termine und Ablauf
 ---
 
+{% include_relative succeeding-event.md %}
+
 # Tidal Spear - Termine und Ablauf
 
 ## Übungstermine
