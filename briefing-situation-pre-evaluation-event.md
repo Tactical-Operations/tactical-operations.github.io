@@ -8,13 +8,17 @@ Die Triton Company hat eine zweite Front und einen Brückenkopf im Norden des La
 
 **[TacOps 2](./to2/index.html):** Das TacOps 3 Event findet in kurzem zeitlichen Anschluss an TacOps 2 statt: [Archiv - TacOps 2](./to2/index.html). 
 
+*Vor 1 Monat:*
+CSAT-Truppen sind im Norden Schottlands eingefallen und konnten überraschend die Schottischen Highlands besetzen.
+
 **Vor 3 Wochen:**
-Die Kampfhandlungen zwischen CSAT-Truppen und Triton Company im Norden Kolumbiens dauern an.
+Die Kampfhandlungen zwischen CSAT-Truppen und NATO-Streitkräften in Schottland dauern an.
+Der Frontverlauf ist in den Schottischen Lowlands angekommen und nördlich von Glasgow und Edinburgh zum Stehen gekommen.
 
 **Vor 2 Wochen:**
-Ein Versorgungskonvoi ist in der Nähe der Insel Tanoa verschwunden.
-Geheimdienstinformation zufolge wurde dieser nach Tanoa umgeleitet und von CSAT-Truppen festgesetzt.
+Im Zuge der NATO-Unterstützung ist die USMC beauftragt, die Verbindung vom Nordatlantik durch den Nordkanal zwischen Nordirland und Schottland freizumachen.
+Da am Mull of Kintyre viele Radaranlagen und Schiff-/Flugabwehrbatterien stationiert sind, soll die Triton Company diese vernichten und die Halbinsel sichern.
 
-**Vor 1 Woche:** Ein Teil der Triton Company wurde als QRF-Einsatztruppe nach Tanoa beordert, um den Versorgungskonvoi zurückzuholen.
+**Vor 1 Woche:** Ein Teil der Triton Company wurde als Einsatztruppe zum Mull of Kintyre beordert.
 
-**Vor 2 Tagen:** Die QRF-Einsatztruppe der Triton Company ist in Tanoa angekommen. 
+**Vor 2 Tagen:** Die Einsatztruppe der Triton Company ist am Mull of Kintyre angekommen. 
