@@ -1,5 +1,13 @@
 {% include_relative briefing-situation-pre-evaluation-event.md %}
 
-**Vor 1 Tag (Zeitpunkt des Evaluationsevents von TacOps 3):** Die Triton Company hat einen ersten Brückenkopf errichtet
-und die Ortschaften gesichert: <<TODO Ortschaften aufzählen nach Event >>
-Dieser Brückenkopf wird in Kombination mit der USS Python für weitere Operationen genutzt. 
+**Vor 2 Wochen:**
+Die CSAT-Truppen haben den Mull of Kintyre genommen und beginnen damit den Bereich zu befestigen.
+Die Verbindung vom Nordatlantik durch den Nordkanal ist damit gesperrt.
+
+**Vor 1 Woche:**
+Im Zuge der NATO-Unterstützung ist die USMC beauftragt, die Verbindung vom Nordatlantik durch den Nordkanal zwischen Nordirland und Schottland freizumachen.
+Am Mull of Kintyre sind Radaranlagen und Schiff-/Flugabwehrbatterien der CSAT stationiert, diese soll Triton Company vernichten und die Halbinsel sichern.
+
+**Vor 1 Tag:** Ein Teil der Triton Company ist verdeckt am Mull of Kintyre angekommen.
+
+**Heute (Zeitpunkt des Hauptevents von TacOps 3):**
