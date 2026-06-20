@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Termine und Ablauf
+title: TacOps 3 - Clear Sky - Termine und Ablauf
 ---
 
-# Operation Torchwood - Termine und Ablauf
+# Clear Sky - Termine und Ablauf
 
 ## Übungstermine
 

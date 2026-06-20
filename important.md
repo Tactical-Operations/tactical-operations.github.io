@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Wichtiges im Überblick
+title: TacOps 3 - Clear Sky - Wichtiges im Überblick
 ---
 
-# Operation Torchwood – Wichtiges im Überblick
+# Clear Sky – Wichtiges im Überblick
 
 ### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Material und Handouts
+title: TacOps 3 - Clear Sky - Material und Handouts
 ---
 
 # Material

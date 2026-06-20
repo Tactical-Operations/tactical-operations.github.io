@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Briefing
+title: TacOps 3 - Clear Sky - Briefing
 ---
 
-# Operation Torchwood - Briefing - Evaluationsevent
+# Clear Sky - Briefing - Evaluationsevent
 
 ## Allgemeine Situation
 

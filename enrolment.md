@@ -1,9 +1,9 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Anmeldung
+title: TacOps 3 - Clear Sky - Anmeldung
 ---
 
-# Operation Torchwood - Anmeldung
+# Clear Sky - Anmeldung
 
 **Jeder** kann sich An-/Abmeldung, sowohl **Einzelspieler** als auch **Gruppen/Clans**.  
 Es ist möglich sich sowohl für einzelne, als auch alle Termine anzumelden.

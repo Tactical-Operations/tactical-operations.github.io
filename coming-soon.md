@@ -1,8 +1,8 @@
 ---
 layout: default
-title: TacOps 3 - Operation Torchwood - Briefing
+title: TacOps 3 - Clear Sky - Briefing
 ---
 
-# Operation Torchwood — In Bearbeitung
+# Clear Sky — In Bearbeitung
 
 Das angefragte Dokument befindet sich noch in Bearbeitung.
