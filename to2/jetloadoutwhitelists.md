@@ -39,6 +39,12 @@ CAS Aufträge werden nur von Hubschraubern durchgeführt.
 
 > Die Waffenmenge der AGM-65 Maverick \[AT\] ist in der Anzahl **stark limitiert**, und wird daher nur im absoluten Notfall eingesetzt. 
 
+**AGM-88 HARM \[AR\]**  
+* Anti Radiation missile. Proportional guidance system that hones in on enemy radar emissions.  
+* Blast-fragmentation warhead 66 kg (146 lb) 1 Missile per Pylon  
+
+> Die Waffenmenge der AGM-88 HARM \[AR\] ist in der Anzahl **limitiert**. 
+
 Aufschlüsselung
 
 * \[AT\] \- Anti-Tank.  
