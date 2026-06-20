@@ -44,7 +44,7 @@
 <div markdown="1" class="logistic-table radio-communication-plan">
 
 | Channel Nr. | Kurzname     | Beschreibung                  |
-| ----------- | ------------ | ----------------------------- |
+|-------------|--------------|-------------------------------|
 | 1           | SOS          | Emergency                     |
 | 2           | TRITON PLT   | Triton Platoon                |
 | 3           | TRITON PLT A | Triton Platoon Alternative    |
