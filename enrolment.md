@@ -27,7 +27,7 @@ Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage d
   *Bele**. Repräsentanten können dann Slots gesammelt für ihre jeweilige Gruppe/Clan reservieren.
 * **Einzelspieler** können sich selbstständig im [Discord #Anmeldung]() anmelden, oder direkt in Discord bei **Bele**.
 
-**Anmerkung:** Manche Slots wie zum Beispiel wie Company Command, Platoon Lead, Piloten, Pararescue können gesondert
+**Anmerkung:** Manche Slots wie zum Beispiel wie Company Command, Platoon Lead, Piloten, QRF können gesondert
 vergeben werden.
 
 ## Übungstermine

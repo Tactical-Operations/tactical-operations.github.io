@@ -17,7 +17,7 @@ Ziel für jedes Event ist:
 * Kombinierte Streitkräfte darzustellen, aus:
     * Kampftruppen der Infanterie und mechanisierte Einheiten
     * kombiniert mit CAS Lufteinheiten
-    * einem MedEvac/QRF/Pararescue
+    * jeweils ein Squad Marine Raider und QRF
     * und schneller Logistik
 
 Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.

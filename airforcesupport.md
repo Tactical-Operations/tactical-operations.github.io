@@ -2,16 +2,16 @@
 
 #### Ablauf:
 
-1. Eine Anforderung für CAS, QRF/Pararescue oder A-Recon wird durch den JTAC an die jeweilige Einheit über den *REQUEST* Funkkanal gemacht.
+1. Eine Anforderung für CAS, QRF oder A-Recon wird durch den JTAC an die jeweilige Einheit über den *REQUEST* Funkkanal gemacht.
 2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf den Funkkanal des JTACs, dort wird das weitere Vorgehen koordiniert
 3. Sobald die Luftunterstützung nicht mehr benötigt wird, meldet sich diese wieder von dem Funkkanal des JTACs ab und auf dem *REQUEST* Funkkanal an.
 
-#### QRF/Pararescue:
+#### QRF:
 
-* Der QRF/Pararescue kann jederzeit angefordert werden, unabhängig von Verwundetenzahl, er steht in der Dringlichkeit über allen anderen Einsatztypen.
-* Der QRF/Pararescue kann sowohl für den Verwundetentransport (Doc-Team sitzt nicht ab), als auch für medizinische Unterstützung (Doc-Team sitzt ab) angefordert werden.
-* Der QRF/Pararescue stellt ebenfalls Feuerunterstützung selbstständig zur Verfügung, um Feuerüberlegenheit herzustellen und Verwundete erfolgreich zu behandeln.
-* Eine Einweisung der QRF/Pararescue Besatzung ist an der LZ notwendig.
+* Die QRF kann jederzeit angefordert werden, unabhängig von Verwundetenzahl oder Lage, er steht in der Dringlichkeit über allen anderen Einsatztypen.
+* Die QRF kann sowohl für den Verwundetentransport (Doc-Team sitzt nicht ab), als auch für medizinische Unterstützung (Doc-Team sitzt ab) angefordert werden.
+* Die QRF stellt ebenfalls Feuerunterstützung selbstständig zur Verfügung, um Feuerüberlegenheit herzustellen, Truppe zu unterstützen und Verwundete zu behandeln.
+/* * Eine Einweisung der QRF Besatzung ist an der LZ notwendig. */
 
 #### CAS:
 

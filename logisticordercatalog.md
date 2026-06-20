@@ -70,7 +70,7 @@
 | 1-06 | Sprengstoff&Minen-Kiste                       | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
 | 1-07 | Funkturm Kiste                                | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (Ersetzt SATCOMS)                                                     |
 | 1-08 | Führungskiste                                 | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer                                                             |
-| 1-09 | QRF/Pararescue-Versorgung                     | Munitionskiste exklusiv für die Bewaffnung der QRF/Pararescue                                                                |
+| 1-09 | Marine Raider und QRF                         | Munitionskiste exklusiv für die Bewaffnung der Marine Raider und QRF                                                         |
 | 1-10 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte                                                        |
 | 1-11 | Logistiker-Versorgung                         | Kiste mit Werkzeugen der Logistik                                                                                            |
 | 1-12 | UAV-Kiste                                     | 10x UAV-Batterie, 1x UAV-Terminal, 2x UAV (Darter), 4x Fernmarkierer                                                         |

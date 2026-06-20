@@ -1,8 +1,8 @@
-## QRF/Pararescue
+## Quick Response Force (QRF)
 
 coming soon ...
 
-**Wir hoffen, dass der QRF/Pararescue damit den Spielfluss und den Spielspaß für euch erhöht.**
+**Wir hoffen, dass der Quick Response Force (QRF) damit den Spielfluss und den Spielspaß für euch erhöht.**
 
 <div markdown="1" class="hidden">
 

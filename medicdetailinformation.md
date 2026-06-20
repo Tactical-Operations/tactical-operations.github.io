@@ -1,4 +1,4 @@
-## Wichtigsten Infos für Platoon Medics und Pararescue Medics 
+## Wichtigsten Infos für Platoon-, Marine Raider- und QRF Medics 
 
 * **Medikamente → coming soon (Welche gibt es, wer kann sie einsetzen?)!**
 * **Nähen → coming soon (Wer kann nähen, verbraucht sich Material?)!**  

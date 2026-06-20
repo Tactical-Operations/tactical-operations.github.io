@@ -61,9 +61,9 @@
 
 <div markdown="1" class="airforce-table airforce-mission-3-liner">
 
-|          Mission Typ          |  Ort (AO)   | Zu kontaktierende Einheit |
-|:-----------------------------:|:-----------:|:-------------------------:|
-| A-Recon/ CAS/ QRF/ Pararescue | z.B. POI001 |   z.B. Green Ant auf 68   |
+|           Mission Typ           |  Ort (AO)   | Zu kontaktierende Einheit |
+|:-------------------------------:|:-----------:|:-------------------------:|
+| A-Recon/ CAS/ QRF/ Marine Rider | z.B. POI001 |   z.B. Green Ant auf 68   |
 
 </div>
 
@@ -139,7 +139,7 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 #### Wichtige Punkte
 
-* Aufträge sollten in dieser Reihenfolge priorisiert werden: QRF/Pararescue, CAS, A-Recon.
+* Aufträge sollten in dieser Reihenfolge priorisiert werden: QRF, CAS, A-Recon.
 * Lufteinheiten verwalten sich im Rückraum selbstständig und priorisieren Aufträge selbstständig.
 * Die selbstständige Priorisierung kann durch Triton 8 (Triton HQ JTAC) überschrieben werden.
 
