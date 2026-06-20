@@ -39,8 +39,6 @@
   /* SSC and/or FOB */
   table tbody tr:nth-child(n+42) { background-color: var(--logistic-table-logistic-only-color);  }
 
-  /* US Navy ships */
-  /* table tbody tr:nth-child(n+43) { background-color: var(--logistic-table-air-color);  } */
 }
 </style>
 
@@ -91,6 +89,7 @@
 | 41          | TRITON HQ      | Triton HQ internal            |
 | 42          | SSC FOB        | SSC und/oder FOB              |
 | 43          | US NAVY        | US Navy Schiffe               |
+
 </div>
 
 ## Rauchfarben
