@@ -6,9 +6,9 @@ Die NATO-Länder unterstützen Kolumbien erst wirtschaftlich, dann militärisch.
 **Vor 2 Monaten:** Die USA intervenierten im Konflikt in Kolumbien zwischen der CSAT und dem kolumbianischen Militär.
 Die Triton Company hat eine zweite Front und einen Brückenkopf im Norden des Landes errichtet.
 
-**[TacOps 2](./to2/index.html):** Das TacOps 3 Event findet chronologisch nach TacOps 2 statt: [Archiv - TacOps 2](./to2/index.html). 
+**[TacOps 2](./to2/briefing.html):** Das TacOps 3 Event findet chronologisch nach TacOps 2 statt: [Archiv - TacOps 2](./to2/briefing.html). 
 
-*Vor 1 Monat:*
+**Vor 1 Monat:**
 CSAT-Truppen sind im Norden Schottlands eingefallen und konnte überraschend große Teile der Schottischen Highlands besetzen.
 Der Frontverlauf ist in den Schottischen Lowlands angekommen und nördlich von Glasgow und Edinburgh zum Stehen gekommen.
 
@@ -19,6 +19,13 @@ Ein Teil der Triton Company wurde als Einsatztruppe zum Mull of Kintyre beordert
 
 **Vor 3 Wochen:**
 Die Einsatztruppe der Triton Company ist am Mull of Kintyre angekommen.
-Diese sollen den Vorstoß der Truppen verzögern und es ermöglichen Material auszufliegen, sowie Zivilisten zu evakuieren.
+Diese sollen den Vorstoß der Truppen verzögern und es ermöglichen Material auszufliegen.
 
-**Vor 3 Wochen: (Zeitpunkt des Evaluationsevents von TacOps 3)**
+**Zeitpunkt des Evaluationsevents von TacOps 3**
+
+<div markdown="1">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83758.32903884482!2d-5.704398157390261!3d55.4016892452999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1785706253392!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin">
+</iframe>
+
+</div>
