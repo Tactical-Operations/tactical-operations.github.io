@@ -25,7 +25,6 @@ Diese sollen den Vorstoß der Truppen verzögern und es ermöglichen Material au
 
 <div markdown="1">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83758.32903884482!2d-5.704398157390261!3d55.4016892452999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1785706253392!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin">
-</iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d83835.67242796138!2d-5.661558995636199!3d55.36518503464172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sde!4v1785707556142!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 </div>
