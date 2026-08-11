@@ -64,17 +64,17 @@
 |:----:|:----------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | 1-01 | Infanteriemunition (Pro Squad)                | Gewehrmunition für alle Infanterierollen                                                                                     |
 | 1-02 | Panzerabwehr                                  | 2x M136 (HEAT), Raketen für MAAWS Werfer                                                                                     |
-| 1-03 | Flugabwehr                                    | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen                                                                                  |
+| 1-03 | Flugabwehr (Stingerkiste)                     | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen                                                                                  |
 | 1-04 | Granaten (inkl. für Granatwerfer)             | Explosiv-& Rauchgranaten (inkl. 40mm)                                                                                        |
 | 1-05 | Nachtkampf-Ausstattung                        | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope                                                                      |
-| 1-06 | Sprengstoff&Minen-Kiste                       | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
-| 1-07 | Funkturm Kiste                                | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (Ersetzt SATCOMS)                                                     |
+| 1-06 | Sprengstoff/Minen-Kiste                       | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
+| 1-07 | Funkturm Kiste (ACRE, über ACE aufbauen)      | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (ersetzt SATCOMS)                                                     |
 | 1-08 | Führungskiste                                 | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer                                                             |
-| 1-09 | Marine Raider und QRF                         | Munitionskiste exklusiv für die Bewaffnung der Marine Raider und QRF                                                         |
-| 1-10 | Medizinische Vorräte (Pro Platoon/Infanterie) | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte                                                        |
+| 1-09 | Marine-Raider/QRF-Versorgung                  | Munitionskiste exklusiv für die Bewaffnung der Marine Raiders und QRF                                                        |
+| 1-10 | Medizinische Vorräte (Pro Platoon)            | Kiste mit Sanitätsmaterial, das ein gesamtes Platoon versorgen sollte                                                        |
 | 1-11 | Logistiker-Versorgung                         | Kiste mit Werkzeugen der Logistik                                                                                            |
 | 1-12 | UAV-Kiste                                     | 10x UAV-Batterie, 1x UAV-Terminal, 2x UAV (Darter), 4x Fernmarkierer                                                         |
-| 1-13 | "Emotional Support Chest"                     | Eine Kiste, reichlich "Crayons" für die Sorgen des einfachen Marines                                                         |
+| 1-18 | "Emotional Support Chest"                     | Eine Kiste, reichlich "Crayons" für die Sorgen des einfachen Marines                                                         |
 | 1-69 | Kleine Kiste (leer)/Große Kiste (leer)        | Dient für Sonderbestellungen                                                                                                 |
 
 </div>
@@ -94,11 +94,35 @@
 |:----:|:---------------------------------------------------|:--------------------------------------------------------------------------|
 | 2-01 | Ersatzreifen                                       | Bei mehr als einem Ersatzreifen bitte **2-08** anfordern.                 |
 | 2-02 | Ersatzkette                                        |                                                                           |
-| 2-03 | Fahrzeugmunition-Palette Oder Fahrzeugmunition-Box | Frachtpalette, um Fahrzeuge aufzumunitionieren oder die Pylonen zu ändern |
+| 2-03 | Fahrzeugmunition-Kiste                            | Kiste zum Aufmunitionieren von Fahrzeugen.                                |
+| 2-03 | Fahrzeugmunition-Palette                          | Palette zum Aufmunitionieren von Fahrzeugen oder zum Ändern der Pylonen. |
 | 2-04 | Fahrzeugreparatur-Palette                          | Frachtpalette, um Fahrzeuge komplett zu reparieren                        |
 | 2-05 | Treibstoff-Palette                                 | Frachtpalette, um Fahrzeuge aufzutanken (3406l)                           |
-| 2-06 | Ersatzreifen (in Box)                              | Frachtkiste, vorbefüllt mit 20 Ersatzreifen                               |
-| 2-07 | Seahawk Hoist                                      | Seilwinde, die an Seahawk-Modellen montiert werden kann.                  |
+| 2-06 | Box voll mit Ersatzreifen                         | Frachtkiste, vorbefüllt mit 20 Ersatzreifen                               |
+| 2-07 | Hoist                                              | Seilwinde für kompatible Hubschrauber.                                    |
+| 2-08 | FlexibleTank                                       | Flexibler Tank für die Treibstoffversorgung.                              |
+| 2-09 | ScepterMFC                                         | Mobile Treibstoffkomponente.                                               |
+
+</div>
+
+#### Logistikversorgung und Frachtcontainer
+
+Diese Einträge werden ohne eigene Bestellnummer in den entsprechenden Stationskatalogen angeboten.
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-vehicle-supply">
+
+| Eintrag | Zweck/Inhalt |
+|:--------|:-------------|
+| Boxloader Hubwagen | Bewegen von Paletten und Fracht |
+| Großes Zelt zum Aufbauen (Sandbraun) | Aufbau eines großen Logistik- oder Versorgungszelts |
+| Großes Zelt zum Aufbauen (Weiß) | Aufbau eines großen Logistik- oder Sanitätszelts |
+| Master-Palette (Cargo) | Frachtpalette für den Transport |
+| Palette | Leere Palette für flexible Beladung |
+| Stacheldraht (gerollt) | Baumaterial für Sperren und Stellungen |
+| Fahrzeuge - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeuge |
+| Fahrzeugversorgung - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeugversorgung |
+| Helikopter (Gelb) | Vorbereiteter Frachtcontainer für Hubschrauberbetrieb |
+| Versorgung - Alpha / Bravo | Vorbereitete allgemeine Versorgungscontainer |
 
 </div>
 
@@ -118,9 +142,9 @@
 | 3-02 | M2-Munition                | 10x Gurte mit Leuchtspur (rot)                                                                             |
 | 3-03 | MK19 (Verpackt)            | GMW auf Dreibein montiert, wird sitzend bedient                                                            |
 | 3-04 | MK19-Munition              | 12x HE, 4x HEDP, 8x Kanister                                                                               |
-| 3-05 | M41A4 TOW (Verpackt)       | Statische AT auf Dreibein montiert, wird kniend bedient                                                    |
+| 3-05 | TOW (Verpackt)             | Statische AT auf Dreibein montiert, wird kniend bedient                                                    |
 | 3-06 | TOW-Munition               | 2x BGM-71E TOW-2A (Fahrzeugbekämpfung) 3x BGM-71H Bunker Buster (Bekämpfung von Stellungen und Infanterie) |
-| 3-07 | FIM-92 Stinger - Plattform | Statische Luftabwehrstation, nicht Radar-gestützt                                                          |
+| 3-07 | Stinger Statisch           | Statische Luftabwehrstation, nicht Radar-gestützt                                                          |
 
 </div>
 
@@ -133,16 +157,33 @@
 }
 </style>
 
-<div markdown="1" class="logistic-table logistic-table-4 logistic-table-land-vehicle">
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-land-vehicle">
 
-|  Nr  | Landfahrzeuge      | Sitzplätze | Anmerkungen                          |
-|:----:|:-------------------|:----------:|:-------------------------------------|
-| 4-01 | AAVP-7A1 (Amtrack) |     21     |                                      |
-| 4-02 | LAV-25             |     9      | Aufgerüstet mit verbessertem Thermal |
-| 4-03 | HUMVEE (M2)        |     5      |                                      |
-| 4-04 | HUMVEE (TOW)       |     5      |                                      |
-| 4-05 | LKW (Infanterie)   |     15     |                                      |
-| 4-06 | Buggy              |     6      |                                      |
+|  Nr  | Landfahrzeuge      | Zweck/Anmerkungen                     |
+|:----:|:-------------------|:---------------------------------------|
+| 4-01 | AAVP-7A1 Amtrack   | Amphibischer Mannschaftstransport      |
+| 4-02 | LAV-25             | Aufgerüstet mit verbessertem Thermal   |
+| 4-03 | LAV-C2 (Command)   | Führungsfahrzeug                       |
+| 4-04 | HUMVEE (M2)        | Bewaffnetes Radfahrzeug                |
+| 4-05 | HUMVEE (TOW)       | Panzerabwehrfahrzeug                   |
+| 4-06 | LKW (Infanterie)   | Infanterietransport                    |
+| 4-07 | Buggy              | Leichtes Transportfahrzeug             |
+
+</div>
+
+#### Logistikfahrzeuge und Geräte
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-land-vehicle">
+
+| Logistikfahrzeug/Gerät | Zweck |
+|:-------------------------|:------|
+| Gabelstapler | Bewegen von Fracht und Paletten |
+| Gabelstapler (Atlas) | Bewegen von Fracht und Paletten |
+| HUMVEE Cargo | Leichter Frachttransport |
+| LKW (Cargo) | Schwerer Frachttransport und Bergung |
+| LKW (Fuel) | Treibstoffversorgung |
+| Quadbike (VHF-30108) | Leichter Transport mit Funkanbindung |
+| Traktor | Bewegen von Fracht und Bauobjekten |
 
 </div>
 
@@ -154,17 +195,22 @@
 }
 </style>
 
-<div markdown="1" class="logistic-table logistic-table-4 logistic-table-air-vehicle">
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-air-vehicle">
 
-|    Nr    | Luftfahrzeuge       | Sitzplätze | Zweck/Nutzen                    |
-|:--------:|:--------------------|:----------:|:--------------------------------|
-|   5-01   | UH-1Y Venom         |     11     | Infanterietransport             |
-|   5-02   | MH-60M DAP MLASS    |     11     | Patienten-/Frachttransport      |
-| ~~5-03~~ | ~~CH-53E (GAU-21)~~ |   ~~27~~   | ~~Fracht-/Infanterietransport~~ |
-|   5-04   | AH-1Z Viper         |     2      | CAS                             |
-|   5-06   | F/A-18C             |     1      | Luftüberlegenheitsjäger         |
+| Nr   | Luftfahrzeuge              | Katalog/Zweck |
+|:----:|:---------------------------|:--------------|
+| 5-01 | UH-1Y Venom Gunship        | Aircraft/CAS |
+| 5-02 | AH-1Z Viper                | CAS |
+| 5-03 | UH-60M Slick               | Logistik und Transport |
+| 5-03 | MH-60M DAP MLASS           | QRF |
+| 5-04 | CH-53E (Cargo)             | Logistik und Frachttransport |
+| 5-05 | CH-53E (GAU-21)            | Logistik und bewaffneter Transport |
+| –    | F/A-18C Hornet (Single Seat) | Aircraft Station |
 
 </div>
+
+Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Slick` ist dem Logistikkatalog,
+`MH-60M DAP MLASS` dem QRF-Katalog zugeordnet.
 
 #### Wasserfahrzeuge
 
@@ -182,6 +228,39 @@
 | 6-02 | RHIB                |     8      | Unbewaffnetes Boot                 |
 | 6-03 | Schlauchboot        |     5      | Unbewaffnetes Boot                 |
 | 6-04 | MK.V SOC            |     33     | Patrouillenboot                    |
+
+</div>
+
+#### Begrenzter Gesamtbestand
+
+Die folgenden Werte sind die im TacOps-3-Inventory konfigurierten initialen Bestände. Verlorene oder zerstörte
+Fahrzeuge werden operativ für die folgenden Missionen berücksichtigt.
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-land-vehicle">
+
+| Kategorie | Fahrzeug/System | Initialer Bestand |
+|:----------|:----------------|------------------:|
+| Luftfahrzeuge | AH-1Z Viper | 4 |
+| Luftfahrzeuge | MH-60M DAP MLASS | 3 |
+| Luftfahrzeuge | UH-1Y Venom Gunship | 4 |
+| Panzerfahrzeuge | AAVP-7A1 (Amtrack) | 6 |
+| Panzerfahrzeuge | LAV-25 | 6 |
+| Panzerfahrzeuge | LAV-C2 | 3 |
+| SAM | AN/MPQ-105 Radar | 1 |
+| SAM | MIM-104 Patriot | 1 |
+| Radfahrzeuge | Buggy | 4 |
+| Radfahrzeuge | HUMVEE (M2) | 4 |
+| Radfahrzeuge | HUMVEE (TOW) | 2 |
+| Radfahrzeuge | LKW (Infanterie) | 8 |
+| Boote | MK.V SOC | 2 |
+| Boote | RHIB | 20 |
+| Boote | Schnellboot Minigun | 4 |
+| Logistikfahrzeuge | HUMVEE Cargo | 4 |
+| Logistikfahrzeuge | LKW (Cargo) | 6 |
+| Logistikfahrzeuge | LKW (Fuel) | 4 |
+| Logistik-Luftfahrzeuge | CH-53E (Cargo) | 2 |
+| Logistik-Luftfahrzeuge | CH-53E (GAU-21) | 2 |
+| Logistik-Luftfahrzeuge | UH-60M Slick (Cargo) | 2 |
 
 </div>
 

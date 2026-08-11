@@ -1,0 +1,70 @@
+flowchart TB
+
+%% ===== STYLES =====
+classDef company fill:#6A7F4E,color:#fff,stroke:#000,stroke-width:2px;
+classDef unit fill:#ffffff,color:#000,stroke:#000;
+classDef note fill:#E9DFC4,color:#000,stroke:#555;
+classDef request fill:#D6F0D6,color:#000,stroke:#3A6B3A;
+
+%% ======================================================
+%% CAS
+%% ======================================================
+
+subgraph CAS["CAS"]
+direction TB
+
+CASHELI["CAS Heli<br/>80"]
+CASJET["CAS Jet<br/>81"]
+
+subgraph PILOTS["Piloten"]
+direction LR
+
+PILOT1["Pilot<br/>82"]
+PILOT2["Pilot<br/>83"]
+
+end
+
+CASHELI --> PILOT1
+CASJET --> PILOT2
+
+end
+
+class CAS company
+class CASHELI,CASJET,PILOT1,PILOT2 unit
+
+%% ======================================================
+%% JTAC CONNECTION
+%% ======================================================
+
+JTAC1["JTAC Platoon 1<br/>112"]
+JTAC2["JTAC Platoon 2<br/>122"]
+
+CASHELI -. "CAS wechselt auf diesen JTAC Kanal" .-> JTAC1
+CASJET -. "CAS wechselt auf diesen JTAC Kanal" .-> JTAC2
+
+class JTAC1,JTAC2 unit
+
+%% ======================================================
+%% NOTES
+%% ======================================================
+
+NOTE1["Auf entsprechenden JTAC Kanal wechseln<br/>bei CAS"]
+
+NOTE2["Piloten bleiben intern<br/>auf ihrem Kanal"]
+
+NOTE1 --- NOTE2
+
+class NOTE1,NOTE2 note
+
+
+%% ======================================================
+%% REQUEST CHANNEL
+%% ======================================================
+
+REQ["REQUEST<br/>75"]
+
+REQ -.-> CASHELI
+REQ -.-> CASJET
+
+class REQ request
+

@@ -1,10 +1,6 @@
 ## Funkplan Triton Company
 
-![Image](./assets/tacops-3-general-radio-communication-plan.png)
-
-**Link: [Funkplan im Detail](./assets/tacops-3-general-radio-communication-plan.png)**
-
-## Funkplan als Tabelle
+Die folgende Tabelle entspricht der aktuellen TacOps-3-ACRE-Konfiguration.
 
 <style>
 .radio-communication-plan { 
@@ -23,21 +19,21 @@
   /* Leviathan and Barracuda */
   table tbody tr:nth-child(n+10):nth-child(-n+29) { background-color: var(--logistic-table-infantry-color);  }
   /* Alligator */
-  table tbody tr:nth-child(n+30):nth-child(-n+31) { background-color: var(--logistic-table-vehicle-color);  }
+  table tbody tr:nth-child(n+30):nth-child(-n+32) { background-color: var(--logistic-table-vehicle-color);  }
   /* Logistic */
-  table tbody tr:nth-child(n+32):nth-child(-n+34) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(n+33):nth-child(-n+36) { background-color: var(--logistic-table-logistic-only-color);  }
 
   /* Marine Raiders - Ghost Crab */
-  table tbody tr:nth-child(n+35):nth-child(-n+37) { background-color: var(--logistic-table-infantry-color);  }
+  table tbody tr:nth-child(n+37):nth-child(-n+39) { background-color: var(--logistic-table-infantry-color);  }
 
   /* QRF - Trident */
-  table tbody tr:nth-child(n+38):nth-child(-n+40) { background-color: var(--logistic-table-medic-color);  }
+  table tbody tr:nth-child(n+40):nth-child(-n+42) { background-color: var(--logistic-table-medic-color);  }
 
   /* Triton HQ internal */
-  table tbody tr:nth-child(41) { background-color: var(--logistic-table-lead-color);  }
+  table tbody tr:nth-child(43) { background-color: var(--logistic-table-lead-color);  }
 
   /* SSC and/or FOB */
-  table tbody tr:nth-child(n+42) { background-color: var(--logistic-table-logistic-only-color);  }
+  table tbody tr:nth-child(n+44) { background-color: var(--logistic-table-logistic-only-color);  }
 
 }
 </style>
@@ -77,27 +73,30 @@
 | 29          | BARRA CF2      | Barracuda Charlie Fireteam 2  |
 | 30          | ALLI PLT       | Alligator Platoon             |
 | 31          | ALLI PLT A     | Alligator Platoon Alternative |
-| 32          | CAPY PLT       | Capybara Platoon              |
-| 33          | CAPY ALPHA     | Capybara 1 inter              |
-| 34          | CAPY BRAVO     | Capybara 2 inter              |
-| 35          | GHOST CRAB     | Ghost Crab Alpha              |
-| 36          | GHOST CRAB AF1 | Ghost Crab Alpha Fireteam 1   |
-| 37          | GHOST CRAB AF2 | Ghost Crab Alpha Fireteam 2   |
-| 38          | TRIDENT PARA   | Trident intern                |
-| 39          | TRIDENT MIKE   | Trident Abgesessen            |
-| 40          | TRIDENT HOTEL  | Trident Helicopter            |
-| 41          | TRITON HQ      | Triton HQ internal            |
-| 42          | SSC FOB        | SSC und/oder FOB              |
-| 43          | US NAVY        | US Navy Schiffe               |
+| 32          | ALLI PLT B     | Alligator Platoon Alternative B |
+| 33          | CAPY PLT       | Capybara Platoon              |
+| 34          | CAPY ALPHA     | Capybara Alpha intern         |
+| 35          | CAPY BRAVO     | Capybara Bravo intern         |
+| 36          | CAPY CHARLIE   | Capybara Charlie intern       |
+| 37          | GHOST CRAB     | Ghost Crab Alpha              |
+| 38          | GHOST CRAB F1  | Ghost Crab Alpha Fireteam 1   |
+| 39          | GHOST CRAB F2  | Ghost Crab Alpha Fireteam 2   |
+| 40          | TRIDENT PARA   | Trident intern                |
+| 41          | TRIDENT MIKE   | Trident abgesessen            |
+| 42          | TRIDENT HOTEL  | Trident Helicopter            |
+| 43          | TRITON HQ      | Triton HQ intern              |
+| 44          | SSC FOB A      | SSC und/oder FOB Alpha        |
+| 45          | SSC FOB B      | SSC und/oder FOB Bravo        |
+| 46          | US NAVY        | US Navy Schiffe               |
 
 </div>
 
 ## Rauchfarben
 
-**Grün**: Freund Markierung  
-**Gelb**: JTAC Reserviert  
-**Rot**: Feind Markierung  
-**Blau**: LZ Markierung  
-**Orange**: JTAC Reserviert  
-**Violet**: QRF Reserviert
-**Weiß**: Verschleierung
+* **Grün**: Freund Markierung
+* **Gelb**: JTAC Reserviert
+* **Rot**: Feind Markierung
+* **Blau**: LZ Markierung
+* **Orange**: JTAC Reserviert
+* **Violet**: QRF Reserviert
+* **Weiß**: Verschleierung

@@ -1,0 +1,97 @@
+flowchart TB
+
+%% ===== STYLES =====
+classDef company fill:#6A7F4E,color:#fff,stroke:#000,stroke-width:2px;
+classDef unit fill:#ffffff,color:#000,stroke:#000;
+classDef note fill:#E9DFC4,color:#000,stroke:#555;
+classDef request fill:#D6F0D6,color:#000,stroke:#3A6B3A;
+classDef logistics fill:#ffffff,color:#000,stroke:#444,stroke-dasharray: 5 5;
+
+%% ======================================================
+%% LOGISTICS
+%% ======================================================
+
+subgraph LOG["Logistics"]
+direction TB
+
+LOGLEAD["Logistics Lead<br/>60"]
+
+subgraph LS1["Logistics Support 1"]
+direction TB
+
+GROUND1["Ground<br/>61"]
+AIR1["Air (alternativ)<br/>62"]
+
+end
+
+subgraph LS2["Logistics Support 2"]
+direction TB
+
+GROUND2["Ground<br/>63"]
+AIR2["Air (alternativ)<br/>64"]
+
+end
+
+LOGLEAD --> LS1
+LOGLEAD --> LS2
+
+end
+
+class LOG company
+class LOGLEAD,GROUND1,AIR1,GROUND2,AIR2 unit
+class LS1,LS2 logistics
+
+
+%% ======================================================
+%% REQUEST CHANNEL
+%% ======================================================
+
+REQ["REQUEST<br/>75"]
+
+REQ -.-> LOGLEAD
+
+class REQ request
+
+
+%% ======================================================
+%% COMPANY CHANNEL
+%% ======================================================
+
+COMPANY["Company Kanal<br/>70"]
+
+COMPANY -.-> LOGLEAD
+
+class COMPANY unit
+
+
+%% ======================================================
+%% SUPPORT TARGETS
+%% ======================================================
+
+P1["Platoon 1"]
+P2["Platoon 2"]
+
+GROUND1 -. "Belieferung" .-> P1
+GROUND2 -. "Belieferung" .-> P2
+
+AIR1 -. "Lufttransport" .-> P1
+AIR2 -. "Lufttransport" .-> P2
+
+class P1,P2 unit
+
+
+%% ======================================================
+%% NOTES
+%% ======================================================
+
+NOTE1["Auf entsprechenden Kanal wechseln<br/>bei Support"]
+
+NOTE2["Auf entsprechenden Kanal wechseln<br/>bei Belieferung"]
+
+NOTE3["Mindestens einer überwacht<br/>den Company Kanal"]
+
+NOTE1 --- NOTE2
+NOTE2 --- NOTE3
+
+class NOTE1,NOTE2,NOTE3 note
+

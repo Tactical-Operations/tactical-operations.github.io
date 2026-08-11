@@ -1,0 +1,133 @@
+flowchart TB
+
+%% ===== STYLES =====
+classDef platoon fill:#6A7F4E,color:#fff,stroke:#000,stroke-width:2px;
+classDef squad fill:#ffffff,color:#000,stroke:#000;
+classDef team fill:#DCE6F1,color:#000,stroke:#000;
+classDef note fill:#E9DFC4,color:#000,stroke:#555;
+
+%% ======================================================
+%% PLATOON
+%% ======================================================
+
+subgraph P1["Marine Rifle Platoon 1"]
+direction TB
+
+PL["Platoon Lead<br/>110"]
+PS["Platoon Squad<br/>111"]
+JTAC["JTAC<br/>112"]
+
+PS --> PL
+JTAC --> PL
+
+
+%% ======================================================
+%% SQUAD 1
+%% ======================================================
+
+subgraph SQ11["Marine Rifle Squad 1"]
+direction TB
+
+SL11["Squad Lead<br/>113"]
+
+subgraph FT111["Fire Team 1"]
+direction LR
+
+TL111["Team Lead<br/>114"]
+AR111["Automatic Rifleman<br/>115"]
+R111["Rifleman<br/>116"]
+AT111["AT Rifleman<br/>117"]
+
+TL111 --> AR111
+TL111 --> R111
+TL111 --> AT111
+
+end
+
+subgraph FT112["Fire Team 2"]
+direction LR
+
+TL112["Team Lead<br/>118"]
+AR112["Automatic Rifleman<br/>119"]
+R112["Rifleman<br/>120"]
+AT112["AT Rifleman<br/>121"]
+
+TL112 --> AR112
+TL112 --> R112
+TL112 --> AT112
+
+end
+
+SL11 --> FT111
+SL11 --> FT112
+
+end
+
+
+%% ======================================================
+%% SQUAD 2
+%% ======================================================
+
+subgraph SQ12["Marine Rifle Squad 2"]
+direction TB
+
+SL12["Squad Lead<br/>123"]
+
+subgraph FT121["Fire Team 1"]
+direction LR
+
+TL121["Team Lead<br/>124"]
+AR121["Automatic Rifleman<br/>125"]
+R121["Rifleman<br/>126"]
+AT121["AT Rifleman<br/>127"]
+
+TL121 --> AR121
+TL121 --> R121
+TL121 --> AT121
+
+end
+
+subgraph FT122["Fire Team 2"]
+direction LR
+
+TL122["Team Lead<br/>128"]
+AR122["Automatic Rifleman<br/>129"]
+R122["Rifleman<br/>130"]
+AT122["AT Rifleman<br/>131"]
+
+TL122 --> AR122
+TL122 --> R122
+TL122 --> AT122
+
+end
+
+SL12 --> FT121
+SL12 --> FT122
+
+end
+
+
+%% ======================================================
+%% PLATOON CONNECTIONS
+%% ======================================================
+
+PL --> SQ11
+PL --> SQ12
+
+end
+
+%% ======================================================
+%% CLASSES
+%% ======================================================
+
+class P1 platoon
+class PL,PS,JTAC squad
+
+class SL11,SL12 squad
+
+class TL111,AR111,R111,AT111 team
+class TL112,AR112,R112,AT112 team
+
+class TL121,AR121,R121,AT121 team
+class TL122,AR122,R122,AT122 team
+

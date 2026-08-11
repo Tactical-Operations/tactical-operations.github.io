@@ -14,7 +14,7 @@ gebündelt und nachvollziehbar zur Verfügung stellen.
 Es ist so aufgebaut, dass zunächst die allgemeinen Informationen für alle Spieler zugänglich sind, gefolgt von
 spezifischen Abschnitten für die jeweiligen Rollen:
 
-* **Alle Spieler**: Organisatorisches, Medic-Settings, Funkplan Triton Company
+* **Alle Spieler**: Organisatorisches, Medic-Settings, Verstärkungsslots und Spielerklassen, Funkplan Triton Company
 * **Führungskräfte**: Luftunterstützung, Logistikunterstützung
 * **Air Force**: Air Force, Operationsübersicht, Wichtige Infos, JTAC, Piloten
 * **Logistik**: Führungskräfte, Logistikunterstützung, Logistikbestellkatalog
@@ -23,10 +23,9 @@ spezifischen Abschnitten für die jeweiligen Rollen:
 
 {% include_relative organisational.md %}
 
-### Medic Settings
+{% include_relative medicdetailinformation.md %}
 
-* Wir benutzen ACE Medical
-* Coming soon ...
+{% include_relative playerclasses.md %}
 
 {% include_relative radio-communication-plan.md %}
 

@@ -1,0 +1,73 @@
+flowchart TB
+
+%% ===== STYLES =====
+classDef company fill:#6A7F4E,color:#fff,stroke:#000,stroke-width:2px;
+classDef unit fill:#ffffff,color:#000,stroke:#000;
+classDef note fill:#E9DFC4,color:#000,stroke:#555;
+classDef request fill:#D6F0D6,color:#000,stroke:#3A6B3A;
+
+%% ======================================================
+%% COMPANY HQ
+%% ======================================================
+
+subgraph COMPANY["Company"]
+direction TB
+
+HQ["Company HQ Squad<br/>70"]
+CO["Company CO<br/>71"]
+JTAC["JTAC Company<br/>72"]
+
+HQ --> CO
+HQ --> JTAC
+
+end
+
+class COMPANY company
+class HQ,CO,JTAC unit
+
+
+%% ======================================================
+%% LAV SECTION
+%% ======================================================
+
+subgraph LAV["LAV Section"]
+direction LR
+
+LAV1["LAV Crew<br/>73"]
+LAV2["LAV Crew<br/>74"]
+
+LAV1 --- LAV2
+
+end
+
+class LAV company
+class LAV1,LAV2 unit
+
+
+%% ======================================================
+%% REQUEST NETWORK
+%% ======================================================
+
+REQ["REQUEST<br/>75"]
+
+NOTE1["Einer überwacht COMPANY Kanal<br/>für Lagebild"]
+
+REQ -.-> HQ
+REQ -.-> CO
+REQ -.-> JTAC
+
+REQ --- NOTE1
+
+class REQ request
+class NOTE1 note
+
+
+%% ======================================================
+%% CONNECTIONS
+%% ======================================================
+
+CO --> LAV
+
+linkStyle 0 stroke:#1F4E79,stroke-width:2px
+linkStyle 1 stroke:#1F4E79,stroke-width:2px
+

@@ -1,0 +1,87 @@
+flowchart TB
+
+%% ===== STYLES =====
+classDef company fill:#6A7F4E,color:#fff,stroke:#000,stroke-width:2px;
+classDef unit fill:#ffffff,color:#000,stroke:#000;
+classDef note fill:#E9DFC4,color:#000,stroke:#555;
+classDef request fill:#D6F0D6,color:#000,stroke:#3A6B3A;
+
+%% ======================================================
+%% PARARESCUE
+%% ======================================================
+
+subgraph PARA["Pararescue"]
+direction TB
+
+HELI["Pararescue Heli<br/>90"]
+
+subgraph TEAM["Pararescue Team"]
+direction TB
+
+LEAD["Team Lead<br/>91"]
+
+M1["Operator<br/>92"]
+M2["Operator<br/>93"]
+M3["Operator<br/>94"]
+
+LEAD --> M1
+LEAD --> M2
+LEAD --> M3
+
+end
+
+HELI --> LEAD
+
+end
+
+class PARA company
+class HELI,LEAD,M1,M2,M3 unit
+
+
+%% ======================================================
+%% COMPANY CONNECTION
+%% ======================================================
+
+COMPANY["Company Kanal<br/>70"]
+
+COMPANY -. "Company Lagebild" .-> HELI
+
+class COMPANY unit
+
+
+%% ======================================================
+%% REQUEST CHANNEL
+%% ======================================================
+
+REQ["REQUEST<br/>75"]
+
+REQ -.-> LEAD
+
+class REQ request
+
+
+%% ======================================================
+%% NOTES
+%% ======================================================
+
+NOTE1["Auf Company Kanal wechseln<br/>für Lagebild"]
+
+NOTE2["Bei Einsatz auf entsprechenden<br/>Platoon Kanal wechseln"]
+
+NOTE1 --- NOTE2
+
+class NOTE1,NOTE2 note
+
+
+%% ======================================================
+%% PLATOON SUPPORT
+%% ======================================================
+
+P1["Platoon 1<br/>110"]
+P2["Platoon 2<br/>120"]
+
+LEAD -. "Support" .-> P1
+LEAD -. "Support" .-> P2
+
+class P1,P2 unit
+
