@@ -21,7 +21,7 @@ Ein Teil der Triton Company wurde als Einsatztruppe zum Mull of Kintyre beordert
 Die Einsatztruppe der Triton Company ist am Mull of Kintyre angekommen.
 Diese sollen den Vorstoß der Truppen verzögern und es ermöglichen Material auszufliegen.
 
-**Zeitpunkt des Evaluationsevents von TacOps 3**
+**Zeitpunkt des Vorevents von TacOps 3 am Freitag, dem 11.09.2026**
 
 <div markdown="1">
 

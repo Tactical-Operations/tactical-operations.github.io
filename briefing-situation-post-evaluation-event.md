@@ -8,6 +8,7 @@ Die Verbindung vom Nordatlantik durch den Nordkanal ist damit gesperrt.
 Im Zuge der NATO-Unterstützung ist die USMC beauftragt, die Verbindung vom Nordatlantik durch den Nordkanal zwischen Nordirland und Schottland freizumachen.
 Am Mull of Kintyre sind Radaranlagen und Schiff-/Flugabwehrbatterien der CSAT stationiert, diese soll Triton Company vernichten und die Halbinsel sichern.
 
-**Heute** Ein Teil der Triton Company ist am Mull of Kintyre angekommen und beginnt die Operation: **Clear Sky**.
+**Freitag, 25.09.2026:** Ein Teil der Triton Company ist am Mull of Kintyre angekommen und beginnt die Operation:
+**Clear Sky**.
 
 **Zeitpunkt des Hauptevents von TacOps 3 - Clear Sky**

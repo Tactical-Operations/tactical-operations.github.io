@@ -11,28 +11,30 @@ title: TacOps 3 - Clear Sky - Wichtiges im Überblick
 Zeitraum um 2020  
 **Gespielte Fraktion:** USMC  
 **Feindliche Fraktion:** CSAT  
+**Karte:** Mull of Kintyre
 
 ## 💻 Arma 3 Server   
-<div markdown="1" class="hidden">
-**Modpaket:** [TacOps\_2\_Modset.html]()  
-</div>
 IP: arma.tactical-operations.de  
 Port: 2302  
 Passwort: coming_soon  
 
 ## 🎤 Teamspeak  
 IP: ts.tactical-operations.de  
-Kommunikation: ACRE  
+Kommunikation: ACRE2
 
 ## 🎫 Anmeldung
 * **Jeder** kann sich anmelden, Details findest du unter [Anmeldung](./enrolment.html).
 
-## 🗡️ Evaluationsevent
-**Wann:** 33.33.2025, siehe [Termine](./schedule.html).  
+## 🗡️ Vorevent
+**Wann:** Freitag, 11.09.2026, siehe [Termine](./schedule.html).
+
 **Medizinisches System:** ACE Medical 
 
 ## ⚔️ Hauptevent
-**Wann:** 33.33.2025 und 33.33.2025, siehe [Termine](./schedule.html).   
+**Wann:** Freitag, 25.09.2026 bis Sonntag, 27.09.2026, siehe [Termine](./schedule.html).
+
+**Missionen:** Freitagabend sowie Samstagnachmittag und Samstagabend.
+
 **Medizinisches System:** ACE Medical 
 
 ## 📃 Kontakt (Discord)  
@@ -44,9 +46,10 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [TacOps] Bele** wenden.
 
 ## 🛠️ Modpaket und Weiteres
-**Vorab Modpaket:** [Vorab: TacOps 3 - 08112025.html](https://drive.google.com/file/d/1Fn8OQ-dI5wrjaDBj5UCelwoJyfKGM-RA/view?usp=sharing)  
-**Slotliste:** [Vorab: TacOps\_3\_Slotliste](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=drive_link)   
-**Funkplan:** [Vorab: TacOps\_3\_Funkplan](https://drive.google.com/file/d/18kGQ3QzlWxrkpkngCXp2hkojQMfTwLdz/view?usp=drive_link)   
+**Slotliste:** [TacOps\_3\_Slotliste](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
+
+**Funkplan:** [TacOps\_3\_Funkplan](./material.html#funkplan-triton-company)
+
 **Fahrzeugliste:** [Vorab: TacOps\_3\_Fahrzeugliste](https://docs.google.com/spreadsheets/d/1F2uIgmzhfiVLH5ITcG3Vu5K1g3Oa7MxA0DLqqNaW5mM/edit?usp=sharing)   
 <div markdown="1" class="hidden">
 **Addon-Options**: [In Bearbeitung: TacOps\_3\_Addon\_Options](./coming-soon.html)   

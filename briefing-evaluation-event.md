@@ -3,17 +3,17 @@ layout: default
 title: TacOps 3 - Clear Sky - Briefing
 ---
 
-# Clear Sky - Briefing - Evaluationsevent
+# Clear Sky - Briefing - Vorevent
 
 ## Allgemeine Situation
 
 {% include_relative briefing-situation-pre-evaluation-event.md %}
 
-**Vor 1 Tagen:** Zeitpunkt des Evaluationsevents
+**Freitag, 11.09.2026:** Zeitpunkt des Vorevents
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Fr/Sa Abend       | 33.33.2025    |
+| Ablauf \- Freitagabend      | 11.09.2026    |
 |-----------------------------|:--------------|
 | Slotting/Joinen auf Server  | ab 18:00 Uhr  |
 | Führungsbesprechung Ingame  | 18:30 Uhr     |
@@ -22,7 +22,7 @@ title: TacOps 3 - Clear Sky - Briefing
 | Missionsende                | 23:00 Uhr     |
 </div>
 
-# LADEF - Evaluationsevent
+# LADEF - Vorevent
 
 ## Allgemeine Lage
 
@@ -71,7 +71,7 @@ coming soon ...
 
 #### **Missionabschluss in Nachbesprechung im Teamspeak**  
 
-| Ablauf \- Fr/Sa Abend           | 33.33.2025    |
+| Ablauf \- Freitagabend          | 11.09.2026    |
 |---------------------------------|:--------------|
 | Missionsende                    | 23:00 Uhr     |
 | Gruppenintern Feedback sammeln  | bis 23:30 Uhr |

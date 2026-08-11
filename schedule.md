@@ -16,21 +16,23 @@ Folgende Übungstermine werden angesetzt:
 
 * Einspieltermin für Airstack: Termin wird noch veröffentlicht
 
-## Evaluationsevent – Freitag/Samstag 33.33.2025
+## Vorevent – Freitag, 11.09.2026
 
-Die **Anmeldung** für das Evaluationsevent ist **ab dem 33.3.2025 - 19:00 Uhr** geöffnet,
-siehe [Anmeldung](./enrolment.html).  
-Das Evaluationsevent findet am 21.12.2024 statt.  
+Informationen zur Anmeldung findest du unter [Anmeldung](./enrolment.html).
+
+Das Vorevent findet am **Freitag, dem 11.09.2026**, statt.
+
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.
 
-* Slotliste für
-  Evaluationsevent: [Slotliste - Google Sheet ](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?gid=1057651372#gid=1057651372)
+* [Slotliste für das Vorevent](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
 
 #### Ablauf
 
+Die folgenden Uhrzeiten sind noch zu bestätigen.
+
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstag Abend         | 33.33.2025    |
+| Ablauf \- Freitagabend          | 11.09.2026    |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
 | Führungsbesprechung Ingame      | 18:30 Uhr     |
@@ -46,30 +48,30 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 * Es gibt eine **kleine** Umfrage für alle Teilnehmer nach jeder Mission. Wir freuen uns über euer ehrliches Feedback.
 
-## Hauptevent – Freitag 33.33.2025, Samstag Nachmittag und Samstag Abend 33.33.2025
+## Hauptevent – Freitag, 25.09.2026 bis Sonntag, 27.09.2026
 
-Die **Anmeldung** für das Hauptevent ist **ab dem 33.33.2024 - 19:00 Uhr** geöffnet,
-siehe [Anmeldung](./enrolment.html).
+Der Beginn der Anmeldung wird noch bekannt gegeben. Weitere Informationen findest du unter
+[Anmeldung](./enrolment.html).
 
-Das Hauptevent findet in 3 Schichten statt:
-> Schicht 1 **Freitag Abend** 33.33.2025 mit Slotten ab 18:00 – Mission bis 23:00 Uhr  
-> Schicht 2 **Samstag Nachmittag** 33.33.2025 mit Slotten ab 11:00 – Mission bis 18:00 Uhr  
-> Schicht 3 **Samstag Abend** 33.33.2025 mit Slotten ab 18:15 - Mission bis 23:30 Uhr
+Für das Hauptevent sind drei Missionsschichten bestätigt:
+
+* Mission 1: **Freitagabend, 25.09.2026**
+* Mission 2: **Samstagnachmittag, 26.09.2026**
+* Mission 3: **Samstagabend, 26.09.2026**
+
+Der Ablauf für **Sonntag, den 27.09.2026**, wird noch bekannt gegeben.
 
 Ziel ist es, Spass zu haben.
 
-* Slotliste für Freitag
-  Abend: [Slotliste - Google Sheet ](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?gid=1719060869#gid=1719060869)
-* Slotliste für Samstag
-  Nachmittag: [Slotliste - Google Sheet ](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?gid=923137360#gid=923137360)
-* Slotliste für Samstag
-  Abend: [Slotliste - Google Sheet ](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?gid=1436794912#gid=1436794912)
+* [Slotliste für alle Missionsschichten](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
 
-### Schicht 1 - Freitag Abend
+Die folgenden Uhrzeiten sind noch zu bestätigen.
+
+### Mission 1 – Freitagabend, 25.09.2026
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Freitag Abend         | 33.33.2025    |
+| Ablauf \- Freitagabend          | 25.09.2026    |
 |---------------------------------|:--------------|
 | Slotting/Joinen auf Server      | ab 18:00 Uhr  |
 | Führungsbesprechung Ingame      | 18:30 Uhr     |
@@ -81,11 +83,11 @@ Ziel ist es, Spass zu haben.
 
 </div>
 
-### Schicht 2 – Samstag Nachmittag
+### Mission 2 – Samstagnachmittag, 26.09.2026
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstag Nachmittag | 33.33.2025    |
+| Ablauf \- Samstagnachmittag  | 26.09.2026    |
 |------------------------------|:--------------|
 | Slotting/Joinen auf Server   | ab 11:00 Uhr  |
 | Führungsbesprechung Ingame   | 11:30 Uhr     |
@@ -96,11 +98,11 @@ Ziel ist es, Spass zu haben.
 
 > Technischer Serverneustart: 17:00 Uhr bis 18:15 Uhr
 
-### Schicht 3 – Samstag Abend
+### Mission 3 – Samstagabend, 26.09.2026
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstag Abend         | 33.33.2025    |
+| Ablauf \- Samstagabend          | 26.09.2026    |
 |---------------------------------|:--------------|
 | Slotting/Joinen auf Server      | ab 18:30 Uhr  |
 | Führungsbesprechung             | 19:00 Uhr     |

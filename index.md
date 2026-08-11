@@ -24,7 +24,15 @@ Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWw
 
 ## Nächstes Event
 
-Das nächste Event und die Termine dafür findest du unter [Termine](./schedule.html).
+**TacOps 3 - Clear Sky findet vom 25. bis 27.09.2026 statt.**
+
+Wir spielen auf **Mull of Kintyre** als **USMC gegen CSAT** mit **ACE Medical** und **ACRE2**.
+
+Das Vorevent findet am **Freitag, dem 11.09.2026**, statt. Bestätigt sind außerdem drei Missionsschichten am
+Freitagabend, Samstagnachmittag und Samstagabend.
+
+* [Termine und Ablauf](./schedule.html)
+* [Slotliste](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
 
 ## Teilnahme
 
