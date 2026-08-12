@@ -7,6 +7,6 @@ Im Rückraum verwalten die Piloten ihr Luftfahrzeug selbstständig und übernehm
 Auftanken.
 
 **Trident Mike** stellt die eigentliche Quick Response Force und dient zugleich als medizinische
-Unterstützungseinheit. CAS-Unterstützung erfolgt durch einen Pararescue-Helikopter.
+Unterstützungseinheit. CAS-Unterstützung erfolgt durch Trident Hotel.
 
-**Wir hoffen, dass der Quick Response Force (QRF) damit den Spielfluss und den Spielspaß für euch erhöht.**
+**Wir hoffen, dass die Quick Response Force (QRF) damit den Spielfluss und den Spielspaß für euch erhöht.**

@@ -8,7 +8,7 @@
 
 #### QRF:
 
-* Die QRF kann jederzeit angefordert werden, unabhängig von Verwundetenzahl oder Lage, er steht in der Dringlichkeit über allen anderen Einsatztypen.
+* Die QRF kann jederzeit angefordert werden, unabhängig von Verwundetenzahl oder Lage; sie steht in der Dringlichkeit über allen anderen Einsatztypen.
 * Die QRF kann sowohl für den Verwundetentransport (Doc-Team sitzt nicht ab), als auch für medizinische Unterstützung (Doc-Team sitzt ab) angefordert werden.
 * Die QRF stellt ebenfalls Feuerunterstützung selbstständig zur Verfügung, um Feuerüberlegenheit herzustellen, Truppe zu unterstützen und Verwundete zu behandeln.
 /* * Eine Einweisung der QRF Besatzung ist an der LZ notwendig. */

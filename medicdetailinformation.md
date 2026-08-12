@@ -7,7 +7,7 @@ können sich wieder öffnen, bis sie genäht wurden. Erweiterte Diagnose und Med
 
 | Behandlung | Berechtigung | Ort und Einschränkungen |
 |:------------|:-------------|:---------------------------|
-| Bandagieren, Tourniquet und grundlegende Behandlung | Alle Spieler | Material wird zuerst aus dem Inventar des Patienten genommen. |
+| Bandagieren, Tourniquet, Schiene und grundlegende Behandlung | Alle Spieler | Material wird zuerst aus dem Inventar des Patienten genommen. |
 | Epinephrin | Alle Spieler | Überall einsetzbar. |
 | Infusionen | Medic oder Doctor | Überall; Selbstbehandlung ist bei entsprechender Qualifikation erlaubt. |
 | Nähen mit Surgical Kit | Medic oder Doctor | Überall; Selbstbehandlung ist erlaubt. Das Surgical Kit wird nicht verbraucht. |
