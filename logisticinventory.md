@@ -4,7 +4,7 @@ Das Logistikinventar dokumentiert die verfügbaren Fahrzeuge und Systeme. Begren
 **pro Mission**: Jede Mission beginnt mit dem aufgeführten Anfangsbestand. Verlorene oder zerstörte Fahrzeuge
 reduzieren den verfügbaren Bestand nur innerhalb der laufenden Mission.
 
-### Begrenzter Gesamtbestand
+#### Begrenzter Gesamtbestand
 
 <style>
 .logistic-table-logistic-inventory {
@@ -59,7 +59,7 @@ reduzieren den verfügbaren Bestand nur innerhalb der laufenden Mission.
 
 </div>
 
-### Unbegrenzter Bestand
+#### Unbegrenzter Bestand
 
 Die folgenden Fahrzeuge und Geräte sind im Inventory nicht mengenbegrenzt:
 
@@ -76,7 +76,7 @@ Die folgenden Fahrzeuge und Geräte sind im Inventory nicht mengenbegrenzt:
 
 </div>
 
-### Fahrzeug- und Transportkapazitäten
+#### Fahrzeug- und Transportkapazitäten
 
 Die **Besatzungsplätze** umfassen alle Plätze, die zur Bedienung des Fahrzeugs vorgesehen sind, beispielsweise
 Fahrer, Pilot, Kommandant und Waffenschützen. **Mitfahrer-/Passagierplätze** sind die darüber hinaus verfügbaren
