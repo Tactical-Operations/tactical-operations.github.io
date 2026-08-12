@@ -114,7 +114,7 @@
 
 </div>
 
-Logistik für RRR auf dem *LOGISTIC* Funkkanal
+Logistik für RRR auf dem *LOGISTIC*-Funkkanal
 
 #### Karten Markierungen
 
@@ -129,12 +129,12 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 #### Ablauf:
 
-1. Eine Anfrage für Luftunterstützung wird auf dem *REQUEST* Funkkanal an die jeweilige Einheit gestellt.
+1. Eine Anfrage für Luftunterstützung wird auf dem *REQUEST*-Funkkanal an die jeweilige Einheit gestellt.
    Dort wird nur geklärt: wer? Funkkanal? Weitere Klärungen auf dem jeweiligen JTAC-Funkkanal.
     * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
       Funkkanal Barracuda JTAC. Ende.
 2. Das Luftfahrzeug meldet sich auf dem Funkkanal JTAC an.
-3. Klärung der Anfrage wird auf dem JTAC Funkkanal abgehandelt - Aufträge werden durchgeführt
+3. Klärung der Anfrage wird auf dem JTAC-Funkkanal abgehandelt - Aufträge werden durchgeführt
 4. Sobald die Aufträge durchgeführt wurden, entlässt der JTAC die Einheit.
 
 #### Wichtige Punkte
@@ -147,13 +147,13 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 
 #### Ablauf:
 
-1. Das Luftfahrzeug wird auf dem *REQUEST* Funkkanal angefragt.
+1. Das Luftfahrzeug wird auf dem *REQUEST*-Funkkanal angefragt.
     * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
       Funkkanal Barracuda JTAC. Ende.
 2. Das Luftfahrzeug meldet sich auf dem Funkkanal des JTACs an, bei CAS Fliegern müssen auch die Waffen aufgezählt
    werden.
 3. Bis zum Abmelden stehen die Luftfahrzeuge unter der Kontrolle des JTACs
-4. Nach abgeschlossener Mission wird der JTAC Funkkanal verlassen und sich wieder auf dem *REQUEST* Funkkanal
+4. Nach abgeschlossener Mission wird der JTAC-Funkkanal verlassen und sich wieder auf dem *REQUEST*-Funkkanal
    angemeldet.
 
 #### Wichtige Punkte
@@ -162,7 +162,7 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
   Piloten-zu-Piloten-Kommunikation.
 * Auch am Boden sollte jede Einheit auf dem Funkkanal *AIR SPACE* erreichbar sein.
 * Alle Luftfahrzeuge müssen vor dem Starten den näheren Luftraum mithilfe des cTabs auf landende Helikopter prüfen, ggf.
-  Absprechen auf dem *AIR SPACE* Funkkanal.
+  Absprechen auf dem *AIR SPACE*-Funkkanal.
 * Bei der Landung auf Schiffen müssen die Positionslichter aktiviert werden zur Kenntlichmachung des Luftfahrzeuges.
 * Das Durchfliegen einer nicht zugewiesenen ACA oder HA sollte vermieden werden.
 

@@ -63,10 +63,10 @@
 |  Nr  | Infanterieversorgung                          | Beschreibung/Inhalt                                                                                                          |
 |:----:|:----------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|
 | 1-01 | Infanteriemunition (Pro Squad)                | Gewehrmunition für alle Infanterierollen                                                                                     |
-| 1-02 | Panzerabwehr                                  | 2x M136 (HEAT), Raketen für MAAWS Werfer                                                                                     |
-| 1-03 | Flugabwehr (Stingerkiste)                     | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen                                                                                  |
-| 1-04 | Granaten (inkl. für Granatwerfer)             | Explosiv- und Rauchgranaten (inkl. 40mm)                                                                                      |
-| 1-05 | Nachtkampf-Ausstattung                        | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope                                                                      |
+| 1-02 | Panzerabwehr                                  | 2x M136 (HEAT), Raketen für MAAWS-Werfer                                                                                     |
+| 1-03 | Flugabwehr (Stingerkiste)                     | 2x FIM-92-Stinger-Werfer, 6x FIM-92-Raketen                                                                                  |
+| 1-04 | Granaten (inkl. für Granatwerfer)             | Explosiv- und Rauchgranaten (inkl. 40 mm)                                                                                     |
+| 1-05 | Nachtkampf-Ausstattung                        | NVGs, Flares (inkl. 40 mm), Knicklichter, IR-Stroboskope                                                                     |
 | 1-06 | Sprengstoff/Minen-Kiste                       | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
 | 1-07 | Funkturm Kiste (ACRE, über ACE aufbauen)      | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (ersetzt SATCOMS)                                                     |
 | 1-08 | Führungskiste                                 | Spezialkiste mit Tablets, Tabs, Rauchgranaten und Lasermarkierer                                                             |
@@ -97,7 +97,7 @@
 | 2-03 | Fahrzeugmunition-Kiste                            | Kiste zum Aufmunitionieren von Fahrzeugen.                                |
 | 2-03 | Fahrzeugmunition-Palette                          | Palette zum Aufmunitionieren von Fahrzeugen oder zum Ändern der Pylonen. |
 | 2-04 | Fahrzeugreparatur-Palette                          | Frachtpalette, um Fahrzeuge komplett zu reparieren                        |
-| 2-05 | Treibstoff-Palette                                 | Frachtpalette, um Fahrzeuge aufzutanken (3406l)                           |
+| 2-05 | Treibstoff-Palette                                 | Frachtpalette, um Fahrzeuge aufzutanken (3.406 l)                         |
 | 2-06 | Box voll mit Ersatzreifen                         | Frachtkiste, vorbefüllt mit 20 Ersatzreifen                               |
 | 2-07 | Hoist                                              | Seilwinde für kompatible Hubschrauber.                                    |
 | 2-08 | FlexibleTank                                       | Flexibler Tank für die Treibstoffversorgung.                              |
@@ -187,7 +187,7 @@ Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Sl
 
 |  Nr  | Wasserfahrzeuge     | Sitzplätze | Beschreibung/Inhalt                |
 |:----:|:--------------------|:----------:|------------------------------------|
-| 6-01 | Schnellboot Minigun |     11     | Kampfboot mit GMW und 7.62 Minigun |
+| 6-01 | Schnellboot Minigun |     11     | Kampfboot mit GMW und 7,62-mm-Minigun |
 | 6-02 | RHIB                |     8      | Unbewaffnetes Boot                 |
 | 6-03 | Schlauchboot        |     5      | Unbewaffnetes Boot                 |
 | 6-04 | MK.V SOC            |     33     | Patrouillenboot                    |
@@ -212,8 +212,8 @@ Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Sl
 | 7-03 | \+ Integration von 1-2 Helipads            | \~ 15 Min  | Inkl. Versorgung für Helis                                                              |
 | 7-04 | \+ Integration eines Feldlazaretts         | \~ 15 Min  | Medizinisches Gebäude                                                                   |
 | 7-05 | Kleine FOB                                 | \~ 120 Min | Beinhaltet 7-03, 7-04 und ein Lager für Ersatzfahrzeuge                                 |
-| 7-06 | Minenfeld AP je 100m                       | \~ 30 Min  | Linie, wird ausgelegt mit Minenwerfern                                                  |
-| 7-07 | Minenfeld AT je 50m                        | \~ 30 Min  | Minenfeld mit AT-Minen; Auslegung ggf. im Zickzackmuster                                |
+| 7-06 | Minenfeld AP je 100 m                      | \~ 30 Min  | Linie, wird ausgelegt mit Minenwerfern                                                  |
+| 7-07 | Minenfeld AT je 50 m                       | \~ 30 Min  | Minenfeld mit AT-Minen; Auslegung ggf. im Zickzackmuster                                |
 | 7-08 | Kleine Fire Support Base                   | \~ 60 Min  | Bunkerstellung mit mehreren schweren Waffen                                             |
 | 7-09 | Flexible Bauvorhaben                       |  Variabel  | Stacheldraht-Konstruktionen, Stellungen, Fahrzeugsperren, Aufbau von Fallen, Brückenbau |
 

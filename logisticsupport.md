@@ -15,9 +15,9 @@ Sollten Wracks im Wasser versinken, werden diese an die Küste zum Bergen versch
 #### Aufträge der Logistik
 
 * Versorgung der Infanterie für einen konsistenten Spielfluss
-* Versorgung & Wartung von Fahrzeugen  (Anmerkung: Lufteinheiten können selbst ihr Material warten)
-* Bau von Stellungen, Versorgungspunkte usw.
-* Verwaltung von Fahrzeugen, da nur eine begrenzte Menge dieser vorhanden ist.
+* Versorgung und Wartung von Fahrzeugen (Anmerkung: Lufteinheiten können ihr Material selbst warten)
+* Bau von Stellungen, Versorgungspunkten usw.
+* Verwaltung von Fahrzeugen, da davon nur eine begrenzte Menge vorhanden ist.
 * Organisiert den Transport von Nachzüglern und neu gespawnten Spielern nach ihrem Versterben.
 
 Sämtliche Möglichkeiten der Logistik sind im Bestellkatalog aufgelistet.
