@@ -16,7 +16,7 @@ title: TacOps 3 - Clear Sky - Briefing
 | Ablauf \- Freitagabend      | 11.09.2026    |
 |-----------------------------|:--------------|
 | Slotting/Joinen auf Server  | ab 18:00 Uhr  |
-| Führungsbesprechung Ingame  | 18:30 Uhr     |
+| Führungsbesprechung ingame  | 18:30 Uhr     |
 | **Start/Einleitende Worte** | **19:00 Uhr** |
 | Missionsstart               | 19:15 Uhr     |
 | Missionsende                | 23:00 Uhr     |
@@ -69,7 +69,7 @@ coming soon ...
 
 <div markdown="1" class="table-blue">
 
-#### **Missionabschluss in Nachbesprechung im Teamspeak**  
+#### **Missionabschluss in Nachbesprechung im TeamSpeak**  
 
 | Ablauf \- Freitagabend          | 11.09.2026    |
 |---------------------------------|:--------------|

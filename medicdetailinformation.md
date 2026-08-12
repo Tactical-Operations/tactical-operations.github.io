@@ -16,7 +16,7 @@ können sich wieder öffnen, bis sie genäht wurden. Erweiterte Diagnose und Med
 Die auswählbaren **Corpsman-Klassen** besitzen Doctor-Qualifikation. Medizinische Fahrzeuge und Einrichtungen erhöhen
 die Behandlungsqualifikation um eine Stufe: untrainierte Spieler gelten dort als Medic, Medics als Doctor.
 
-### Bewusstlosigkeit und Wiederbelebung
+### Bewusstlosigkeit und Behandlung
 
 * Es gibt keine feste allgemeine Liegezeit.
 * Sobald die Vitalwerte stabil sind, wird alle 15 Sekunden mit einer Chance von 15 % geprüft, ob der Patient aufwacht.

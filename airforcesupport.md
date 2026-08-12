@@ -3,7 +3,7 @@
 #### Ablauf:
 
 1. Eine Anforderung für CAS, QRF oder A-Recon wird durch den JTAC an die jeweilige Einheit über den *REQUEST* Funkkanal gemacht.
-2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf den Funkkanal des JTACs, dort wird das weitere Vorgehen koordiniert
+2. Im Anschluss begibt sich das angeforderte Luftfahrzeug auf den Funkkanal des JTACs. Dort wird das weitere Vorgehen koordiniert.
 3. Sobald die Luftunterstützung nicht mehr benötigt wird, meldet sich diese wieder von dem Funkkanal des JTACs ab und auf dem *REQUEST* Funkkanal an.
 
 #### QRF:
@@ -15,12 +15,12 @@
 
 #### CAS:
 
-* CAS kann jederzeit angefordert werden unterliegt jedoch den ROE.
+* CAS kann jederzeit angefordert werden, unterliegt jedoch den ROE.
 * CAS beinhaltet die bewaffnete Luftnahunterstützung und hilft den kämpfenden Bodentruppen bei der Erfüllung ihrer Missionen.
-* CAS kann mithilfe von Bomben, Raketen und auch Geschützen durchgeführt werden, da viele dieser Waffensysteme gelenkt sind, ermöglicht dies eine präzise Ausschaltung von Zielen.
+* CAS kann mithilfe von Bomben, Raketen und Geschützen durchgeführt werden. Da viele dieser Waffensysteme gelenkt sind, ermöglichen sie eine präzise Ausschaltung von Zielen.
 
 #### A-Recon:
 
 * A-Recon steht für Aerial reconnaissance, nicht zu verwechseln mit Recon Einheiten.
 * Der Einsatztyp A-Recon beinhaltet das luftgestützte Aufklären von Gebieten, bei denen feindliche Kräfte markiert werden können und über den JTAC ein Lagebild übermittelt wird.
-* A-Recon hat die geringste Gewichtung von allen Einsatztypen und kann daher bei einer Auslastung des Airstack auch abgelehnt oder verschoben werden.
+* A-Recon hat die geringste Gewichtung von allen Einsatztypen und kann daher bei einer Auslastung des Air-Stacks auch abgelehnt oder verschoben werden.

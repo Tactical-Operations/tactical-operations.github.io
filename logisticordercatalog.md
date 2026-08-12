@@ -65,7 +65,7 @@
 | 1-01 | Infanteriemunition (Pro Squad)                | Gewehrmunition für alle Infanterierollen                                                                                     |
 | 1-02 | Panzerabwehr                                  | 2x M136 (HEAT), Raketen für MAAWS Werfer                                                                                     |
 | 1-03 | Flugabwehr (Stingerkiste)                     | 2x FIM-92 Stinger Werfer, 6x FIM-92-Raketen                                                                                  |
-| 1-04 | Granaten (inkl. für Granatwerfer)             | Explosiv-& Rauchgranaten (inkl. 40mm)                                                                                        |
+| 1-04 | Granaten (inkl. für Granatwerfer)             | Explosiv- und Rauchgranaten (inkl. 40mm)                                                                                      |
 | 1-05 | Nachtkampf-Ausstattung                        | NVGs, Flares (inkl. 40mm), Knicklichter, IR-Stroboskope                                                                      |
 | 1-06 | Sprengstoff/Minen-Kiste                       | 2x Minensucher, 20x APERS Minenwerfer, 10x Panzerabwehrminen, 20x M4A1 SLAM, 20x Stolperdraht-Leuchtrakete, 20x Sprengladung |
 | 1-07 | Funkturm Kiste (ACRE, über ACE aufbauen)      | 5x Funkmast, 5x Funkantenne zum Montieren auf Funkmast (ersetzt SATCOMS)                                                     |
@@ -207,13 +207,13 @@ Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Sl
 
 |  Nr  | Bauvorhaben/Stellungen\*                   | Bauzeit\*  | Beschreibung                                                                            |
 |:----:|:-------------------------------------------|:----------:|:----------------------------------------------------------------------------------------|
-| 7-01 | Munitionsversteck                          | \~ 15 Min  | Kleines verstecktes Lager für Infanterie Versorgung                                     |
+| 7-01 | Munitionsversteck                          | \~ 15 Min  | Kleines verstecktes Lager für Infanterieversorgung                                      |
 | 7-02 | Versorgungspunkt (Für die Frontversorgung) | \~ 30 Min  | Kleine Stellung nahe der Front, meist an Straße                                         |
 | 7-03 | \+ Integration von 1-2 Helipads            | \~ 15 Min  | Inkl. Versorgung für Helis                                                              |
 | 7-04 | \+ Integration eines Feldlazaretts         | \~ 15 Min  | Medizinisches Gebäude                                                                   |
 | 7-05 | Kleine FOB                                 | \~ 120 Min | Beinhaltet 7-03, 7-04 und ein Lager für Ersatzfahrzeuge                                 |
 | 7-06 | Minenfeld AP je 100m                       | \~ 30 Min  | Linie, wird ausgelegt mit Minenwerfern                                                  |
-| 7-07 | Minenfeld AT je 50m                        | \~ 30 Min  | Minenfeld mit AT-Minen auslegung ggf. in Zick-Zack Muster                               |
+| 7-07 | Minenfeld AT je 50m                        | \~ 30 Min  | Minenfeld mit AT-Minen; Auslegung ggf. im Zickzackmuster                                |
 | 7-08 | Kleine Fire Support Base                   | \~ 60 Min  | Bunkerstellung mit mehreren schweren Waffen                                             |
 | 7-09 | Flexible Bauvorhaben                       |  Variabel  | Stacheldraht-Konstruktionen, Stellungen, Fahrzeugsperren, Aufbau von Fallen, Brückenbau |
 
@@ -251,7 +251,7 @@ Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Sl
 
 | Nr   | Sonstiges                            | Beschreibung/Inhalt                                                                                   |
 |:-----|:-------------------------------------|:------------------------------------------------------------------------------------------------------|
-| 9-01 | Überführen/Transport eines Fahrzeugs | Falls Fahrzeuge in die Basis zurück oder zu einer verlegt werden müssen aufgrund eines Lufttransports |
+| 9-01 | Überführen/Transport eines Fahrzeugs | Falls Fahrzeuge aufgrund eines Lufttransports in die Basis zurück oder zu einer anderen Basis verlegt werden müssen |
 | 9-02 | Wracks bergen                        | Logistiker formen ein Bergungskommando, um ein Wrack zu bergen.                                       |
 | 9-03 | Minenräum-Kommando                   | Falls Minenfelder geräumt werden sollen.                                                              |
 | 9-04 | Sonderauftrag                        | Inhalt wird mit Logistikleitung besprochen und festgelegt, sofern Kapazitäten vorhanden sind.         |

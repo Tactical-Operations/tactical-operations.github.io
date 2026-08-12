@@ -18,7 +18,7 @@ IP: arma.tactical-operations.de
 Port: 2302  
 Passwort: to3pw
 
-## 🎤 Teamspeak  
+## 🎤 TeamSpeak  
 IP: ts.tactical-operations.de  
 Kommunikation: ACRE2
 

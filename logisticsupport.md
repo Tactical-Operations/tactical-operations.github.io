@@ -2,11 +2,11 @@
 
 #### Verlust und Bergung von Fahrzeugen
 
-Für das gesamte Event steht nur eine begrenzte Anzahl an Land- und Luftfahrzeugen zur Verfügung.
-Jeder Fahrzeugtyp ist in seiner Stückzahl limitiert.
-Um sicherzustellen, dass diese Fahrzeuge auch für zukünftige Missionen einsatzbereit bleiben, ist es daher wichtig, dass sie nach jeder Mission erfolgreich zu einem Versorgungspunkt oder ins Hauptquartier zurückkehren.
+Für jede Mission steht nur eine begrenzte Anzahl an Land- und Luftfahrzeugen zur Verfügung.
+Jeder Fahrzeugtyp ist pro Mission in seiner Stückzahl limitiert.
+Um sicherzustellen, dass diese Fahrzeuge während der jeweiligen Mission einsatzbereit bleiben, ist es daher wichtig, dass sie erfolgreich zu einem Versorgungspunkt oder ins Hauptquartier zurückkehren.
 
-Sollte ein Fahrzeug zerstört oder verloren gehen, verringert sich möglicherweise die Anzahl der verfügbaren Fahrzeuge für alle kommenden Missionen.
+Sollte ein Fahrzeug zerstört oder verloren gehen, verringert sich die Anzahl der verfügbaren Fahrzeuge für die laufende Mission.
 Die Logistikabteilung ist in der Lage, zerstörte Fahrzeuge zu bergen und an Logistikpunkten vollständig zu reparieren.
 Aus diesem Grund bitten wir darum, zerstörte Fahrzeuge umgehend zu melden, damit diese in einer ruhigen Phase des Events von der Logistik geborgen und instandgesetzt werden können.
 

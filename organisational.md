@@ -2,14 +2,14 @@
 
 ### Join-In-Progress und Respawn
 
-* Spieler können jederzeit verspätet zum Event erscheinen. Meldet euch dann bei Zeus für teleport oder der Logistik für Nachführung.
+* Spieler können jederzeit verspätet zum Event erscheinen. Meldet euch dann bei Zeus für einen Teleport oder bei der Logistik für die Nachführung.
 * Respawn ist aktiviert. Sucht nach eurem Respawn die Logistik auf. Diese organisiert den Transport zu eurem Trupp.
 * Bei technischen Problemen werdet ihr selbstverständlich ebenfalls zu eurer Einheit teleportiert, um den Spielfluss aufrechtzuerhalten.
 
 ### Zeus
 
 * Zeuse können über einen Doppel-Zeus-Ping oder die Admin-Nachricht bei Rückfragen und Problemen kontaktiert werden.
-* Wenn ihr lange Wartezeiten bemerkt oder andere Problem entdeckt, könnt ihr die Zeuse jederzeit auf diesen Umstand aufmerksam machen, um gemeinsam eine Lösung zu finden.
+* Wenn ihr lange Wartezeiten bemerkt oder andere Probleme entdeckt, könnt ihr die Zeuse jederzeit auf diesen Umstand aufmerksam machen, um gemeinsam eine Lösung zu finden.
 
 ### Feedback
 

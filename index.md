@@ -50,7 +50,7 @@ Solltest du Fragen haben, tritt dem [TacOps Discord](https://discord.gg/8ypDJNee
 
 Details zum Briefing gibt es, wenig überraschend unter [Briefing](./briefing.html).
 
-Alle restlichen Informationen wie: Organisatorisches, Medic Settings, Luftunterstützung, Logistikunterstützung findest du unter [Material](./material.html).
+Alle weiteren Informationen, etwa zu Organisatorischem, Medic-Settings, Luftunterstützung und Logistikunterstützung, findest du unter [Material](./material.html).
 
 ## Vorheriges Event - TacOps 2
 

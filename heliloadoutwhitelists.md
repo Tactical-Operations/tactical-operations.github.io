@@ -2,12 +2,12 @@
 
 #### Auftrag
 
-Die **UH-1Y Venom Gunship** wird für **Truppentransport** und **CAS Aufträge** eingesetzt.  
+Die **UH-1Y Venom Gunship** wird für **Truppentransport** und **CAS-Aufträge** eingesetzt.  
 Für die Luftraumsicherung sind alle Streitkräfte zuständig.
 
 #### Bewaffnung
 
-Nach der Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
+Nach der Genfer Konvention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
 **Waffennamen (erlaubt):**
 * APKWS alle Varianten
@@ -24,11 +24,11 @@ Nach der Genfer Convention sind chemische Waffen, biologische Waffen und Cluster
 
 #### Auftrag
 
-Die **AH-1Z Viper** wird für **Luftraumsicherung** und **CAS Aufträge** eingesetzt.  
+Die **AH-1Z Viper** wird für **Luftraumsicherung** und **CAS-Aufträge** eingesetzt.  
 
 #### Bewaffnung
 
-Nach der Genfer Convention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
+Nach der Genfer Konvention sind chemische Waffen, biologische Waffen und Clustermunition verboten.  
 
 **Waffennamen (erlaubt):**
 * AGM-114K AT

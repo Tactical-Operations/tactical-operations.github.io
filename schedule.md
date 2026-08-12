@@ -9,12 +9,12 @@ title: TacOps 3 - Clear Sky - Termine und Ablauf
 
 Für den Air-Stack und Führung wird es Termine zum Abklären geben.  
 Anmeldungen für die Übungstermine sind nicht nötig.  
-Betreffende Personen erscheinen selbstständig – falls ihr euch nicht sicher seid fragt einfach
+Betreffende Personen erscheinen selbstständig – falls ihr euch nicht sicher seid, fragt einfach
 im [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792)
 
 Folgende Übungstermine werden angesetzt:
 
-* Einspieltermin für Airstack: Termin wird noch veröffentlicht
+* Einspieltermin für den Air-Stack: Termin wird noch veröffentlicht
 
 ## Vorevent – Freitag, 11.09.2026
 
@@ -34,7 +34,7 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 | Ablauf \- Freitagabend          | 11.09.2026    |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
-| Führungsbesprechung Ingame      | 18:30 Uhr     |
+| Führungsbesprechung ingame      | 18:30 Uhr     |
 | **Start/Einleitende Worte**     | **19:00 Uhr** |
 | Missionsstart/Ausrücken         | 19:15 Uhr     |
 | Missionsende                    | 23:00 Uhr     |
@@ -58,7 +58,7 @@ Für das Hauptevent sind drei Missionsschichten bestätigt:
 * Mission 2: **Samstagnachmittag, 26.09.2026**
 * Mission 3: **Samstagabend, 26.09.2026**
 
-Ziel ist es, Spass zu haben.
+Ziel ist es, Spaß zu haben.
 
 * [Slotliste für alle Missionsschichten](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
@@ -69,7 +69,7 @@ Ziel ist es, Spass zu haben.
 | Ablauf \- Freitagabend          | 25.09.2026    |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
-| Führungsbesprechung Ingame      | 18:30 Uhr     |
+| Führungsbesprechung ingame      | 18:30 Uhr     |
 | **Start/Einleitende Worte**     | **19:00 Uhr** |
 | Missionsstart/Ausrücken         | 19:15 Uhr     |
 | Missionsende                    | 23:00 Uhr     |
@@ -85,7 +85,7 @@ Ziel ist es, Spass zu haben.
 | Ablauf \- Samstagnachmittag | 26.09.2026   |
 |------------------------------|:-------------|
 | Slotten/Joinen auf Server    | ab 11:00 Uhr |
-| Führungsbesprechung Ingame   | 11:30 Uhr    |
+| Führungsbesprechung ingame   | 11:30 Uhr    |
 | **Missionsstart/Ausrücken**  | **12:00 Uhr** |
 | Missionsende                 | 16:00 Uhr    |
 

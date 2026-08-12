@@ -93,10 +93,10 @@ Die folgende Tabelle entspricht der aktuellen TacOps-3-ACRE-Konfiguration.
 
 ## Rauchfarben
 
-* **Grün**: Freund Markierung
-* **Gelb**: JTAC Reserviert
-* **Rot**: Feind Markierung
-* **Blau**: LZ Markierung
-* **Orange**: JTAC Reserviert
-* **Violet**: QRF Reserviert
+* **Grün**: Freund-Markierung
+* **Gelb**: für JTAC reserviert
+* **Rot**: Feindmarkierung
+* **Blau**: LZ-Markierung
+* **Orange**: für JTAC reserviert
+* **Violett**: für QRF reserviert
 * **Weiß**: Verschleierung

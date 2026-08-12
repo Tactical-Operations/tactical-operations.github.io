@@ -1,6 +1,6 @@
 ## ACE Behandlungen von Verletzten
 
-Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
+Vorgehen für alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 
 <div markdown="1" class="medic-table medic-xabcde-schema-table">
 
@@ -11,10 +11,10 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 |  | Medics: IV oder IO einrichten, TXA verwenden, Gabe von Kochsalzlösung/Plasma |
 | A | Atemweg prüfen |
 |  | Kopf überstrecken, Kopf drehen, Atemweg prüfen |
-|  | Medics: (zweiten Durchgang) King-LT verwenden |
+|  | Medics: (im zweiten Durchgang) King-LT verwenden |
 | B | Beatmung |
 |  | Brustkorb inspektieren, Chestseal anbringen |
-|  | Medics: Pulsoximeter anbringen, (zweiten Durchgang) PocketBVM verwenden |
+|  | Medics: Pulsoximeter anbringen, (im zweiten Durchgang) PocketBVM verwenden |
 | C | Kreislauf prüfen |
 |  | Puls prüfen, HLW |
 |  | Medics: AED nutzen, (zweiten Durchgang) IV Epinephrin nutzen bei Reanimation |
@@ -23,7 +23,7 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 |  | Medics: Stabile Seitenlage entfällt |
 | E | Environment |
 |  | Patient reorientieren, Schmerztabletten geben |
-|  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf Befreien von Geräten |
+|  | Medics: Schmerzmittel statt Schmerztabletten geben, bei Bedarf von Geräten befreien |
 
 </div>
 
@@ -32,4 +32,4 @@ Vorgehen für Alle Spieler, Squad Medics/Platoon Medics, von oben nach unten:
 2. **Atemweg** geprüft und frei: Ja/Nein  
 3. **Medikamente** gegeben: Ja/Nein  
 4. Wie **lange** liegt er?  
-5. Fragen ob **weitere Hilfe** (z.B. HLW) notwendig?
+5. Fragen, ob **weitere Hilfe** (z.B. HLW) notwendig ist.

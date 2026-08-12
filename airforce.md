@@ -63,7 +63,7 @@
 
 |           Mission Typ           |  Ort (AO)   | Zu kontaktierende Einheit |
 |:-------------------------------:|:-----------:|:-------------------------:|
-| A-Recon/ CAS/ QRF/ Marine Rider | z.B. POI001 |   z.B. Green Ant auf 68   |
+| A-Recon/ CAS/ QRF/ Marine Raider | z.B. POI001 |   z.B. Green Ant auf 68   |
 
 </div>
 
@@ -84,23 +84,23 @@
 **Bandit**: Identifiziertes feindliches Luftfahrzeug.  
 **Kill**: Befehl, ein Ziel zu zerstören.  
 **Splash**: Bestätigung, dass das Ziel abgeschossen und zerstört wurde.  
-**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (infarot), Fox3 (aktiv Radar).
+**Abschuss Luft/Luft Rakete**: Fox1 (halbaktives Radar), Fox2 (Infrarot), Fox3 (aktives Radar).
 
 #### Smoke:
 
-**Grün**: Freund Markierung  
-**Gelb**: JTAC Reserviert  
-**Rot**: Feind Markierung  
-**Blau**: LZ Markierung  
-**Orange**: JTAC Reserviert  
-**Violet**: Medevac  
+**Grün**: Freund-Markierung  
+**Gelb**: für JTAC reserviert  
+**Rot**: Feindmarkierung  
+**Blau**: LZ-Markierung  
+**Orange**: für JTAC reserviert  
+**Violett**: Medevac  
 **Weiß**: Verschleierung
 
 #### Flares:
 
 **Weiß**: Beleuchtung  
-**Grün**: Freund Markierung  
-**Rot**: Feind Markierung
+**Grün**: Freund-Markierung  
+**Rot**: Feindmarkierung
 
 #### Lasercodes
 
@@ -110,7 +110,7 @@
 |:-----------------:|:--------------:|:-------------:|:---------------------:|
 |  Triton HQ JTAC   |    Triton 8    |     1113      |      TRITON JTAC      |
 | Leviathan Platoon | Leviathan JTAC |     1114      |       LEVI JTAC       |
-| Barracuda Platoon | Leviathan JTAC |     1115      |      BARRA JTAC       |
+| Barracuda Platoon | Barracuda JTAC |     1115      |      BARRA JTAC       |
 
 </div>
 
@@ -122,7 +122,7 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 **HP**: Holding Point (Punkt, an dem Hubschrauber warten und **nicht hovern**).  
 **HA**: Holding Area (Aufenthaltsraum für Hubschrauber) → darf nur von ALO erstellt werden.  
 **ACA**: Aircraft Control Area (Aufenthaltsraum für (Luft-Boden)) → darf nur von ALO erstellt werden.  
-**CAP**: Combat Air Patrol Zone (Partrouillienbreich für Abfangjäger) → darf nur von ALO erstellt werden.  
+**CAP**: Combat Air Patrol Zone (Patrouillenbereich für Abfangjäger) → darf nur von ALO erstellt werden.  
 **LZ**: Landing Zone → muss auf c-Tab oder JVMF markiert werden, → darf nicht verschoben werden.
 
 ### JTAC
@@ -130,7 +130,7 @@ Logistik für RRR auf dem *LOGISTIC* Funkkanal
 #### Ablauf:
 
 1. Eine Anfrage für Luftunterstützung wird auf dem *REQUEST* Funkkanal an die jeweilige Einheit gestellt.
-   Dort wir nur geklärt: wer? Funkkanal? Weitere Klärungen auf dem jeweiligen JTAC-Funkkanal.
+   Dort wird nur geklärt: wer? Funkkanal? Weitere Klärungen auf dem jeweiligen JTAC-Funkkanal.
     * Beispiel: Hammerhead hier Barracuda JTAC benötigen CAS. Kommen. - Hier Hammerhead, verstanden wechseln auf
       Funkkanal Barracuda JTAC. Ende.
 2. Das Luftfahrzeug meldet sich auf dem Funkkanal JTAC an.

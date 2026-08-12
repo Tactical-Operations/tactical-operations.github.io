@@ -23,13 +23,13 @@ Bitte schreibt: An-/Abmeldung, Name oder Clan und Slot/Squad oder Nr. und Tage d
   Repräsentanten können dann Slots gesammelt für ihre jeweilige Gruppe oder ihren Clan reservieren.
 * **Einzelspieler** können sich selbstständig im Anmeldebereich des Discords oder direkt bei **Bele** anmelden.
 
-**Anmerkung:** Manche Slots wie zum Beispiel wie Company Command, Platoon Lead, Piloten, QRF können gesondert
+**Anmerkung:** Manche Slots, zum Beispiel Company Command, Platoon Lead, Piloten oder QRF, können gesondert
 vergeben werden.
 
 ## Übungstermine
 
 Anmeldungen für die Übungstermine sind nicht nötig.
-Betreffende Personen erscheinen selbstständig – falls ihr euch nicht sicher seid fragt einfach
+Betreffende Personen erscheinen selbstständig – falls ihr euch nicht sicher seid, fragt einfach
 im [Discord #chat](https://discord.com/channels/1230998538926952578/1230998539388190792).
 
 ## Vorevent – Freitag, 11.09.2026
