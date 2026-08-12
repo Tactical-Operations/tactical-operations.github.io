@@ -88,7 +88,7 @@ Plätze. Für die Transportplanung müssen Besatzungsplätze und Passagierplätz
 
 | Fahrzeug | Besatzungsplätze | Mitfahrer-/Passagierplätze | Gesamtplätze |
 |:---------|------------------:|------------------------------:|-------------:|
-| AAVP-7A1 Amtrack | 3 | 12 | 15 |
+| AAVP-7A1 Amtrack | 3 | 18 | 21 |
 | LAV-25 | 3 | 6 | 9 |
 | LAV-C2 (Command) | 3 | 3 | 6 |
 | HUMVEE (M2) | 2 | 3 | 5 |
@@ -98,34 +98,18 @@ Plätze. Für die Transportplanung müssen Besatzungsplätze und Passagierplätz
 
 </div>
 
-#### Logistikfahrzeuge und Geräte
-
-<div markdown="1" class="logistic-table logistic-table-4 logistic-table-inventory-logistic">
-
-| Fahrzeug/Gerät | Besatzungsplätze | Mitfahrer-/Passagierplätze | Gesamtplätze |
-|:-----------------|------------------:|------------------------------:|-------------:|
-| Gabelstapler | 1 | 0 | 1 |
-| Gabelstapler (Atlas) | 1 | 0 | 1 |
-| HUMVEE Cargo | 1 | 1 | 2 |
-| LKW (Cargo) | 1 | 1 | 2 |
-| LKW (Fuel) | 1 | 1 | 2 |
-| Quadbike (VHF-30108) | 1 | 1 | 2 |
-| Traktor | 1 | 0 | 1 |
-
-</div>
-
 #### Luftfahrzeuge
 
 <div markdown="1" class="logistic-table logistic-table-4 logistic-table-inventory-air">
 
 | Luftfahrzeug | Besatzungsplätze | Mitfahrer-/Passagierplätze | Gesamtplätze |
 |:-------------|------------------:|------------------------------:|-------------:|
-| UH-1Y Venom Gunship | 4 | 1 | 5 |
+| UH-1Y Venom Gunship | 2 | 9 | 11 |
 | AH-1Z Viper | 2 | 0 | 2 |
-| MH-60M DAP MLASS | 4 | 10 | 14 |
-| UH-60M Slick (Cargo) | 4 | 4 | 8 |
+| MH-60M DAP MLASS | 2 | 9 | 11 |
+| UH-60M Slick (Cargo) | 2 | 4 | 6 |
 | CH-53E (Cargo) | 2 | 0 | 2 |
-| CH-53E (GAU-21) | 3 | 24 | 27 |
+| CH-53E (GAU-21) | 2 | 25 | 27 |
 | F/A-18C Hornet | 1 | 0 | 1 |
 
 </div>
@@ -140,6 +124,22 @@ Plätze. Für die Transportplanung müssen Besatzungsplätze und Passagierplätz
 | RHIB | 1 | 7 | 8 |
 | Schlauchboot | 1 | 4 | 5 |
 | MK.V SOC | 7 | 26 | 33 |
+
+</div>
+
+#### Logistikfahrzeuge und Geräte
+
+<div markdown="1" class="logistic-table logistic-table-4 logistic-table-inventory-logistic">
+
+| Fahrzeug/Gerät | Besatzungsplätze | Mitfahrer-/Passagierplätze | Gesamtplätze |
+|:-----------------|------------------:|------------------------------:|-------------:|
+| Gabelstapler | 1 | 0 | 1 |
+| Gabelstapler (Atlas) | 1 | 0 | 1 |
+| HUMVEE Cargo | 1 | 1 | 2 |
+| LKW (Cargo) | 1 | 2 | 3 |
+| LKW (Fuel) | 1 | 2 | 3 |
+| Quadbike (VHF-30108) | 1 | 1 | 2 |
+| Traktor | 1 | 0 | 1 |
 
 </div>
 
