@@ -5,9 +5,6 @@ title: TacOps 3 - Clear Sky - Material und Handouts
 
 # Material
 
-<div markdown="1" class="hidden">
-</div>
-
 Dieses Dokument soll alle Informationen und Materialien, die während einer Mission benötigt werden, an einer Stelle
 gebündelt und nachvollziehbar zur Verfügung stellen.
 
@@ -17,7 +14,7 @@ spezifischen Abschnitten für die jeweiligen Rollen:
 * **Alle Spieler**: Organisatorisches, Medic-Settings, Verstärkungsslots und Spielerklassen, Funkplan Triton Company
 * **Führungskräfte**: Luftunterstützung, Logistikunterstützung
 * **Air Force**: Air Force, Operationsübersicht, Wichtige Infos, JTAC, Piloten
-* **Logistik**: Führungskräfte, Logistikunterstützung, Logistikbestellkatalog
+* **Logistik**: Führungskräfte, Logistikunterstützung, Logistikinventar, Logistikbestellkatalog
 
 # Alle
 
@@ -46,6 +43,8 @@ spezifischen Abschnitten für die jeweiligen Rollen:
 {% include_relative airforce.md %}
 
 # Appendix
+
+{% include_relative logisticinventory.md %}
 
 {% include_relative logisticordercatalog.md %}
 

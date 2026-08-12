@@ -84,7 +84,7 @@
 <style>
 .logistic-table-vehicle-supply {
   table tbody tr { background-color: var(--logistic-table-vehicle-color); }
-  table tbody tr:nth-child(7) { background-color: var(--logistic-table-air-color);  }
+  table tbody tr:nth-child(8) { background-color: var(--logistic-table-air-color);  }
 }
 </style>
 
@@ -102,27 +102,6 @@
 | 2-07 | Hoist                                              | Seilwinde für kompatible Hubschrauber.                                    |
 | 2-08 | FlexibleTank                                       | Flexibler Tank für die Treibstoffversorgung.                              |
 | 2-09 | ScepterMFC                                         | Mobile Treibstoffkomponente.                                               |
-
-</div>
-
-#### Logistikversorgung und Frachtcontainer
-
-Diese Einträge werden ohne eigene Bestellnummer in den entsprechenden Stationskatalogen angeboten.
-
-<div markdown="1" class="logistic-table logistic-table-3 logistic-table-vehicle-supply">
-
-| Eintrag | Zweck/Inhalt |
-|:--------|:-------------|
-| Boxloader Hubwagen | Bewegen von Paletten und Fracht |
-| Großes Zelt zum Aufbauen (Sandbraun) | Aufbau eines großen Logistik- oder Versorgungszelts |
-| Großes Zelt zum Aufbauen (Weiß) | Aufbau eines großen Logistik- oder Sanitätszelts |
-| Master-Palette (Cargo) | Frachtpalette für den Transport |
-| Palette | Leere Palette für flexible Beladung |
-| Stacheldraht (gerollt) | Baumaterial für Sperren und Stellungen |
-| Fahrzeuge - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeuge |
-| Fahrzeugversorgung - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeugversorgung |
-| Helikopter (Gelb) | Vorbereiteter Frachtcontainer für Hubschrauberbetrieb |
-| Versorgung - Alpha / Bravo | Vorbereitete allgemeine Versorgungscontainer |
 
 </div>
 
@@ -171,22 +150,6 @@ Diese Einträge werden ohne eigene Bestellnummer in den entsprechenden Stationsk
 
 </div>
 
-#### Logistikfahrzeuge und Geräte
-
-<div markdown="1" class="logistic-table logistic-table-3 logistic-table-land-vehicle">
-
-| Logistikfahrzeug/Gerät | Zweck |
-|:-------------------------|:------|
-| Gabelstapler | Bewegen von Fracht und Paletten |
-| Gabelstapler (Atlas) | Bewegen von Fracht und Paletten |
-| HUMVEE Cargo | Leichter Frachttransport |
-| LKW (Cargo) | Schwerer Frachttransport und Bergung |
-| LKW (Fuel) | Treibstoffversorgung |
-| Quadbike (VHF-30108) | Leichter Transport mit Funkanbindung |
-| Traktor | Bewegen von Fracht und Bauobjekten |
-
-</div>
-
 #### Luftfahrzeuge
 
 <style>
@@ -231,38 +194,6 @@ Die doppelte Nummer **5-03** stammt aus getrennten Stationskatalogen: `UH-60M Sl
 
 </div>
 
-#### Begrenzter Gesamtbestand
-
-Die folgenden Werte sind die im TacOps-3-Inventory konfigurierten initialen Bestände. Verlorene oder zerstörte
-Fahrzeuge werden operativ für die folgenden Missionen berücksichtigt.
-
-<div markdown="1" class="logistic-table logistic-table-3 logistic-table-land-vehicle">
-
-| Kategorie | Fahrzeug/System | Initialer Bestand |
-|:----------|:----------------|------------------:|
-| Luftfahrzeuge | AH-1Z Viper | 4 |
-| Luftfahrzeuge | MH-60M DAP MLASS | 3 |
-| Luftfahrzeuge | UH-1Y Venom Gunship | 4 |
-| Panzerfahrzeuge | AAVP-7A1 (Amtrack) | 6 |
-| Panzerfahrzeuge | LAV-25 | 6 |
-| Panzerfahrzeuge | LAV-C2 | 3 |
-| SAM | AN/MPQ-105 Radar | 1 |
-| SAM | MIM-104 Patriot | 1 |
-| Radfahrzeuge | Buggy | 4 |
-| Radfahrzeuge | HUMVEE (M2) | 4 |
-| Radfahrzeuge | HUMVEE (TOW) | 2 |
-| Radfahrzeuge | LKW (Infanterie) | 8 |
-| Boote | MK.V SOC | 2 |
-| Boote | RHIB | 20 |
-| Boote | Schnellboot Minigun | 4 |
-| Logistikfahrzeuge | HUMVEE Cargo | 4 |
-| Logistikfahrzeuge | LKW (Cargo) | 6 |
-| Logistikfahrzeuge | LKW (Fuel) | 4 |
-| Logistik-Luftfahrzeuge | CH-53E (Cargo) | 2 |
-| Logistik-Luftfahrzeuge | CH-53E (GAU-21) | 2 |
-| Logistik-Luftfahrzeuge | UH-60M Slick (Cargo) | 2 |
-
-</div>
 
 #### Bauvorhaben/Stellungen
 
@@ -324,5 +255,54 @@ Fahrzeuge werden operativ für die folgenden Missionen berücksichtigt.
 | 9-02 | Wracks bergen                        | Logistiker formen ein Bergungskommando, um ein Wrack zu bergen.                                       |
 | 9-03 | Minenräum-Kommando                   | Falls Minenfelder geräumt werden sollen.                                                              |
 | 9-04 | Sonderauftrag                        | Inhalt wird mit Logistikleitung besprochen und festgelegt, sofern Kapazitäten vorhanden sind.         |
+
+</div>
+
+#### Logistikversorgung und Frachtcontainer
+
+Diese Einträge sind ohne eigene Bestellnummer in den entsprechenden Stationskatalogen vorhanden.
+
+<style>
+.logistic-table-logistic-supply-special {
+  table tbody tr { background-color: var(--logistic-table-logistic-only-color); }
+}
+</style>
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-logistic-supply-special">
+
+| Eintrag | Zweck/Inhalt |
+|:--------|:-------------|
+| Boxloader Hubwagen | Bewegen von Paletten und Fracht |
+| Großes Zelt zum Aufbauen (Sandbraun) | Aufbau eines großen Logistik- oder Versorgungszelts |
+| Großes Zelt zum Aufbauen (Weiß) | Aufbau eines großen Logistik- oder Sanitätszelts |
+| Master-Palette (Cargo) | Frachtpalette für den Transport |
+| Palette | Leere Palette für flexible Beladung |
+| Stacheldraht (gerollt) | Baumaterial für Sperren und Stellungen |
+| Fahrzeuge - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeuge |
+| Fahrzeugversorgung - Alpha / Bravo | Vorbereitete Frachtcontainer für Fahrzeugversorgung |
+| Helikopter (Gelb) | Vorbereiteter Frachtcontainer für Hubschrauberbetrieb |
+| Versorgung - Alpha / Bravo | Vorbereitete allgemeine Versorgungscontainer |
+
+</div>
+
+#### Logistikfahrzeuge und Geräte
+
+<style>
+.logistic-table-logistic-vehicle {
+  table tbody tr { background-color: var(--logistic-table-logistic-only-color); }
+}
+</style>
+
+<div markdown="1" class="logistic-table logistic-table-3 logistic-table-logistic-vehicle">
+
+| Logistikfahrzeug/Gerät | Zweck |
+|:-------------------------|:------|
+| Gabelstapler | Bewegen von Fracht und Paletten |
+| Gabelstapler (Atlas) | Bewegen von Fracht und Paletten |
+| HUMVEE Cargo | Leichter Frachttransport |
+| LKW (Cargo) | Schwerer Frachttransport und Bergung |
+| LKW (Fuel) | Treibstoffversorgung |
+| Quadbike (VHF-30108) | Leichter Transport mit Funkanbindung |
+| Traktor | Bewegen von Fracht und Bauobjekten |
 
 </div>

@@ -57,4 +57,4 @@ Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231
 
 **Funkplan:** [TacOps\_3\_Funkplan](./material.html#funkplan-triton-company)
 
-**Fahrzeugbestand:** [TacOps\_3\_Fahrzeugbestand](./material.html#begrenzter-gesamtbestand)
+**Logistikinventar:** [Bestände und Fahrzeugkapazitäten](./material.html#logistikinventar)
