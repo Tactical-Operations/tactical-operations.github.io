@@ -1,13 +1,20 @@
 ## Verstärkungsslots und Spielerklassen
 
 Fest zugewiesene Slots erhalten beim Missionsstart automatisch ihre konfigurierte Klasse und das zugehörige Loadout.
-**Verstärkungsslots** starten ohne festgelegte Klasse und können an einer **Player-Arsenal-Box** eine der unten
+Alternative Loadouts und zusätzliche Ausrüstung können an den **Arsenal-Boxen** ausgewählt werden.
+
+**Verstärkungsslots** starten ohne festgelegte Klasse und können an einer **Arsenal-Box** eine der unten
 aufgeführten Klassen auswählen. Mit der Auswahl werden Loadout, Arsenal-Freigaben und ACE-Qualifikationen gemeinsam
 gesetzt.
 
-Eine normale Klassenauswahl steht nur einem noch nicht klassifizierten Verstärkungsslot zur Verfügung. Eine bereits
-zugewiesene Klasse kann nicht beliebig über das normale Auswahlmenü gewechselt werden. Bei Problemen kann Zeus die
-Klasse eines lebenden Spielers verwalten oder auf die ursprüngliche Klasse zurücksetzen.
+Die Verstärkungsslots sind für Clans und Gruppen vorgesehen, die spontan ein oder zwei zusätzliche Spieler
+mitbringen. Alternativ können sie als flexible Erweiterung bestehender Squads oder Teams eingesetzt werden. In der
+Slotliste stehen jeweils drei Plätze für Leviathan, drei für Barracuda und drei frei zuordenbare Plätze zur Verfügung.
+Die Angabe `3x` bezeichnet dabei die Anzahl der vorhandenen Slots.
+
+Eine normale Klassenauswahl steht nur einem noch nicht klassifizierten Verstärkungsslot zur Verfügung. Eine am
+Arsenal ausgewählte Klasse kann innerhalb von fünf Minuten nach der Auswahl wieder abgewählt werden. Bei Problemen
+kann Zeus per Doppelping kontaktiert werden.
 
 ### Auswählbare Klassen
 
@@ -20,9 +27,6 @@ Klasse eines lebenden Spielers verwalten oder auf die ursprüngliche Klasse zur�
 | Marine Raider | JTAC, Sappeur, Anti-Tank Specialist, Automatic Rifleman (M249), Corpsman, Grenadier, Marksman, Team Leader, Squad Leader |
 | QRF | JTAC, Sappeur, Anti-Tank Specialist, Automatic Rifleman (M249), Corpsman, Grenadier, Marksman, Team Leader, Squad Leader |
 | Vehicle | LAV Commander, LAV Gunner / Driver |
-
-Der Provider enthält zusätzlich interne Hilfs- und Vererbungsklassen. Diese erscheinen bewusst nicht im normalen
-Auswahlmenü.
 
 ### Besondere ACE-Qualifikationen
 

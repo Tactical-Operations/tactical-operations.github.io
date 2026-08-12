@@ -24,8 +24,8 @@
 
 <div markdown="1" class="logistic-request-example-request">
 
-1. “Triton 4, hier Otter, beantragen Nachschub, kommen.”
-2. “Otter, hier Triton 4, bereit für Anfrage, kommen”
+1. “Triton 4, hier Leviathan Bravo, beantragen Nachschub, kommen.”
+2. “Leviathan Bravo, hier Triton 4, bereit für Anfrage, kommen”
 3. “Wir brauchen eine Standard Platoon Unit - südwestlich von Rasman, bei Markierung
 ‘DZ Lima’, Luft-Transport ist nicht möglich, keine sicheren LZ in Reichweite, kommen”
 4. “Verstanden. Gibt es eine sichere Anfahrrichtung? Kommen”
@@ -44,7 +44,7 @@ Einige Zeit später
 
 <div markdown="1" class="logistic-request-example-delivery-arrival">
 
-1. “Otter HQ, hier Capybara Alpha, kommen aus Westen zu ‘DZ Lima’ mit Nachschub, kommen.”
-2. “Otter HQ, verstanden. Lage ist sicher. Ende.”
+1. “Leviathan Bravo, hier Capybara Alpha, kommen aus Westen zu ‘DZ Lima’ mit Nachschub, kommen.”
+2. “Capybara Alpha, hier Leviathan Bravo, verstanden. Lage ist sicher. Ende.”
 
 </div>

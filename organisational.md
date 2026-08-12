@@ -13,6 +13,7 @@
 
 ### Feedback
 
-* Nach jedem Missionsende oder Abend besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
+* Nach jeder Mission besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
+* Für Mission 2 am Samstagnachmittag ist keine Nachbesprechung geplant. Bitte schickt euer Feedback direkt an **Bele** oder den **Company Commander**.
 * Meldet gerne auffällige Fehler oder Probleme direkt am Ende des jeweiligen Abends, damit diese für den nächsten Abend gelöst werden können.
-* Nach dem Ende des Events (Sonntag) wird ein Umfragebogen mit allen Teilnehmern geteilt. Wir freuen uns über euer ehrliches Feedback.
+* Nach dem Ende des Events wird ein Umfragebogen mit allen Teilnehmern geteilt. Wir freuen uns über euer ehrliches Feedback.

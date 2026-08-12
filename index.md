@@ -20,11 +20,11 @@ Ziel für jedes Event ist:
     * jeweils ein Squad Marine Raider und QRF
     * und schneller Logistik
 
-Informationen zum Event findest du im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) oder hier auf dieser Webseite.
+Informationen zum Event findest du im [TacOps Discord](https://discord.gg/8ypDJNeeNg) oder hier auf dieser Webseite.
 
 ## Nächstes Event
 
-**TacOps 3 - Clear Sky findet vom 25. bis 27.09.2026 statt.**
+**TacOps 3 - Clear Sky findet am 25. und 26.09.2026 statt.**
 
 Wir spielen auf **Mull of Kintyre** als **USMC gegen CSAT** mit **ACE Medical** und **ACRE2**.
 
@@ -32,7 +32,7 @@ Das Vorevent findet am **Freitag, dem 11.09.2026**, statt. Bestätigt sind auße
 Freitagabend, Samstagnachmittag und Samstagabend.
 
 * [Termine und Ablauf](./schedule.html)
-* [Slotliste](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
+* [Slotliste](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
 ## Teilnahme
 
@@ -44,7 +44,7 @@ Die Einladung zur Teilnahme gilt für alle Arma 3 Spieler, daher leite das Event
 
 Schau dir die [wichtigsten Informationen](./important.html) an.
 
-Solltest du Fragen haben, tritt dem [TacOps Discord](https://discord.gg/ZftQWwF8Cy) bei, und wende dich an den **Ansprechpartner [TacOps] Bele**.
+Solltest du Fragen haben, tritt dem [TacOps Discord](https://discord.gg/8ypDJNeeNg) bei, und wende dich an den **Ansprechpartner [TacOps] Bele**.
 
 ## Details
 

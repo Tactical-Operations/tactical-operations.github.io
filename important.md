@@ -5,7 +5,7 @@ title: TacOps 3 - Clear Sky - Wichtiges im Überblick
 
 # Clear Sky – Wichtiges im Überblick
 
-### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/ZftQWwF8Cy) 
+### Ansprechpartner: **[TacOps] Bele** im [TacOps Discord](https://discord.gg/8ypDJNeeNg)
 
 ## 🗺️ Szenario   
 Zeitraum um 2020  
@@ -16,7 +16,7 @@ Zeitraum um 2020
 ## 💻 Arma 3 Server   
 IP: arma.tactical-operations.de  
 Port: 2302  
-Passwort: coming_soon  
+Passwort: to3pw
 
 ## 🎤 Teamspeak  
 IP: ts.tactical-operations.de  
@@ -28,29 +28,33 @@ Kommunikation: ACRE2
 ## 🗡️ Vorevent
 **Wann:** Freitag, 11.09.2026, siehe [Termine](./schedule.html).
 
+**Anmeldung ab:** Sonntag, 30.08.2026, 19:00 Uhr.
+
 **Medizinisches System:** ACE Medical 
 
 ## ⚔️ Hauptevent
-**Wann:** Freitag, 25.09.2026 bis Sonntag, 27.09.2026, siehe [Termine](./schedule.html).
+**Wann:** Freitag, 25.09.2026 und Samstag, 26.09.2026, siehe [Termine](./schedule.html).
 
 **Missionen:** Freitagabend sowie Samstagnachmittag und Samstagabend.
+
+**Anmeldung ab:** Sonntag, 13.09.2026, 19:00 Uhr.
 
 **Medizinisches System:** ACE Medical 
 
 ## 📃 Kontakt (Discord)  
-[TacOps Discord Einladungslink](https://discord.gg/ZftQWwF8Cy)  
-<div markdown="1" class="hidden">
-Channel [\#informationen](https://discord.com/channels/1230998538926952578/1294985131349508137) für die wichtigen Informationen.  
-Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.  
-</div>
+[TacOps Discord Einladungslink](https://discord.gg/8ypDJNeeNg)  
+Channel [\#informationen](https://discord.com/channels/1230998538926952578/1359240313054560378) für die wichtigen Informationen.  
+Channel [\#ankündigungen](https://discord.com/channels/1230998538926952578/1231001411307704360) für die wichtigen Updates.
+
 💡 Bei **Fragen, Anregungen oder Ähnlichem** einfach in den [Discord \#chat](https://discord.com/channels/1230998538926952578/1230998539388190792) posten oder direkt an den **Ansprechpartner [TacOps] Bele** wenden.
 
 ## 🛠️ Modpaket und Weiteres
-**Slotliste:** [TacOps\_3\_Slotliste](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
+**Modset:** [TacOps\_3\_Modset](https://drive.google.com/file/d/1ng9KudnaI7hiHBCSvcP6Zs1goVt5I0Xg/view?usp=drive_link)
+
+**Addon-Options (CBA-Settings):** [TacOps\_3\_Addon\_Options](https://drive.google.com/file/d/134qwelcE2J3tm_g915ix4yoWsklcyjrx/view?usp=drive_link)
+
+**Slotliste:** [TacOps\_3\_Slotliste](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
 **Funkplan:** [TacOps\_3\_Funkplan](./material.html#funkplan-triton-company)
 
-**Fahrzeugliste:** [Vorab: TacOps\_3\_Fahrzeugliste](https://docs.google.com/spreadsheets/d/1F2uIgmzhfiVLH5ITcG3Vu5K1g3Oa7MxA0DLqqNaW5mM/edit?usp=sharing)   
-<div markdown="1" class="hidden">
-**Addon-Options**: [In Bearbeitung: TacOps\_3\_Addon\_Options](./coming-soon.html)   
-</div>
+**Fahrzeugbestand:** [TacOps\_3\_Fahrzeugbestand](./material.html#begrenzter-gesamtbestand)

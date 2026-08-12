@@ -18,17 +18,16 @@ Folgende Übungstermine werden angesetzt:
 
 ## Vorevent – Freitag, 11.09.2026
 
-Informationen zur Anmeldung findest du unter [Anmeldung](./enrolment.html).
+Die Anmeldung für das Vorevent öffnet am **Sonntag, dem 30.08.2026, um 19:00 Uhr**. Weitere Informationen findest
+du unter [Anmeldung](./enrolment.html).
 
 Das Vorevent findet am **Freitag, dem 11.09.2026**, statt.
 
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.
 
-* [Slotliste für das Vorevent](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
+* [Slotliste für das Vorevent](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
 #### Ablauf
-
-Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 <div markdown="1" class="table-blue">
 
@@ -37,10 +36,10 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
 | Führungsbesprechung Ingame      | 18:30 Uhr     |
 | **Start/Einleitende Worte**     | **19:00 Uhr** |
-| Missionsstart                   | 19:15 Uhr     |
+| Missionsstart/Ausrücken         | 19:15 Uhr     |
 | Missionsende                    | 23:00 Uhr     |
 | Gruppenintern Feedback sammeln  | bis 23:30 Uhr |
-| Gesamter Missionsfeedback in TS | ab 23:30 Uhr  |
+| Gesamter Missionsfeedback in TS | ab 00:00 Uhr  |
 
 </div>
 
@@ -48,10 +47,10 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 * Es gibt eine **kleine** Umfrage für alle Teilnehmer nach jeder Mission. Wir freuen uns über euer ehrliches Feedback.
 
-## Hauptevent – Freitag, 25.09.2026 bis Sonntag, 27.09.2026
+## Hauptevent – Freitag, 25.09.2026 und Samstag, 26.09.2026
 
-Der Beginn der Anmeldung wird noch bekannt gegeben. Weitere Informationen findest du unter
-[Anmeldung](./enrolment.html).
+Die Anmeldung für das Hauptevent öffnet am **Sonntag, dem 13.09.2026, um 19:00 Uhr**. Weitere Informationen findest
+du unter [Anmeldung](./enrolment.html).
 
 Für das Hauptevent sind drei Missionsschichten bestätigt:
 
@@ -59,13 +58,9 @@ Für das Hauptevent sind drei Missionsschichten bestätigt:
 * Mission 2: **Samstagnachmittag, 26.09.2026**
 * Mission 3: **Samstagabend, 26.09.2026**
 
-Der Ablauf für **Sonntag, den 27.09.2026**, wird noch bekannt gegeben.
-
 Ziel ist es, Spass zu haben.
 
-* [Slotliste für alle Missionsschichten](https://docs.google.com/spreadsheets/d/1bnHoGqYxOqu4-kjAUpwwOqqt6berLsHn9Af9RFUnA9k/edit?usp=sharing)
-
-Die folgenden Uhrzeiten sind noch zu bestätigen.
+* [Slotliste für alle Missionsschichten](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
 ### Mission 1 – Freitagabend, 25.09.2026
 
@@ -73,7 +68,7 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 | Ablauf \- Freitagabend          | 25.09.2026    |
 |---------------------------------|:--------------|
-| Slotting/Joinen auf Server      | ab 18:00 Uhr  |
+| Slotten/Joinen auf Server       | ab 18:00 Uhr  |
 | Führungsbesprechung Ingame      | 18:30 Uhr     |
 | **Start/Einleitende Worte**     | **19:00 Uhr** |
 | Missionsstart/Ausrücken         | 19:15 Uhr     |
@@ -87,16 +82,16 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstagnachmittag  | 26.09.2026    |
-|------------------------------|:--------------|
-| Slotting/Joinen auf Server   | ab 11:00 Uhr  |
-| Führungsbesprechung Ingame   | 11:30 Uhr     |
+| Ablauf \- Samstagnachmittag | 26.09.2026   |
+|------------------------------|:-------------|
+| Slotten/Joinen auf Server    | ab 11:00 Uhr |
+| Führungsbesprechung Ingame   | 11:30 Uhr    |
 | **Missionsstart/Ausrücken**  | **12:00 Uhr** |
-| Missionsende                 | 17:00 Uhr     |
+| Missionsende                 | 16:00 Uhr    |
 
 </div>
 
-> Technischer Serverneustart: 17:00 Uhr bis 18:15 Uhr
+> Nach Missionsende findet ein technischer Serverneustart statt.
 
 ### Mission 3 – Samstagabend, 26.09.2026
 
@@ -104,9 +99,9 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 | Ablauf \- Samstagabend          | 26.09.2026    |
 |---------------------------------|:--------------|
-| Slotting/Joinen auf Server      | ab 18:30 Uhr  |
+| Slotten/Joinen auf Server       | ab 18:30 Uhr  |
 | Führungsbesprechung             | 19:00 Uhr     |
-| **sofort Missionsstart**        | **19:30 Uhr** |
+| **Missionsstart/Ausrücken**     | **19:30 Uhr** |
 | Missionsende                    | 23:00 Uhr     |
 | Gruppenintern Feedback sammeln  | bis 23:30 Uhr |
 | Gesamter Missionsfeedback in TS | ab 23:30 Uhr  |
@@ -117,6 +112,8 @@ Die folgenden Uhrzeiten sind noch zu bestätigen.
 
 * Nach jeder Mission besprechen sich die Gruppen/Squads zunächst intern. Anschließend können die Ergebnisse dieser
   Besprechung von einem selbst gewählten Vertreter in der großen Runde mit allen Spielern vorgestellt werden.
+* Für Mission 2 am Samstagnachmittag ist keine Nachbesprechung geplant. Bitte schickt euer Feedback direkt an
+  **Bele** oder den **Company Commander**.
 
 * Es gibt eine **kleine** Umfrage für alle Teilnehmer nach jeder Mission. Wir freuen uns über euer ehrliches Feedback.
 

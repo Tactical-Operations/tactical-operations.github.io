@@ -7,7 +7,7 @@ title: TacOps 3 - Clear Sky - Briefing
 
 ## Allgemeine Situation
 
-{% include_relative briefing-situation-pre-evaluation-event.md %}
+{% include_relative briefing-situation-pre-vorevent.md %}
 
 **Freitag, 11.09.2026:** Zeitpunkt des Vorevents
 
@@ -85,6 +85,8 @@ coming soon ...
 
 #### Kartenmaterial
 
-coming soon ...
+<div markdown="1">
+<iframe src="https://maps.plan-ops.fr/ViewMap/56024?t=TRhPfF7zllWMeDdpgj__Z_FHNn1BTBOrmjcFGyZE810" style="width:100%;height:80vh;border:0;" />
+</div>
 
 ---

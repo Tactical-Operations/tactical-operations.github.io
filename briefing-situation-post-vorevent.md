@@ -1,4 +1,4 @@
-{% include_relative briefing-situation-pre-evaluation-event.md %}
+{% include_relative briefing-situation-pre-vorevent.md %}
 
 **Vor 2 Wochen:**
 Die CSAT-Truppen haben den Mull of Kintyre genommen und beginnen damit den Bereich zu befestigen.
