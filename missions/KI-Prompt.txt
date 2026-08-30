@@ -1,0 +1,7 @@
+Für die Slotliste mache ich aktuell eine Umfrage um Vorab Slots vergeben zu können.
+Jede Gruppe kann für Mission 1, Mission 2, Mission 3, jeweils Priorität 1, Priorität 2 und Prorität 3 angeben.
+Den HTML Export der Slotlisten für die verschiedenen Missionen findest du unter <project-root/missions.
+Für diese Aufgabe kannst du den HTML export editieren um die Kürzel der Gruppe (für die Slotliste) einzutragen.
+Deine Aufgabe: Schlage eine Strategie vor um möglichst viele Gruppen für die jeweilie Mission auf ihre höchste Priorität zu slotten.
+
+Anbei der aktuelle Stand der Umfrage, damit wir das jetzt schonmal grob evaluieren können.
