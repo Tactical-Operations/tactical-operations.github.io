@@ -9,11 +9,11 @@ title: TacOps 3 - Clear Sky - Briefing
 
 {% include_relative briefing-situation-pre-vorevent.md %}
 
-**Freitag, 11.09.2026:** Zeitpunkt des Vorevents
+**Bisheriger Termin des Vorevents:** ~~Freitag, 11.09.2026~~ **Wird verschoben**
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Freitagabend      | 11.09.2026    |
+| Ablauf \- Freitagabend      | ~~11.09.2026~~ **Wird verschoben** |
 |-----------------------------|:--------------|
 | Slotting/Joinen auf Server  | ab 18:00 Uhr  |
 | Führungsbesprechung ingame  | 18:30 Uhr     |
@@ -71,7 +71,7 @@ coming soon ...
 
 #### **Missionabschluss in Nachbesprechung im TeamSpeak**  
 
-| Ablauf \- Freitagabend          | 11.09.2026    |
+| Ablauf \- Freitagabend          | ~~11.09.2026~~ **Wird verschoben** |
 |---------------------------------|:--------------|
 | Missionsende                    | 23:00 Uhr     |
 | Gruppenintern Feedback sammeln  | bis 23:30 Uhr |

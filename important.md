@@ -26,18 +26,18 @@ Kommunikation: ACRE2
 * **Jeder** kann sich anmelden, Details findest du unter [Anmeldung](./enrolment.html).
 
 ## 🗡️ Vorevent
-**Wann:** Freitag, 11.09.2026, siehe [Termine](./schedule.html).
+**Wann:** ~~Freitag, 11.09.2026~~ **Wird verschoben** – siehe [Termine](./schedule.html).
 
-**Anmeldung ab:** Sonntag, 30.08.2026, 19:00 Uhr.
+**Anmeldung ab:** ~~Sonntag, 30.08.2026, 19:00 Uhr~~ **Wird verschoben**.
 
 **Medizinisches System:** ACE Medical 
 
 ## ⚔️ Hauptevent
-**Wann:** Freitag, 25.09.2026 und Samstag, 26.09.2026, siehe [Termine](./schedule.html).
+**Wann:** ~~Freitag, 25.09.2026 und Samstag, 26.09.2026~~ **Wird verschoben** – siehe [Termine](./schedule.html).
 
 **Missionen:** Freitagabend sowie Samstagnachmittag und Samstagabend.
 
-**Anmeldung ab:** Sonntag, 13.09.2026, 19:00 Uhr.
+**Anmeldung ab:** ~~Sonntag, 13.09.2026, 19:00 Uhr~~ **Wird verschoben**.
 
 **Medizinisches System:** ACE Medical 
 

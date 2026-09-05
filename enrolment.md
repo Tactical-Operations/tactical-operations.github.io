@@ -32,20 +32,21 @@ Anmeldungen für die Übungstermine sind nicht nötig.
 Betreffende Personen erscheinen selbstständig – falls ihr euch nicht sicher seid, fragt einfach
 im [Discord #chat](https://discord.com/channels/1230998538926952578/1230998539388190792).
 
-## Vorevent – Freitag, 11.09.2026
+## Vorevent – ~~Freitag, 11.09.2026~~ **Wird verschoben**
 
-Das Vorevent findet am **Freitag, dem 11.09.2026**, statt, siehe [Termine](./schedule.html).
-Die Anmeldung öffnet am **Sonntag, dem 30.08.2026, um 19:00 Uhr**.
+**Bisheriger Termin des Vorevents:** ~~Freitag, 11.09.2026~~ **Wird verschoben** – siehe [Termine](./schedule.html).
+**Bisheriger Anmeldestart:** ~~Sonntag, 30.08.2026, 19:00 Uhr~~ **Wird verschoben**.
 
 * [Slotliste für das Vorevent](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
-## Hauptevent – Freitag, 25.09.2026 und Samstag, 26.09.2026
+## Hauptevent – ~~Freitag, 25.09.2026 und Samstag, 26.09.2026~~ **Wird verschoben**
 
-Die Anmeldung öffnet am **Sonntag, dem 13.09.2026, um 19:00 Uhr**. Bestätigt sind folgende Missionsschichten:
+**Bisheriger Anmeldestart:** ~~Sonntag, 13.09.2026, 19:00 Uhr~~ **Wird verschoben**. Vorgesehen waren folgende
+Missionsschichten:
 
-* Mission 1: **Freitagabend, 25.09.2026**
-* Mission 2: **Samstagnachmittag, 26.09.2026**
-* Mission 3: **Samstagabend, 26.09.2026**
+* Mission 1: ~~Freitagabend, 25.09.2026~~ **Wird verschoben**
+* Mission 2: ~~Samstagnachmittag, 26.09.2026~~ **Wird verschoben**
+* Mission 3: ~~Samstagabend, 26.09.2026~~ **Wird verschoben**
 
 ## Slotliste
 

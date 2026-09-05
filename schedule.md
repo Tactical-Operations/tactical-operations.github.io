@@ -16,12 +16,12 @@ Folgende Übungstermine werden angesetzt:
 
 * Einspieltermin für den Air-Stack: Termin wird noch veröffentlicht
 
-## Vorevent – Freitag, 11.09.2026
+## Vorevent – ~~Freitag, 11.09.2026~~ **Wird verschoben**
 
-Die Anmeldung für das Vorevent öffnet am **Sonntag, dem 30.08.2026, um 19:00 Uhr**. Weitere Informationen findest
-du unter [Anmeldung](./enrolment.html).
+**Bisheriger Anmeldestart:** ~~Sonntag, 30.08.2026, 19:00 Uhr~~ **Wird verschoben**. Weitere Informationen findest du
+unter [Anmeldung](./enrolment.html).
 
-Das Vorevent findet am **Freitag, dem 11.09.2026**, statt.
+**Bisheriger Termin des Vorevents:** ~~Freitag, 11.09.2026~~ **Wird verschoben**.
 
 Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Showstopper identifizieren.
 
@@ -31,7 +31,7 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Freitagabend          | 11.09.2026    |
+| Ablauf \- Freitagabend          | ~~11.09.2026~~ **Wird verschoben** |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
 | Führungsbesprechung ingame      | 18:30 Uhr     |
@@ -47,26 +47,26 @@ Ziel ist: Führungsstruktur kennenlernen, Prozesse erproben und verbessern, Show
 
 * Es gibt eine **kleine** Umfrage für alle Teilnehmer nach jeder Mission. Wir freuen uns über euer ehrliches Feedback.
 
-## Hauptevent – Freitag, 25.09.2026 und Samstag, 26.09.2026
+## Hauptevent – ~~Freitag, 25.09.2026 und Samstag, 26.09.2026~~ **Wird verschoben**
 
-Die Anmeldung für das Hauptevent öffnet am **Sonntag, dem 13.09.2026, um 19:00 Uhr**. Weitere Informationen findest
-du unter [Anmeldung](./enrolment.html).
+**Bisheriger Anmeldestart:** ~~Sonntag, 13.09.2026, 19:00 Uhr~~ **Wird verschoben**. Weitere Informationen findest du
+unter [Anmeldung](./enrolment.html).
 
-Für das Hauptevent sind drei Missionsschichten bestätigt:
+Für das Hauptevent waren drei Missionsschichten vorgesehen:
 
-* Mission 1: **Freitagabend, 25.09.2026**
-* Mission 2: **Samstagnachmittag, 26.09.2026**
-* Mission 3: **Samstagabend, 26.09.2026**
+* Mission 1: ~~Freitagabend, 25.09.2026~~ **Wird verschoben**
+* Mission 2: ~~Samstagnachmittag, 26.09.2026~~ **Wird verschoben**
+* Mission 3: ~~Samstagabend, 26.09.2026~~ **Wird verschoben**
 
 Ziel ist es, Spaß zu haben.
 
 * [Slotliste für alle Missionsschichten](https://docs.google.com/spreadsheets/d/1blxybP3YgEXM9ZhzFmOaMcyy3UEmG83vIfIpTmjNAsw/edit?usp=sharing)
 
-### Mission 1 – Freitagabend, 25.09.2026
+### Mission 1 – ~~Freitagabend, 25.09.2026~~ **Wird verschoben**
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Freitagabend          | 25.09.2026    |
+| Ablauf \- Freitagabend          | ~~25.09.2026~~ **Wird verschoben** |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:00 Uhr  |
 | Führungsbesprechung ingame      | 18:30 Uhr     |
@@ -78,11 +78,11 @@ Ziel ist es, Spaß zu haben.
 
 </div>
 
-### Mission 2 – Samstagnachmittag, 26.09.2026
+### Mission 2 – ~~Samstagnachmittag, 26.09.2026~~ **Wird verschoben**
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstagnachmittag | 26.09.2026   |
+| Ablauf \- Samstagnachmittag | ~~26.09.2026~~ **Wird verschoben** |
 |------------------------------|:-------------|
 | Slotten/Joinen auf Server    | ab 11:00 Uhr |
 | Führungsbesprechung ingame   | 11:30 Uhr    |
@@ -93,11 +93,11 @@ Ziel ist es, Spaß zu haben.
 
 > Nach Missionsende findet ein technischer Serverneustart statt.
 
-### Mission 3 – Samstagabend, 26.09.2026
+### Mission 3 – ~~Samstagabend, 26.09.2026~~ **Wird verschoben**
 
 <div markdown="1" class="table-blue">
 
-| Ablauf \- Samstagabend          | 26.09.2026    |
+| Ablauf \- Samstagabend          | ~~26.09.2026~~ **Wird verschoben** |
 |---------------------------------|:--------------|
 | Slotten/Joinen auf Server       | ab 18:30 Uhr  |
 | Führungsbesprechung             | 19:00 Uhr     |

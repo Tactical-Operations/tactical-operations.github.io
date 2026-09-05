@@ -9,7 +9,7 @@ title: TacOps 3 - Clear Sky - Briefing Mission 3
 
 {% include_relative briefing-situation-post-vorevent.md %}
 
-**Samstag, 26.09.2026:** Mission 3 am Abend
+**Bisheriger Termin für Mission 3:** ~~Samstag, 26.09.2026~~ **Wird verschoben**
 
 # LADEF - Mission 3
 
